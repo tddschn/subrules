@@ -1,0 +1,11 @@
+---
+port: 378390
+socks-port: 37891
+redir-port: 37892
+allow-lan: false
+mode: Rule
+log-level: info
+external-controller: 127.0.0.1:39090
+experimental:
+  ignore-resolve-fail: true
+

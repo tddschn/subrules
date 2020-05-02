@@ -1,0 +1,11 @@
+---
+port: 178190
+socks-port: 17891
+redir-port: 17892
+allow-lan: false
+mode: Rule
+log-level: info
+external-controller: 127.0.0.1:19090
+experimental:
+  ignore-resolve-fail: true
+
