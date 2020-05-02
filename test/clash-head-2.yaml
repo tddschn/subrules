@@ -1,5 +1,5 @@
 ---
-port: 278290
+port: 27890
 socks-port: 27891
 redir-port: 27892
 allow-lan: false
