@@ -29,9 +29,9 @@ dns:
     #- https://13800000000.rubyfish.cn/
      
   fallback: # 与 nameserver 内的服务器列表同时发起请求，当规则符合 GEOIP 在 CN 以外时，fallback 列表内的域名服务器生效。
+    - tls://1.0.0.1:853
     - tls://dns.adguard.com
     # - tls://13800000000.rubyfish.cn:853
-    - tls://1.0.0.1:853
     # - tls://dns.google:853
 
     #- https://13800000000.rubyfish.cn/
