@@ -19,8 +19,9 @@ dns:
     - 114.114.114.114
     - tcp://1.1.1.1
   fallback: # concurrent request with nameserver, fallback used when GEOIP country isn't CN
-    - tls://dns.rubyfish.cn:853 # dns over tls
+    - 127.0.0.1
     - https://1.1.1.1/dns-query # dns over https
+    # - tls://dns.rubyfish.cn:853 # dns over tls
   fallback-filter:
     geoip: true # default
     ipcidr: # ips in these subnets will be considered polluted
