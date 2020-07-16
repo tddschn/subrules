@@ -11,6 +11,15 @@ dns:
   ipv6: false
   listen: 0.0.0.0:1053
   enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16 # if you don't know what it is, don't change it
   nameserver:
-    - 119.29.29.29
-    - 223.5.5.5
+    - 114.114.114.114
+    - tcp://1.1.1.1
+  fallback: # concurrent request with nameserver, fallback used when GEOIP country isn't CN
+    - 127.0.0.1
+    - https://1.1.1.1/dns-query # dns over https
+    # - tls://dns.rubyfish.cn:853 # dns over tls
+  fallback-filter:
+    geoip: true # default
+    ipcidr: # ips in these subnets will be considered polluted
+      - 240.0.0.0/4
