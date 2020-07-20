@@ -1,0 +1,4 @@
+[[rules]]
+    description = "Dler Node Names"
+    regex = '''(IPLC|BGP|香港|高级|标准|新加坡|美国|日本)'''
+    tags = ["Dler", "Nodes"]
