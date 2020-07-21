@@ -7,7 +7,9 @@ mode: Rule
 log-level: silent
 external-controller: 127.0.0.1:9090
 # external-ui: Dashboard
-external-ui: Dashboard/yacd-gh-pages
+# external-ui: Dashboard/yacd-gh-pages
+external-ui: /sdcard/Android/data/com.github.kr328.clash/Dashboard/yacd-gh-pages
+
 dns:
   enable: true
   ipv6: false
