@@ -9,4 +9,5 @@ external-controller: 127.0.0.1:9090
 external-ui: "dashboard"
 experimental:
   ignore-resolve-fail: true
-
+clash-for-android:
+  ui-subtitle-pattern: '[一-龥]{2,4}'
