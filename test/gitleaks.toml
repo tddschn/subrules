@@ -1,4 +1,7 @@
 [[rules]]
-    description = "Dler Node Names"
-    regex = '''(dler\.cloud|IPLC|BGP|香港|高级|标准|新加坡|美国|日本)'''
-    tags = ["Dler", "Nodes"]
+  description = "entropy and regex example"
+  # regex = '''secret(.{0,20})['|"]([0-9a-zA-Z-._{}$\/\+=]{20,120})['|"]'''
+  regex = '''dler.cloud/[0-9a-zA-Z-._{}$\/\+=]{15,20}'''
+  [[rules.Entropies]]
+	Min = "4"
+        Max = "8.0"
