@@ -1,2 +1,3 @@
 # sspai & cdn.sspai.com (images don't load well using DIRECT)
-DOMAIN-SUFFIX,sspai.com
+# commented out sspai bcz of loading issues with ctm 03
+# DOMAIN-SUFFIX,sspai.com
