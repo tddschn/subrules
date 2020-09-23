@@ -1,0 +1,5 @@
+- DOMAIN-SUFFIX, onion, socks5 9050
+- DOMAIN-KEYWORD, chaoxing.com, DIRECT
+- DOMAIN-KEYWORD, zhihuishu.com, DIRECT
+# - DOMAIN-SUFFIX, chaoxing.com, DIRECT
+# - DOMAIN-SUFFIX, zhihuishu.com, DIRECT

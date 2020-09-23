@@ -1,4 +1,8 @@
-- DOMAIN-SUFFIX, onion, socks5 9050
+# !!! proxy named "socks5 9050" cannot be provided with custom url
+# and causes clash for android profile update issue.
+# and therefore it's removed.
+#
+# - DOMAIN-SUFFIX, onion, socks5 9050
 - DOMAIN-KEYWORD, chaoxing.com, DIRECT
 - DOMAIN-KEYWORD, zhihuishu.com, DIRECT
 # - DOMAIN-SUFFIX, chaoxing.com, DIRECT
