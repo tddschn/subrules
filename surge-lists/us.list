@@ -2,3 +2,6 @@
 ## CL: if zh is in accepted langs, you'll still be redirected to the shanghai CL in zh.
 ## try it in incognito mode
 DOMAIN-SUFFIX,craigslist.org
+
+# google tables, currently only available in the US.
+DOMAIN,tables.area120.google.com
