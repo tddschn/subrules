@@ -1,2 +1,2 @@
 gea:
-	gitleaks --repo-path .. -v --config gitleaks.toml
+	gitleaks --repo-path .. -v --config ../gitleaks.toml
