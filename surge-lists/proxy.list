@@ -4,3 +4,6 @@
 
 DOMAIN-KEYWORD,data-analysis
 DOMAIN-KEYWORD,python
+
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amazon.com
