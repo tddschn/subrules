@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazon.com
 
 DOMAIN-SUFFIX,eclipse.org
+
+DOMAIN-SUFFIX,jsdelivr.net
