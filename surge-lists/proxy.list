@@ -11,3 +11,6 @@ DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,eclipse.org
 
 DOMAIN-SUFFIX,jsdelivr.net
+
+# news
+DOMAIN-SUFFIX,cnbc.com
