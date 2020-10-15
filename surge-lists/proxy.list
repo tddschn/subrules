@@ -17,6 +17,8 @@ DOMAIN-SUFFIX,apple.com.cn
 
 # hashicorp
 DOMAIN-SUFFIX,hashicorp.com
+DOMAIN-KEYWORD,hashicorp
+DOMAIN-SUFFIX,boundaryproject.io
 
 # github
 DOMAIN-SUFFIX,github.com
