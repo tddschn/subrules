@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,eclipse.org
 
 DOMAIN-SUFFIX,jsdelivr.net
 
+# apple
+DOMAIN-SUFFIX,apple.com.cn
+
 # github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
