@@ -15,6 +15,9 @@ DOMAIN-SUFFIX,jsdelivr.net
 # apple
 DOMAIN-SUFFIX,apple.com.cn
 
+# hashicorp
+DOMAIN-SUFFIX,hashicorp.com
+
 # github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
