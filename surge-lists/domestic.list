@@ -1,5 +1,8 @@
 # ipip.net
 # used with curl
 DOMAIN,myip.ipip.net
+#
+# doesn't work well
+# weird behabior: slow loading, some parts not loaded
 DOMAIN-SUFFIX,kmf.com
 
