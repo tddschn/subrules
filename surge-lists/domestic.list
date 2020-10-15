@@ -1,4 +1,5 @@
 # ipip.net
 # used with curl
 DOMAIN,myip.ipip.net
+DOMAIN-SUFFIX,kmf.com
 
