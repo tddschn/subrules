@@ -13,4 +13,6 @@ DOMAIN-SUFFIX,eclipse.org
 DOMAIN-SUFFIX,jsdelivr.net
 
 # news
+## > cnbc
 DOMAIN-SUFFIX,cnbc.com
+DOMAIN-SUFFIX,cnbcfm.com # images
