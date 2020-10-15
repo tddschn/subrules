@@ -12,6 +12,12 @@ DOMAIN-SUFFIX,eclipse.org
 
 DOMAIN-SUFFIX,jsdelivr.net
 
+# github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,victorlee.me
+DOMAIN-SUFFIX,teddysc.rocks
+
 # news
 ## > cnbc
 DOMAIN-SUFFIX,cnbc.com
