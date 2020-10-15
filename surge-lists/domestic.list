@@ -4,5 +4,5 @@ DOMAIN,myip.ipip.net
 #
 # doesn't work well
 # weird behabior: slow loading, some parts not loaded
-DOMAIN-SUFFIX,kmf.com
+# DOMAIN-SUFFIX,kmf.com
 
