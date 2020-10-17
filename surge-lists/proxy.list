@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,amazon.com
 
 # CDN
 DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,googleapis.com
 
 # apple
 DOMAIN-SUFFIX,apple.com.cn
