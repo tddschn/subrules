@@ -3,13 +3,16 @@
 # DOMAIN-SUFFIX,sspai.com
 
 DOMAIN-KEYWORD,data-analysis
-DOMAIN-KEYWORD,python
 
+# python
+DOMAIN-KEYWORD,python
+DOMAIN-SUFFIX,pypi.org
+
+# amazon
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazon.com
 
-DOMAIN-SUFFIX,eclipse.org
-
+# CDN
 DOMAIN-SUFFIX,jsdelivr.net
 
 # apple
@@ -31,3 +34,11 @@ DOMAIN-SUFFIX,teddysc.rocks
 ## > cnbc
 DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cnbcfm.com # images
+
+
+
+
+
+# fixing lhie1/Rules
+DOMAIN-SUFFIX,eclipse.org
+
