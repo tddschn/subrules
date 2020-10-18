@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,data-analysis
 # python
 DOMAIN-KEYWORD,python
 DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pythonhosted.org
 
 # amazon
 DOMAIN-SUFFIX,amazonaws.com
