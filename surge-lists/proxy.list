@@ -32,6 +32,14 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,victorlee.me
 DOMAIN-SUFFIX,teddysc.rocks
 
+# gitlab
+DOMAIN-SUFFIX,gitlab.com
+
+# atlassian
+## bitbucket
+DOMAIN-SUFFIX,bitbucket.org
+
+
 # news
 ## > cnbc
 DOMAIN-SUFFIX,cnbc.com
