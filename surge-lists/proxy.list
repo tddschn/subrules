@@ -39,6 +39,8 @@ DOMAIN-SUFFIX,gitlab.com
 ## bitbucket
 DOMAIN-SUFFIX,bitbucket.org
 
+# homebrew
+DOMAIN-SUFFIX,brew.sh
 
 # news
 ## > cnbc
