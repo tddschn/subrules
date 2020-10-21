@@ -48,6 +48,8 @@ DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cnbcfm.com # images
 
 
+# bitwarden
+DOMAIN-SUFFIX,bitwarden.com
 
 
 
