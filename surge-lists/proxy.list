@@ -51,6 +51,10 @@ DOMAIN-SUFFIX,cnbcfm.com # images
 # bitwarden
 DOMAIN-SUFFIX,bitwarden.com
 
+# twilio & authy
+DOMAIN-SUFFIX,twilio.com
+DOMAIN-SUFFIX,authy.com
+
 
 
 # fixing lhie1/Rules
