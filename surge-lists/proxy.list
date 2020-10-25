@@ -35,9 +35,13 @@ DOMAIN-SUFFIX,teddysc.rocks
 # gitlab
 DOMAIN-SUFFIX,gitlab.com
 
+
 # atlassian
+DOMAIN-SUFFIX,atlassian.com
+
 ## bitbucket
 DOMAIN-SUFFIX,bitbucket.org
+
 
 # homebrew
 DOMAIN-SUFFIX,brew.sh
