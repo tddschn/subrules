@@ -61,3 +61,8 @@ DOMAIN-SUFFIX,authy.com
 DOMAIN-SUFFIX,eclipse.org
 DOMAIN-SUFFIX,dler.cloud
 
+## trello
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,trellocdn.com
+
+
