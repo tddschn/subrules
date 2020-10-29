@@ -61,6 +61,20 @@ DOMAIN-SUFFIX,authy.com
 
 
 
+# codecademy
+DOMAIN-SUFFIX,codecademy.com
+
+
+
+
+
+
+
+
+
+
+
+
 # fixing lhie1/Rules
 DOMAIN-SUFFIX,eclipse.org
 DOMAIN-SUFFIX,dler.cloud
