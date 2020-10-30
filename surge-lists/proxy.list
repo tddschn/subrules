@@ -30,11 +30,14 @@ DOMAIN-SUFFIX,waypointproject.io
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,github.dev
+DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,victorlee.me
 DOMAIN-SUFFIX,teddysc.rocks
 
 # gitlab
 DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
+DOMAIN-KEYWORD,gitlab
 
 
 # atlassian
