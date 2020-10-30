@@ -87,4 +87,6 @@ DOMAIN-SUFFIX,dler.cloud
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,trellocdn.com
 
-
+## github codespaces
+# windows.net is in Special.list
+DOMAIN-SUFFIX,windows.net
