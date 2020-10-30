@@ -90,3 +90,9 @@ DOMAIN-SUFFIX,trellocdn.com
 ## github codespaces
 # windows.net is in Special.list
 DOMAIN-SUFFIX,windows.net
+
+## google mtalk
+# https://www.reddit.com/r/privacy/comments/f5ifmd/android_randomly_connects_to_mtalkgooglecom/
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,google
+DOMAIN-KEYWORD,google
