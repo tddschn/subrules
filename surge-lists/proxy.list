@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,waypointproject.io
 # github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,victorlee.me
 DOMAIN-SUFFIX,teddysc.rocks
 
