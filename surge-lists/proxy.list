@@ -1,3 +1,7 @@
+# add bitwarden & authy to Proxy group
+PROCESS-NAME,/Applications/Bitwarden.app/Contents/MacOS/Bitwarden,Proxy
+PROCESS-NAME,/Applications/Authy Desktop.app/Contents/MacOS/Authy Desktop,Proxy
+
 # sspai & cdn.sspai.com (images don't load well using DIRECT)
 # commented out sspai bcz of loading issues with ctm 03
 # DOMAIN-SUFFIX,sspai.com
