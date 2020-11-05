@@ -8,7 +8,8 @@ PROCESS-NAME,/Applications/Authy Desktop.app/Contents/Frameworks/Authy Desktop H
 
 # sspai & cdn.sspai.com (images don't load well using DIRECT)
 # commented out sspai bcz of loading issues with ctm 03
-# DOMAIN-SUFFIX,sspai.com
+# waiting for cache forever in google chrome on mac, using global proxy solved this issue (cdn.sspai.com, image)
+DOMAIN-SUFFIX,sspai.com
 
 DOMAIN-KEYWORD,data-analysis
 
