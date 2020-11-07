@@ -1,9 +1,12 @@
-# add bitwarden & authy to Proxy group
+# bitwarden
 PROCESS-NAME,/Applications/Bitwarden.app/Contents/MacOS/Bitwarden
 
+# authy
 PROCESS-NAME,/Applications/Authy Desktop.app/Contents/MacOS/Authy Desktop
 PROCESS-NAME,/Applications/Authy Desktop.app/Contents/Frameworks/Authy Desktop Helper.app/Contents/MacOS/Authy Desktop Helper
 
+# tor browser
+PROCESS-NAME,/Applications/Tor Browser.app/Contents/MacOS/Tor/tor.real
 
 
 # sspai & cdn.sspai.com (images don't load well using DIRECT)
