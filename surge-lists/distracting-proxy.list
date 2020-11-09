@@ -1,0 +1,15 @@
+# social media
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,twitter.com
+
+# streaming
+DOMAIN-SUFFIX,netflix.com
+
+# github & github pages
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+
+# hacker news
+DOMAIN-SUFFIX,news.ycombinator.com
+DOMAIN-SUFFIX,news.ycombinator.com
+
