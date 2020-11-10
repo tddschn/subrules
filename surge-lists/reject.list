@@ -1,2 +1,5 @@
 # block canva mlcn site (fix iOS issue)
 DOMAIN-SUFFIX,canva.cn
+
+# ads
+DOMAIN-SUFFIX,promotion.happy12138.top
