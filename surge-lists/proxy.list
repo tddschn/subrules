@@ -113,3 +113,6 @@ DOMAIN-KEYWORD,google
 # chess.com
 ## chess analysis
 DOMAIN-SUFFIX,analysis.chess.com
+
+# personal sites
+DOMAIN-SUFFIX,skk.moe
