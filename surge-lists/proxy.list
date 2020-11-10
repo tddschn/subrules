@@ -108,3 +108,8 @@ DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,google
 DOMAIN-KEYWORD,google
+
+
+# chess.com
+## chess analysis
+DOMAIN-SUFFIX,analysis.chess.com
