@@ -6,3 +6,8 @@ DOMAIN,myip.ipip.net
 # weird behabior: slow loading, some parts not loaded
 # DOMAIN-SUFFIX,kmf.com
 
+
+# fix zhihu 
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+
