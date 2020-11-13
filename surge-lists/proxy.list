@@ -120,3 +120,8 @@ DOMAIN-SUFFIX,skk.moe
 
 # ali
 DOMAIN-SUFFIX,alipayobjects.com
+
+# reddit fix
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
