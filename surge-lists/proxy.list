@@ -161,6 +161,9 @@ DOMAIN-SUFFIX,cambridge.org
 DOMAIN-SUFFIX,etymonline.com
 DOMAIN-SUFFIX,collinsdictionary.com
 
+# foursquare
+DOMAIN-SUFFIX,foursquare.com
+
 # markk---
 ## unclear sites
 DOMAIN-SUFFIX,aaxads.com
