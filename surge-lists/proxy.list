@@ -8,6 +8,12 @@ PROCESS-NAME,/Applications/Authy Desktop.app/Contents/Frameworks/Authy Desktop H
 # tor browser
 PROCESS-NAME,/Applications/Tor Browser.app/Contents/MacOS/Tor/tor.real
 
+# notion
+PROCESS-NAME,/Applications/Notion.app/Contents/MacOS/Notion
+
+# lulu
+PROCESS-NAME,/Applications/LuLu.app/Contents/MacOS/LuLu
+
 
 # sspai & cdn.sspai.com (images don't load well using DIRECT)
 # commented out sspai bcz of loading issues with ctm 03
