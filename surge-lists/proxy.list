@@ -14,6 +14,9 @@ PROCESS-NAME,/Applications/Notion.app/Contents/MacOS/Notion
 # lulu
 PROCESS-NAME,/Applications/LuLu.app/Contents/MacOS/LuLu
 
+# vscode
+PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper
+
 
 # sspai & cdn.sspai.com (images don't load well using DIRECT)
 # commented out sspai bcz of loading issues with ctm 03
