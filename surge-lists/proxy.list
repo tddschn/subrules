@@ -102,7 +102,12 @@ DOMAIN-SUFFIX,codecademy.com
 
 # fixing lhie1/Rules
 DOMAIN-SUFFIX,eclipse.org
+
+## dlercloud
 DOMAIN-SUFFIX,dler.cloud
+DOMAIN-SUFFIX,dlercloud.com
+DOMAIN-SUFFIX,dlercloud.net
+
 
 ## trello
 DOMAIN-SUFFIX,trello.com
