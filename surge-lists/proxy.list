@@ -132,3 +132,9 @@ DOMAIN-SUFFIX,objective-see.com
 
 # sentry
 DOMAIN-SUFFIX,sentry.io
+
+# notion related
+DOMAIN-SUFFIX,loggly.com
+
+# libav
+DOMAIN-SUFFIX,libav.org
