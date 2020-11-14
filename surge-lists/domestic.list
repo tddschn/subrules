@@ -11,3 +11,6 @@ DOMAIN,myip.ipip.net
 # DOMAIN-SUFFIX,zhihu.com
 # DOMAIN-SUFFIX,zhimg.com
 
+# gitee
+DOMAIN-SUFFIX,gitee.com
+
