@@ -125,3 +125,10 @@ DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditstatic.com
+
+
+# objective-see.com
+DOMAIN-SUFFIX,objective-see.com
+
+# sentry
+DOMAIN-SUFFIX,sentry.io
