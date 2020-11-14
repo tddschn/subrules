@@ -138,6 +138,7 @@ DOMAIN-SUFFIX,alipayobjects.com
 
 # reddit fix
 DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditstatic.com
 
@@ -153,3 +154,13 @@ DOMAIN-SUFFIX,loggly.com
 
 # libav
 DOMAIN-SUFFIX,libav.org
+
+# dicts in saladict
+DOMAIN-SUFFIX,urbandictionary.com
+DOMAIN-SUFFIX,cambridge.org
+DOMAIN-SUFFIX,etymonline.com
+DOMAIN-SUFFIX,collinsdictionary.com
+
+# markk---
+## unclear sites
+DOMAIN-SUFFIX,aaxads.com
