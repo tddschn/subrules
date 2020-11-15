@@ -164,6 +164,9 @@ DOMAIN-SUFFIX,collinsdictionary.com
 # foursquare
 DOMAIN-SUFFIX,foursquare.com
 
+# remove.bg
+DOMAIN-SUFFIX,remove.bg
+
 # markk---
 ## unclear sites
 DOMAIN-SUFFIX,aaxads.com
