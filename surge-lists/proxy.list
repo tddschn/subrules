@@ -176,5 +176,8 @@ DOMAIN-SUFFIX,procreate.art
 DOMAIN-SUFFIX,akamaiedge.net
 
 # markk---
+## sites should be using proxy
+DOMAIN-SUFFIX,embed.ly
+
 ## unclear sites
 DOMAIN-SUFFIX,aaxads.com
