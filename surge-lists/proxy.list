@@ -131,6 +131,7 @@ DOMAIN-SUFFIX,analysis.chess.com
 
 # personal sites
 DOMAIN-SUFFIX,skk.moe
+DOMAIN-SUFFIX,andrewdenty.com
 
 
 # ali
@@ -175,9 +176,24 @@ DOMAIN-SUFFIX,procreate.art
 ## used by Dictionary.app
 DOMAIN-SUFFIX,akamaiedge.net
 
+# SE
+DOMAIN-SUFFIX,stackexchange.com
+
+# dark reader
+DOMAIN-SUFFIX,darkreader.org
+
+# cult of mac
+DOMAIN-SUFFIX,cultofmac.com
+
 # markk---
 ## sites should be using proxy
+### embed.ly
 DOMAIN-SUFFIX,embed.ly
+
+### contextly
+DOMAIN-SUFFIX,contextly.com
+DOMAIN-SUFFIX,context.ly
+
 
 ## unclear sites
 DOMAIN-SUFFIX,aaxads.com
