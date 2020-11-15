@@ -76,6 +76,7 @@ DOMAIN-SUFFIX,amazon.com
 
 # apple
 DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,apple.com
 
 # hashicorp
 DOMAIN-SUFFIX,hashicorp.com
