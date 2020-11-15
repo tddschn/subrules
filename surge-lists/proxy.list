@@ -181,8 +181,14 @@ DOMAIN-SUFFIX,akamaiedge.net
 # SE
 DOMAIN-SUFFIX,stackexchange.com
 
+# ---------------
+# tools---
+# ---------------
 # dark reader
 DOMAIN-SUFFIX,darkreader.org
+
+# maxmind mmdb
+DOMAIN-SUFFIX,maxmind.com
 
 # ---------------
 # contents---
