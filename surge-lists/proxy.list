@@ -168,6 +168,12 @@ DOMAIN-SUFFIX,sentry.io
 
 # notion related
 DOMAIN-SUFFIX,loggly.com
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,notion.so
+# DOMAIN-SUFFIX,amazonaws.com
 
 # libav
 DOMAIN-SUFFIX,libav.org
