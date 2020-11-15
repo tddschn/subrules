@@ -1,3 +1,6 @@
+# ---------------
+# apps----
+# ---------------
 # bitwarden
 PROCESS-NAME,/Applications/Bitwarden.app/Contents/MacOS/Bitwarden
 
@@ -18,6 +21,43 @@ PROCESS-NAME,/Applications/LuLu.app/Contents/MacOS/LuLu
 PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper
 
 
+
+
+
+
+
+
+# ---------------
+# personal---- sites
+# ---------------
+DOMAIN-SUFFIX,skk.moe
+DOMAIN-SUFFIX,andrewdenty.com
+
+
+# ---------------
+# patches--- fix lhie1/Rules
+# ---------------
+# ali
+## fix aliwangwang dl speed
+DOMAIN-SUFFIX,alipayobjects.com
+
+# reddit fix
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+
+
+# ---------------
+# apps--- , projects---- & services---
+# ---------------
+### embed.ly
+DOMAIN-SUFFIX,embed.ly
+
+### contextly
+DOMAIN-SUFFIX,contextly.com
+DOMAIN-SUFFIX,context.ly
+
 # sspai & cdn.sspai.com (images don't load well using DIRECT)
 # commented out sspai bcz of loading issues with ctm 03
 # waiting for cache forever in google chrome on mac, using global proxy solved this issue (cdn.sspai.com, image)
@@ -33,10 +73,6 @@ DOMAIN-SUFFIX,pythonhosted.org
 # amazon
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazon.com
-
-# CDN
-DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,googleapis.com
 
 # apple
 DOMAIN-SUFFIX,apple.com.cn
@@ -94,13 +130,7 @@ DOMAIN-SUFFIX,codecademy.com
 
 
 
-
-
-
-
-
-
-# fixing lhie1/Rules
+# eclipse
 DOMAIN-SUFFIX,eclipse.org
 
 ## dlercloud
@@ -128,21 +158,6 @@ DOMAIN-KEYWORD,google
 # chess.com
 ## chess analysis
 DOMAIN-SUFFIX,analysis.chess.com
-
-# personal sites
-DOMAIN-SUFFIX,skk.moe
-DOMAIN-SUFFIX,andrewdenty.com
-
-
-# ali
-DOMAIN-SUFFIX,alipayobjects.com
-
-# reddit fix
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,redd.it
-DOMAIN-SUFFIX,redditmedia.com
-DOMAIN-SUFFIX,redditstatic.com
-
 
 # objective-see.com
 DOMAIN-SUFFIX,objective-see.com
@@ -173,13 +188,21 @@ DOMAIN-SUFFIX,procreate.art
 ## savage interactive, the company behind procreate
 DOMAIN-SUFFIX,savage.si 
 
+# SE
+DOMAIN-SUFFIX,stackexchange.com
+
+# magicplan
+DOMAIN-SUFFIX,magicplan.app
+
+# ---------------
+# cdn----
+# ---------------
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,googleapis.com
 
 # akamai
 ## used by Dictionary.app
 DOMAIN-SUFFIX,akamaiedge.net
-
-# SE
-DOMAIN-SUFFIX,stackexchange.com
 
 # ---------------
 # tools---
@@ -221,14 +244,12 @@ DOMAIN-SUFFIX,ssl-images-amazon.com
 
 
 
-## sites should be using proxy
-### embed.ly
-DOMAIN-SUFFIX,embed.ly
 
-### contextly
-DOMAIN-SUFFIX,contextly.com
-DOMAIN-SUFFIX,context.ly
-
-
+# ---------------
+# unclear----
+# ---------------
 ## unclear sites
 DOMAIN-SUFFIX,aaxads.com
+
+
+
