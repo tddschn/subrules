@@ -184,14 +184,37 @@ DOMAIN-SUFFIX,stackexchange.com
 # dark reader
 DOMAIN-SUFFIX,darkreader.org
 
+# ---------------
 # contents---
+# ---------------
 ## cult of mac
 DOMAIN-SUFFIX,cultofmac.com
 
 ## how to geek
 DOMAIN-SUFFIX,howtogeek.com
 
+## others
+DOMAIN-SUFFIX,directindustry.com
+
+
+
 # markk---
+# ---------------
+# shopping---
+# ---------------
+# ebay---
+DOMAIN-SUFFIX,ebay.com
+DOMAIN-SUFFIX,ebaystatic.com
+DOMAIN-SUFFIX,ebayimg.com
+
+# amazon---
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,ssl-images-amazon.com
+
+
+
+
+
 ## sites should be using proxy
 ### embed.ly
 DOMAIN-SUFFIX,embed.ly
