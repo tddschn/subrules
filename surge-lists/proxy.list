@@ -170,6 +170,11 @@ DOMAIN-SUFFIX,remove.bg
 # procreate
 DOMAIN-SUFFIX,procreate.art
 
+
+# akamai
+## used by Dictionary.app
+DOMAIN-SUFFIX,akamaiedge.net
+
 # markk---
 ## unclear sites
 DOMAIN-SUFFIX,aaxads.com
