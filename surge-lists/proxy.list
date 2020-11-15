@@ -170,6 +170,8 @@ DOMAIN-SUFFIX,remove.bg
 
 # procreate
 DOMAIN-SUFFIX,procreate.art
+## savage interactive, the company behind procreate
+DOMAIN-SUFFIX,savage.si 
 
 
 # akamai
@@ -182,8 +184,12 @@ DOMAIN-SUFFIX,stackexchange.com
 # dark reader
 DOMAIN-SUFFIX,darkreader.org
 
-# cult of mac
+# contents---
+## cult of mac
 DOMAIN-SUFFIX,cultofmac.com
+
+## how to geek
+DOMAIN-SUFFIX,howtogeek.com
 
 # markk---
 ## sites should be using proxy
