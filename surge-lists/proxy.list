@@ -13,6 +13,14 @@ PROCESS-NAME,/Applications/Tor Browser.app/Contents/MacOS/Tor/tor.real
 
 # notion
 PROCESS-NAME,/Applications/Notion.app/Contents/MacOS/Notion
+## notion related
+DOMAIN-SUFFIX,loggly.com
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,notion.so
+# DOMAIN-SUFFIX,amazonaws.com
 
 # lulu
 PROCESS-NAME,/Applications/LuLu.app/Contents/MacOS/LuLu
@@ -21,6 +29,10 @@ PROCESS-NAME,/Applications/LuLu.app/Contents/MacOS/LuLu
 PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper
 
 # launchcontrol (soma-zone.com)
+DOMAIN-SUFFIX,soma-zone.com
+
+# dash
+DOMAIN-SUFFIX,kapeli.com
 
 
 
@@ -167,14 +179,6 @@ DOMAIN-SUFFIX,objective-see.com
 # sentry
 DOMAIN-SUFFIX,sentry.io
 
-# notion related
-DOMAIN-SUFFIX,loggly.com
-DOMAIN-SUFFIX,segment.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,notion.so
-# DOMAIN-SUFFIX,amazonaws.com
 
 # libav
 DOMAIN-SUFFIX,libav.org
