@@ -65,6 +65,10 @@ DOMAIN-SUFFIX,redditstatic.com
 # ---------------
 # apps--- , projects---- & services---
 # ---------------
+# markk---
+# us gov sites
+DOMAIN-SUFFIX,gov
+
 ### embed.ly
 DOMAIN-SUFFIX,embed.ly
 
@@ -240,7 +244,6 @@ DOMAIN-SUFFIX,directindustry.com
 
 
 
-# markk---
 # ---------------
 # shopping---
 # ---------------
