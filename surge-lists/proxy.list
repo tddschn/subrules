@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,soma-zone.com
 # dash
 DOMAIN-SUFFIX,kapeli.com
 
+# dictionary.app
 
 
 
@@ -176,7 +177,10 @@ DOMAIN-KEYWORD,google
 
 # chess.com
 ## chess analysis
-DOMAIN-SUFFIX,analysis.chess.com
+DOMAIN-SUFFIX,chess.com
+
+# lichess.org
+DOMAIN-SUFFIX,lichess.org
 
 # objective-see.com
 DOMAIN-SUFFIX,objective-see.com
