@@ -67,6 +67,14 @@ DOMAIN-SUFFIX,redditstatic.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,polyfill.io
+
+# algolia
+DOMAIN-KEYWORD,algolia
+DOMAIN-SUFFIX,algolianet.com
+
+
 # us gov sites
 DOMAIN-SUFFIX,gov
 
@@ -111,6 +119,11 @@ DOMAIN-SUFFIX,hashicorp.com
 DOMAIN-KEYWORD,hashicorp
 DOMAIN-SUFFIX,boundaryproject.io
 DOMAIN-SUFFIX,waypointproject.io
+
+# gitbook
+DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,gitbook.com
+DOMAIN-SUFFIX,gitbook.org
 
 # github
 DOMAIN-SUFFIX,github.com
