@@ -30,9 +30,14 @@ PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/MacOS/Electron
 PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper
 
 # launchcontrol (soma-zone.com)
+PROCESS-NAME,/Applications/LaunchControl.app/Contents/MacOS/LaunchControl
 DOMAIN-SUFFIX,soma-zone.com
 
+# twitter
+PROCESS-NAME,/Applications/Twitter.app/Contents/MacOS/Twitter
+
 # dash
+PROCESS-NAME,/Applications/Dash.app/Contents/MacOS/Dash
 DOMAIN-SUFFIX,kapeli.com
 
 # dictionary.app
