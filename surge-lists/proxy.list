@@ -73,6 +73,7 @@ DOMAIN-SUFFIX,redditstatic.com
 # ---------------
 # markk---
 DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,folivora.ai
 DOMAIN-SUFFIX,polyfill.io
 
 # algolia
