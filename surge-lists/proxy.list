@@ -70,6 +70,15 @@ DOMAIN-SUFFIX,redditstatic.com
 # us gov sites
 DOMAIN-SUFFIX,gov
 
+# us military
+DOMAIN-SUFFIX,mil
+
+# us school sites
+DOMAIN-SUFFIX,edu
+
+# other non-mlcn TLDs
+DOMAIN-SUFFIX,int
+
 ### embed.ly
 DOMAIN-SUFFIX,embed.ly
 
