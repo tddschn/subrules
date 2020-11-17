@@ -254,6 +254,7 @@ DOMAIN-SUFFIX,magicplan.app
 # ---------------
 # cdn----
 # ---------------
+DOMAIN-SUFFIX,knotch-cdn.com
 DOMAIN-SUFFIX,jsdelivr.net
 
 # akamai
