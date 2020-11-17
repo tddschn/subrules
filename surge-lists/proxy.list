@@ -5,6 +5,7 @@
 PROCESS-NAME,/Applications/Bitwarden.app/Contents/MacOS/Bitwarden
 
 # authy
+DOMAIN-SUFFIX,authy.com
 PROCESS-NAME,/Applications/Authy Desktop.app/Contents/MacOS/Authy Desktop
 PROCESS-NAME,/Applications/Authy Desktop.app/Contents/Frameworks/Authy Desktop Helper.app/Contents/MacOS/Authy Desktop Helper
 
@@ -74,6 +75,11 @@ DOMAIN-SUFFIX,redditstatic.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# twilio
+DOMAIN-SUFFIX,twilio.com
+DOMAIN-SUFFIX,sendgrid.com
+
+
 # discourse
 DOMAIN-SUFFIX,discourse.com
 DOMAIN-SUFFIX,discourse-cdn.com
@@ -241,9 +247,6 @@ DOMAIN-SUFFIX,cnbcfm.com # images
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,bitwarden.net
 
-# twilio & authy
-DOMAIN-SUFFIX,twilio.com
-DOMAIN-SUFFIX,authy.com
 
 
 
