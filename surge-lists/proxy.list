@@ -200,8 +200,14 @@ DOMAIN-SUFFIX,windows.net
 ## google mtalk
 # https://www.reddit.com/r/privacy/comments/f5ifmd/android_randomly_connects_to_mtalkgooglecom/
 DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,google
 DOMAIN-KEYWORD,google
+
+# dropbox
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropbox.tech
 
 
 # chess.com
@@ -248,7 +254,6 @@ DOMAIN-SUFFIX,magicplan.app
 # cdn----
 # ---------------
 DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,googleapis.com
 
 # akamai
 ## used by Dictionary.app
