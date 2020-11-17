@@ -89,6 +89,14 @@ DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,repl.it
 DOMAIN-SUFFIX,repl.co
 
+# jsfiddle
+DOMAIN-SUFFIX,jsfiddle.net
+
+# codepen
+DOMAIN-SUFFIX,codepen.io
+
+# css-tricks
+DOMAIN-SUFFIX,css-tricks.com
 
 
 # DOMAIN-SUFFIX,jqplay.org
