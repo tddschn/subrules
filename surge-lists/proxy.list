@@ -80,6 +80,13 @@ DOMAIN-SUFFIX,folivora.ai
 DOMAIN-SUFFIX,polyfill.io
 DOMAIN-SUFFIX,identrust.com
 
+# bitly
+DOMAIN-SUFFIX,bitly.com
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,goo.gle
+
+
+
 # carrd.co
 DOMAIN-SUFFIX,carrd.co
 
@@ -95,6 +102,9 @@ DOMAIN-SUFFIX,jsfiddle.net
 
 # codepen
 DOMAIN-SUFFIX,codepen.io
+
+# glitch
+DOMAIN-SUFFIX,glitch.me
 
 # css-tricks
 DOMAIN-SUFFIX,css-tricks.com
@@ -119,6 +129,22 @@ DOMAIN-SUFFIX,edu
 # other non-mlcn TLDs
 DOMAIN-SUFFIX,int
 DOMAIN-SUFFIX,org
+DOMAIN-SUFFIX,dev
+
+DOMAIN-SUFFIX,us
+DOMAIN-SUFFIX,es
+DOMAIN-SUFFIX,ca
+DOMAIN-SUFFIX,dk
+DOMAIN-SUFFIX,de
+DOMAIN-SUFFIX,fr
+DOMAIN-SUFFIX,au
+DOMAIN-SUFFIX,nz
+DOMAIN-SUFFIX,tw
+DOMAIN-SUFFIX,jp
+DOMAIN-SUFFIX,kr
+DOMAIN-SUFFIX,pl // poland
+
+DOMAIN-KEYWORD,webdev
 
 DOMAIN-SUFFIX,hcaptcha.com
 
@@ -330,6 +356,8 @@ DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,dhlglobalmail.com
 
 
+# gwdang global
+DOMAIN,cdn.gwdang.com
 
 
 
