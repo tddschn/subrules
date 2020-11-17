@@ -43,6 +43,8 @@ DOMAIN-SUFFIX,kapeli.com
 # dictionary.app
 
 
+# trustd
+DOMAIN-SUFFIX,digitalcertvalidation.com
 
 
 
@@ -86,6 +88,7 @@ DOMAIN-SUFFIX,letsencrypt.org
 # repl.it
 DOMAIN-SUFFIX,repl.it
 DOMAIN-SUFFIX,repl.co
+
 
 
 # DOMAIN-SUFFIX,jqplay.org
@@ -201,6 +204,7 @@ DOMAIN-SUFFIX,eclipse.org
 ## dlercloud
 DOMAIN-SUFFIX,dler.cloud
 DOMAIN-SUFFIX,dler.io
+DOMAIN-KEYWORD,qiangdong
 DOMAIN-SUFFIX,dleris.best
 DOMAIN-SUFFIX,dlercloud.com
 DOMAIN-SUFFIX,dlercloud.net
