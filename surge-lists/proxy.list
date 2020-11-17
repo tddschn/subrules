@@ -237,6 +237,7 @@ DOMAIN-SUFFIX,cnbcfm.com # images
 
 # bitwarden
 DOMAIN-SUFFIX,bitwarden.com
+DOMAIN-SUFFIX,bitwarden.net
 
 # twilio & authy
 DOMAIN-SUFFIX,twilio.com
