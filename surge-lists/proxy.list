@@ -83,6 +83,13 @@ DOMAIN-SUFFIX,carrd.co
 # let's encrypt
 DOMAIN-SUFFIX,letsencrypt.org
 
+# repl.it
+DOMAIN-SUFFIX,repl.it
+DOMAIN-SUFFIX,repl.co
+
+
+# DOMAIN-SUFFIX,jqplay.org
+
 # algolia
 DOMAIN-KEYWORD,algolia
 DOMAIN-SUFFIX,algolianet.com
@@ -99,6 +106,9 @@ DOMAIN-SUFFIX,edu
 
 # other non-mlcn TLDs
 DOMAIN-SUFFIX,int
+DOMAIN-SUFFIX,org
+
+DOMAIN-SUFFIX,hcaptcha.com
 
 ### embed.ly
 DOMAIN-SUFFIX,embed.ly
