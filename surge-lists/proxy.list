@@ -317,6 +317,8 @@ DOMAIN-SUFFIX,ebayimg.com
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,ssl-images-amazon.com
 
+# tracking
+DOMAIN-SUFFIX,dhlglobalmail.com
 
 
 
