@@ -74,6 +74,11 @@ DOMAIN-SUFFIX,redditstatic.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# discourse
+DOMAIN-SUFFIX,discourse.com
+DOMAIN-SUFFIX,discourse-cdn.com
+
+
 DOMAIN-KEYWORD,ocsp
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,folivora.ai
