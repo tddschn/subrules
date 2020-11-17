@@ -201,6 +201,7 @@ DOMAIN-SUFFIX,windows.net
 # https://www.reddit.com/r/privacy/comments/f5ifmd/android_randomly_connects_to_mtalkgooglecom/
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,google
 DOMAIN-KEYWORD,google
 
