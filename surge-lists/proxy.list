@@ -78,6 +78,7 @@ DOMAIN-KEYWORD,ocsp
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,folivora.ai
 DOMAIN-SUFFIX,polyfill.io
+DOMAIN-SUFFIX,identrust.com
 
 # carrd.co
 DOMAIN-SUFFIX,carrd.co
