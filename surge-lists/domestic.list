@@ -14,3 +14,9 @@ DOMAIN,myip.ipip.net
 # gitee
 DOMAIN-SUFFIX,gitee.com
 
+# chaoxing
+DOMAIN-SUFFIX,chaoxing.com
+
+# edu.cn
+DOMAIN-SUFFIX,edu.cn
+
