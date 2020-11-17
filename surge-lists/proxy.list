@@ -141,6 +141,7 @@ DOMAIN-SUFFIX,app
 DOMAIN-SUFFIX,dog
 DOMAIN-SUFFIX,shop
 DOMAIN-SUFFIX,md
+DOMAIN-SUFFIX,blog
 
 DOMAIN-SUFFIX,us
 DOMAIN-SUFFIX,es
@@ -181,6 +182,7 @@ DOMAIN-SUFFIX,pythonhosted.org
 # amazon
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,aws
 
 # apple
 DOMAIN-SUFFIX,apple.com.cn
