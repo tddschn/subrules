@@ -72,9 +72,16 @@ DOMAIN-SUFFIX,redditstatic.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+DOMAIN-KEYWORD,ocsp
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,folivora.ai
 DOMAIN-SUFFIX,polyfill.io
+
+# carrd.co
+DOMAIN-SUFFIX,carrd.co
+
+# let's encrypt
+DOMAIN-SUFFIX,letsencrypt.org
 
 # algolia
 DOMAIN-KEYWORD,algolia
