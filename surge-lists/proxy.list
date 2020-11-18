@@ -79,6 +79,8 @@ DOMAIN-SUFFIX,redditstatic.com
 ## localbitcoins.com
 DOMAIN-SUFFIX,localbitcoins.com
 
+# desmos graphic calculator
+DOMAIN-SUFFIX,desmos.com
 
 # twilio
 DOMAIN-SUFFIX,twilio.com
