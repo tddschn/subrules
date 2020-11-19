@@ -261,7 +261,8 @@
 # news
 ## > cnbc
 - DOMAIN-SUFFIX,cnbc.com,Proxy
-- DOMAIN-SUFFIX,cnbcfm.com # images,Proxy
+### images
+- DOMAIN-SUFFIX,cnbcfm.com,Proxy
 
 
 # bitwarden

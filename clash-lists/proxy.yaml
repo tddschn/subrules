@@ -260,7 +260,8 @@ payload:
   # news
   ## > cnbc
   - DOMAIN-SUFFIX,cnbc.com
-  - DOMAIN-SUFFIX,cnbcfm.com # images
+  ### images
+  - DOMAIN-SUFFIX,cnbcfm.com
 
 
   # bitwarden
