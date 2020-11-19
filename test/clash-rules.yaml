@@ -1,9 +1,441 @@
-# !!! proxy named "socks5 9050" cannot be provided with custom url
-# and causes clash for android profile update issue.
-# and therefore it's removed.
+## This config file is auto generated from coresponding Surge rules
+
+# ---------------
+# apps----
+# ---------------
+# bitwarden
+- # PROCESS-NAME,/Applications/Bitwarden.app/Contents/MacOS/Bitwarden
+
+# authy
+- DOMAIN-SUFFIX,authy.com,Proxy
+- # PROCESS-NAME,/Applications/Authy Desktop.app/Contents/MacOS/Authy Desktop
+- # PROCESS-NAME,/Applications/Authy Desktop.app/Contents/Frameworks/Authy Desktop Helper.app/Contents/MacOS/Authy Desktop Helper
+
+# tor browser
+- # PROCESS-NAME,/Applications/Tor Browser.app/Contents/MacOS/Tor/tor.real
+
+# notion
+- # PROCESS-NAME,/Applications/Notion.app/Contents/MacOS/Notion
+## notion related
+- DOMAIN-SUFFIX,loggly.com,Proxy
+- DOMAIN-SUFFIX,segment.com,Proxy
+- DOMAIN-SUFFIX,intercom.io,Proxy
+- DOMAIN-SUFFIX,intercomcdn.com,Proxy
+- DOMAIN-SUFFIX,amplitude.com,Proxy
+- DOMAIN-SUFFIX,notion.so,Proxy
+# DOMAIN-SUFFIX,amazonaws.com
+
+# lulu
+- # PROCESS-NAME,/Applications/LuLu.app/Contents/MacOS/LuLu
+
+# vscode
+- # PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/MacOS/Electron
+- # PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper
+
+# launchcontrol (soma-zone.com)
+- # PROCESS-NAME,/Applications/LaunchControl.app/Contents/MacOS/LaunchControl
+- DOMAIN-SUFFIX,soma-zone.com,Proxy
+
+# twitter
+- # PROCESS-NAME,/Applications/Twitter.app/Contents/MacOS/Twitter
+
+# dash
+- # PROCESS-NAME,/Applications/Dash.app/Contents/MacOS/Dash
+- DOMAIN-SUFFIX,kapeli.com,Proxy
+
+# dictionary.app
+
+
+# trustd
+- DOMAIN-SUFFIX,digitalcertvalidation.com,Proxy
+
+
+
+
+# ---------------
+# personal---- sites
+# ---------------
+- DOMAIN-SUFFIX,skk.moe,Proxy
+- DOMAIN-SUFFIX,andrewdenty.com,Proxy
+
+
+# ---------------
+# patches--- fix lhie1/Rules
+# ---------------
+# ali
+## fix aliwangwang dl speed
+- DOMAIN-SUFFIX,alipayobjects.com,Proxy
+
+# reddit fix
+- DOMAIN-SUFFIX,reddit.com,Proxy
+- DOMAIN-SUFFIX,redd.it,Proxy
+- DOMAIN-SUFFIX,redditmedia.com,Proxy
+- DOMAIN-SUFFIX,redditstatic.com,Proxy
+
+
+# ---------------
+# apps--- , projects---- & services---
+# ---------------
+# markk---
+# bitcoins
+## localbitcoins.com
+- DOMAIN-SUFFIX,localbitcoins.com,Proxy
+
+# desmos graphic calculator
+- DOMAIN-SUFFIX,desmos.com,Proxy
+
+# twilio
+- DOMAIN-SUFFIX,twilio.com,Proxy
+- DOMAIN-SUFFIX,sendgrid.com,Proxy
+
+
+# discourse
+- DOMAIN-SUFFIX,discourse.com,Proxy
+- DOMAIN-SUFFIX,discourse-cdn.com,Proxy
+
+
+- DOMAIN-KEYWORD,ocsp,Proxy
+- DOMAIN-SUFFIX,unpkg.com,Proxy
+- DOMAIN-SUFFIX,folivora.ai,Proxy
+- DOMAIN-SUFFIX,polyfill.io,Proxy
+- DOMAIN-SUFFIX,identrust.com,Proxy
+
+# bitly
+- DOMAIN-SUFFIX,bitly.com,Proxy
+- DOMAIN-SUFFIX,bit.ly,Proxy
+- DOMAIN-SUFFIX,goo.gle,Proxy
+
+
+
+# carrd.co
+- DOMAIN-SUFFIX,carrd.co,Proxy
+
+# let's encrypt
+- DOMAIN-SUFFIX,letsencrypt.org,Proxy
+
+# repl.it
+- DOMAIN-SUFFIX,repl.it,Proxy
+- DOMAIN-SUFFIX,repl.co,Proxy
+
+# jsfiddle
+- DOMAIN-SUFFIX,jsfiddle.net,Proxy
+
+# codepen
+- DOMAIN-SUFFIX,codepen.io,Proxy
+
+# glitch
+- DOMAIN-SUFFIX,glitch.me,Proxy
+- DOMAIN-SUFFIX,glitch.com,Proxy
+- DOMAIN-SUFFIX,happyfox.com,Proxy
+
+# css-tricks
+- DOMAIN-SUFFIX,css-tricks.com,Proxy
+
+
+# DOMAIN-SUFFIX,jqplay.org
+
+# algolia
+- DOMAIN-KEYWORD,algolia,Proxy
+- DOMAIN-SUFFIX,algolianet.com,Proxy
+
+
+# us gov sites
+- DOMAIN-SUFFIX,gov,Proxy
+
+# us military
+- DOMAIN-SUFFIX,mil,Proxy
+
+# us school sites
+- DOMAIN-SUFFIX,edu,Proxy
+
+# other non-mlcn TLDs
+- DOMAIN-SUFFIX,int,Proxy
+- DOMAIN-SUFFIX,org,Proxy
+
+- DOMAIN-SUFFIX,io,Proxy
+- DOMAIN-SUFFIX,ai,Proxy
+- DOMAIN-SUFFIX,sh,Proxy
+- DOMAIN-SUFFIX,moe,Proxy
+- DOMAIN-SUFFIX,me,Proxy
+- DOMAIN-SUFFIX,dev,Proxy
+- DOMAIN-SUFFIX,website,Proxy
+- DOMAIN-SUFFIX,community,Proxy
+- DOMAIN-SUFFIX,asia,Proxy
+- DOMAIN-SUFFIX,eu,Proxy
+- DOMAIN-SUFFIX,co,Proxy
+- DOMAIN-SUFFIX,app,Proxy
+- DOMAIN-SUFFIX,dog,Proxy
+- DOMAIN-SUFFIX,shop,Proxy
+- DOMAIN-SUFFIX,md,Proxy
+- DOMAIN-SUFFIX,blog,Proxy
+
+- DOMAIN-SUFFIX,us,Proxy
+- DOMAIN-SUFFIX,uk,Proxy
+- DOMAIN-SUFFIX,it,Proxy
+- DOMAIN-SUFFIX,cc,Proxy
+- DOMAIN-SUFFIX,es,Proxy
+- DOMAIN-SUFFIX,ca,Proxy
+- DOMAIN-SUFFIX,dk,Proxy
+- DOMAIN-SUFFIX,de,Proxy
+- DOMAIN-SUFFIX,fr,Proxy
+- DOMAIN-SUFFIX,au,Proxy
+- DOMAIN-SUFFIX,nz,Proxy
+- DOMAIN-SUFFIX,tw,Proxy
+- DOMAIN-SUFFIX,jp,Proxy
+- DOMAIN-SUFFIX,kr,Proxy
+- DOMAIN-SUFFIX,pl // poland,Proxy
+
+- DOMAIN-KEYWORD,webdev,Proxy
+
+# Gfycat
+- DOMAIN-SUFFIX,gfycat.com,Proxy
+
+# hcaptcha
+- DOMAIN-SUFFIX,hcaptcha.com,Proxy
+
+### embed.ly
+- DOMAIN-SUFFIX,embed.ly,Proxy
+
+### contextly
+- DOMAIN-SUFFIX,contextly.com,Proxy
+- DOMAIN-SUFFIX,context.ly,Proxy
+
+# sspai & cdn.sspai.com (images don't load well using DIRECT)
+# commented out sspai bcz of loading issues with ctm 03
+# waiting for cache forever in google chrome on mac, using global proxy solved this issue (cdn.sspai.com, image)
+- DOMAIN-SUFFIX,sspai.com,Proxy
+
+- DOMAIN-KEYWORD,data-analysis,Proxy
+
+# python
+- DOMAIN-KEYWORD,python,Proxy
+- DOMAIN-SUFFIX,pypi.org,Proxy
+- DOMAIN-SUFFIX,pythonhosted.org,Proxy
+
+# amazon
+- DOMAIN-SUFFIX,amazonaws.com,Proxy
+- DOMAIN-SUFFIX,amazon.com,Proxy
+- DOMAIN-SUFFIX,aws,Proxy
+
+# apple
+- DOMAIN-SUFFIX,apple.com.cn,Proxy
+- DOMAIN-SUFFIX,apple.com,Proxy
+
+# hashicorp
+- DOMAIN-SUFFIX,hashicorp.com,Proxy
+- DOMAIN-KEYWORD,hashicorp,Proxy
+- DOMAIN-SUFFIX,boundaryproject.io,Proxy
+- DOMAIN-SUFFIX,waypointproject.io,Proxy
+
+# gitbook
+- DOMAIN-SUFFIX,gitbook.io,Proxy
+- DOMAIN-SUFFIX,gitbook.com,Proxy
+- DOMAIN-SUFFIX,gitbook.org,Proxy
+
+# github
+- DOMAIN-SUFFIX,github.com,Proxy
+- DOMAIN-SUFFIX,github.io,Proxy
+- DOMAIN-SUFFIX,github.dev,Proxy
+- DOMAIN-KEYWORD,github,Proxy
+- DOMAIN-SUFFIX,victorlee.me,Proxy
+- DOMAIN-SUFFIX,teddysc.rocks,Proxy
+
+# gitlab
+- DOMAIN-SUFFIX,gitlab.com,Proxy
+- DOMAIN-SUFFIX,gitlab.io,Proxy
+- DOMAIN-KEYWORD,gitlab,Proxy
+
+
+# atlassian
+- DOMAIN-SUFFIX,atlassian.com,Proxy
+
+## bitbucket
+- DOMAIN-SUFFIX,bitbucket.org,Proxy
+
+
+# homebrew
+- DOMAIN-SUFFIX,brew.sh,Proxy
+
+# news
+## > cnbc
+- DOMAIN-SUFFIX,cnbc.com,Proxy
+- DOMAIN-SUFFIX,cnbcfm.com # images,Proxy
+
+
+# bitwarden
+- DOMAIN-SUFFIX,bitwarden.com,Proxy
+- DOMAIN-SUFFIX,bitwarden.net,Proxy
+
+
+
+
+# codecademy
+- DOMAIN-SUFFIX,codecademy.com,Proxy
+
+
+
+
+
+
+# eclipse
+- DOMAIN-SUFFIX,eclipse.org,Proxy
+
+## dlercloud
+- DOMAIN-SUFFIX,dler.cloud,Proxy
+- DOMAIN-SUFFIX,dler.io,Proxy
+- DOMAIN-KEYWORD,qiangdong,Proxy
+- DOMAIN-SUFFIX,dleris.best,Proxy
+- DOMAIN-SUFFIX,dlercloud.com,Proxy
+- DOMAIN-SUFFIX,dlercloud.net,Proxy
+
+
+## trello
+- DOMAIN-SUFFIX,trello.com,Proxy
+- DOMAIN-SUFFIX,trellocdn.com,Proxy
+
+## github codespaces
+# windows.net is in Special.list
+- DOMAIN-SUFFIX,windows.net,Proxy
+
+## google mtalk
+# https://www.reddit.com/r/privacy/comments/f5ifmd/android_randomly_connects_to_mtalkgooglecom/
+- DOMAIN-SUFFIX,google.com,Proxy
+- DOMAIN-SUFFIX,googleapis.com,Proxy
+- DOMAIN-SUFFIX,gmail.com,Proxy
+- DOMAIN-SUFFIX,google,Proxy
+- DOMAIN-KEYWORD,google,Proxy
+
+# dropbox
+- DOMAIN-SUFFIX,dropboxapi.com,Proxy
+- DOMAIN-SUFFIX,dropbox.com,Proxy
+- DOMAIN-SUFFIX,dropbox.tech,Proxy
+
+
+# chess.com
+## chess analysis
+- DOMAIN-SUFFIX,chess.com,Proxy
+
+# lichess.org
+- DOMAIN-SUFFIX,lichess.org,Proxy
+
+# objective-see.com
+- DOMAIN-SUFFIX,objective-see.com,Proxy
+
+# sentry
+- DOMAIN-SUFFIX,sentry.io,Proxy
+
+
+# libav
+- DOMAIN-SUFFIX,libav.org,Proxy
+
+# dicts in saladict
+- DOMAIN-SUFFIX,urbandictionary.com,Proxy
+- DOMAIN-SUFFIX,cambridge.org,Proxy
+- DOMAIN-SUFFIX,etymonline.com,Proxy
+- DOMAIN-SUFFIX,collinsdictionary.com,Proxy
+
+# foursquare
+- DOMAIN-SUFFIX,foursquare.com,Proxy
+
+# remove.bg
+- DOMAIN-SUFFIX,remove.bg,Proxy
+
+# procreate
+- DOMAIN-SUFFIX,procreate.art,Proxy
+## savage interactive, the company behind procreate
+- DOMAIN-SUFFIX,savage.si ,Proxy
+
+# SE
+- DOMAIN-SUFFIX,stackexchange.com,Proxy
+
+# magicplan
+- DOMAIN-SUFFIX,magicplan.app,Proxy
+
+# ---------------
+# cdn----
+# ---------------
+- DOMAIN-SUFFIX,knotch-cdn.com,Proxy
+- DOMAIN-SUFFIX,jsdelivr.net,Proxy
+
+# akamai
+## used by Dictionary.app
+- DOMAIN-SUFFIX,akamaiedge.net,Proxy
+
+# ---------------
+# tools---
+# ---------------
+# dark reader
+- DOMAIN-SUFFIX,darkreader.org,Proxy
+
+# maxmind mmdb
+- DOMAIN-SUFFIX,maxmind.com,Proxy
+
+# ---------------
+# contents---
+# ---------------
+## cult of mac
+- DOMAIN-SUFFIX,cultofmac.com,Proxy
+
+## how to geek
+- DOMAIN-SUFFIX,howtogeek.com,Proxy
+
+## others
+- DOMAIN-SUFFIX,directindustry.com,Proxy
+
+
+
+# ---------------
+# shopping---
+# ---------------
+# ebay---
+- DOMAIN-SUFFIX,ebay.com,Proxy
+- DOMAIN-SUFFIX,ebaystatic.com,Proxy
+- DOMAIN-SUFFIX,ebayimg.com,Proxy
+
+# amazon---
+- DOMAIN-SUFFIX,amazon.com,Proxy
+- DOMAIN-SUFFIX,ssl-images-amazon.com,Proxy
+
+# tracking
+- DOMAIN-SUFFIX,dhlglobalmail.com,Proxy
+
+
+# gwdang global
+- DOMAIN,cdn.gwdang.com,Proxy
+
+
+
+# ---------------
+# unclear----
+# ---------------
+## unclear sites
+- DOMAIN-SUFFIX,aaxads.com,Proxy
+
+
+## This config file is auto generated from coresponding Surge rules
+
+# ipip.net
+# used with curl
+- DOMAIN,myip.ipip.net,Domestic
 #
-# - DOMAIN-SUFFIX, onion, socks5 9050
-- DOMAIN-KEYWORD, chaoxing.com, DIRECT
-- DOMAIN-KEYWORD, zhihuishu.com, DIRECT
-# - DOMAIN-SUFFIX, chaoxing.com, DIRECT
-# - DOMAIN-SUFFIX, zhihuishu.com, DIRECT
+# doesn't work well
+# weird behabior: slow loading, some parts not loaded
+# DOMAIN-SUFFIX,kmf.com
+
+
+# fix zhihu 
+# DOMAIN-SUFFIX,zhihu.com
+# DOMAIN-SUFFIX,zhimg.com
+
+# gitee
+- DOMAIN-SUFFIX,gitee.com,Domestic
+
+# chaoxing
+- DOMAIN-SUFFIX,chaoxing.com,Domestic
+
+# zhihuishu
+- DOMAIN-SUFFIX,zhihuishi.com,Domestic
+
+# edu.cn
+- DOMAIN-SUFFIX,edu.cn,Domestic
+
