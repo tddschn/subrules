@@ -301,6 +301,8 @@ payload:
   - DOMAIN-SUFFIX,dlercloud.com
   - DOMAIN-SUFFIX,dlercloud.net
 
+  ## comparitech.com (gfw check)
+  - DOMAIN-SUFFIX,comparitech.com
 
   ## trello
   - DOMAIN-SUFFIX,trello.com

@@ -302,6 +302,8 @@
 - DOMAIN-SUFFIX,dlercloud.com,Proxy
 - DOMAIN-SUFFIX,dlercloud.net,Proxy
 
+## comparitech.com (gfw check)
+- DOMAIN-SUFFIX,comparitech.com,Proxy
 
 ## trello
 - DOMAIN-SUFFIX,trello.com,Proxy
