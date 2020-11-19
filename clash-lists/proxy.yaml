@@ -157,7 +157,7 @@ payload:
 
   # other non-mlcn TLDs
   # ## experimental
-  # NOT,((NOT,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
+  # NOT,((OR,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
   - DOMAIN-SUFFIX,int
   - DOMAIN-SUFFIX,org
 
