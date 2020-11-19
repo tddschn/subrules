@@ -4,18 +4,18 @@
 # apps----
 # ---------------
 # bitwarden
-- # PROCESS-NAME,/Applications/Bitwarden.app/Contents/MacOS/Bitwarden
+# PROCESS-NAME,/Applications/Bitwarden.app/Contents/MacOS/Bitwarden
 
 # authy
 - DOMAIN-SUFFIX,authy.com,Proxy
-- # PROCESS-NAME,/Applications/Authy Desktop.app/Contents/MacOS/Authy Desktop
-- # PROCESS-NAME,/Applications/Authy Desktop.app/Contents/Frameworks/Authy Desktop Helper.app/Contents/MacOS/Authy Desktop Helper
+# PROCESS-NAME,/Applications/Authy Desktop.app/Contents/MacOS/Authy Desktop
+# PROCESS-NAME,/Applications/Authy Desktop.app/Contents/Frameworks/Authy Desktop Helper.app/Contents/MacOS/Authy Desktop Helper
 
 # tor browser
-- # PROCESS-NAME,/Applications/Tor Browser.app/Contents/MacOS/Tor/tor.real
+# PROCESS-NAME,/Applications/Tor Browser.app/Contents/MacOS/Tor/tor.real
 
 # notion
-- # PROCESS-NAME,/Applications/Notion.app/Contents/MacOS/Notion
+# PROCESS-NAME,/Applications/Notion.app/Contents/MacOS/Notion
 ## notion related
 - DOMAIN-SUFFIX,loggly.com,Proxy
 - DOMAIN-SUFFIX,segment.com,Proxy
@@ -26,21 +26,21 @@
 # DOMAIN-SUFFIX,amazonaws.com
 
 # lulu
-- # PROCESS-NAME,/Applications/LuLu.app/Contents/MacOS/LuLu
+# PROCESS-NAME,/Applications/LuLu.app/Contents/MacOS/LuLu
 
 # vscode
-- # PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/MacOS/Electron
-- # PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper
+# PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/MacOS/Electron
+# PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper
 
 # launchcontrol (soma-zone.com)
-- # PROCESS-NAME,/Applications/LaunchControl.app/Contents/MacOS/LaunchControl
+# PROCESS-NAME,/Applications/LaunchControl.app/Contents/MacOS/LaunchControl
 - DOMAIN-SUFFIX,soma-zone.com,Proxy
 
 # twitter
-- # PROCESS-NAME,/Applications/Twitter.app/Contents/MacOS/Twitter
+# PROCESS-NAME,/Applications/Twitter.app/Contents/MacOS/Twitter
 
 # dash
-- # PROCESS-NAME,/Applications/Dash.app/Contents/MacOS/Dash
+# PROCESS-NAME,/Applications/Dash.app/Contents/MacOS/Dash
 - DOMAIN-SUFFIX,kapeli.com,Proxy
 
 # dictionary.app
