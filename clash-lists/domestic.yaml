@@ -20,6 +20,9 @@ payload:
   # chaoxing
   - DOMAIN-SUFFIX,chaoxing.com
 
+  # zhihuishu
+  - DOMAIN-SUFFIX,zhihuishi.com
+
   # edu.cn
   - DOMAIN-SUFFIX,edu.cn
 
