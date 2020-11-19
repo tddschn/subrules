@@ -2,7 +2,7 @@ payload:
   ## This config file is auto generated from coresponding Surge rules
 
   # > Netflix
-USER-AGENT,Argo*
+  - # USER-AGENT,Argo*
   - DOMAIN,netflix.com.edgesuite.net
   - DOMAIN-SUFFIX,netflix.com
   - DOMAIN-SUFFIX,netflix.net
