@@ -185,6 +185,10 @@ DOMAIN-SUFFIX,pl // poland
 
 DOMAIN-KEYWORD,webdev
 
+# Gfycat
+DOMAIN-SUFFIX,gfycat.com
+
+# hcaptcha
 DOMAIN-SUFFIX,hcaptcha.com
 
 ### embed.ly
