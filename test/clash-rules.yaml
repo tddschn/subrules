@@ -117,6 +117,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# genius.com
+- DOMAIN-SUFFIX,genius.com,Proxy
+
 # bitcoins
 ## localbitcoins.com
 - DOMAIN-SUFFIX,localbitcoins.com,Proxy

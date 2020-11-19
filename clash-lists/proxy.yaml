@@ -78,6 +78,9 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # genius.com
+  - DOMAIN-SUFFIX,genius.com
+
   # bitcoins
   ## localbitcoins.com
   - DOMAIN-SUFFIX,localbitcoins.com
