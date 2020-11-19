@@ -309,6 +309,8 @@
 
 ## google mtalk
 # https://www.reddit.com/r/privacy/comments/f5ifmd/android_randomly_connects_to_mtalkgooglecom/
+## gstatic.com: google's CDN
+- DOMAIN-SUFFIX,gstatic.com,Proxy
 - DOMAIN-SUFFIX,google.com,Proxy
 - DOMAIN-SUFFIX,googleapis.com,Proxy
 - DOMAIN-SUFFIX,gmail.com,Proxy
