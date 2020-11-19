@@ -320,6 +320,7 @@
 - DOMAIN-SUFFIX,google,Proxy
 - DOMAIN-KEYWORD,google,Proxy
 - DOMAIN-SUFFIX,googleapps.com,Proxy
+- DOMAIN-SUFFIX,googleusercontent.com,Proxy
 
 # dropbox
 - DOMAIN-SUFFIX,dropboxapi.com,Proxy

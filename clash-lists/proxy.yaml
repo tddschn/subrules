@@ -321,6 +321,7 @@ payload:
   - DOMAIN-SUFFIX,google
   - DOMAIN-KEYWORD,google
   - DOMAIN-SUFFIX,googleapps.com
+  - DOMAIN-SUFFIX,googleusercontent.com
 
   # dropbox
   - DOMAIN-SUFFIX,dropboxapi.com
