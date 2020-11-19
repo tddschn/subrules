@@ -310,6 +310,7 @@ payload:
   # windows.net is in Special.list
   - DOMAIN-SUFFIX,windows.net
 
+  # goo---
   ## google mtalk
   # https://www.reddit.com/r/privacy/comments/f5ifmd/android_randomly_connects_to_mtalkgooglecom/
   ## gstatic.com: google's CDN
@@ -319,6 +320,7 @@ payload:
   - DOMAIN-SUFFIX,gmail.com
   - DOMAIN-SUFFIX,google
   - DOMAIN-KEYWORD,google
+  - DOMAIN-SUFFIX,googleapps.com
 
   # dropbox
   - DOMAIN-SUFFIX,dropboxapi.com

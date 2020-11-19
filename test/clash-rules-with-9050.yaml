@@ -311,6 +311,7 @@
 # windows.net is in Special.list
 - DOMAIN-SUFFIX,windows.net,Proxy
 
+# goo---
 ## google mtalk
 # https://www.reddit.com/r/privacy/comments/f5ifmd/android_randomly_connects_to_mtalkgooglecom/
 ## gstatic.com: google's CDN
@@ -320,6 +321,7 @@
 - DOMAIN-SUFFIX,gmail.com,Proxy
 - DOMAIN-SUFFIX,google,Proxy
 - DOMAIN-KEYWORD,google,Proxy
+- DOMAIN-SUFFIX,googleapps.com,Proxy
 
 # dropbox
 - DOMAIN-SUFFIX,dropboxapi.com,Proxy
