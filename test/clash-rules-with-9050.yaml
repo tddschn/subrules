@@ -197,6 +197,8 @@
 - DOMAIN-SUFFIX,edu,Proxy
 
 # other non-mlcn TLDs
+# ## experimental
+# NOT,((NOT,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
 - DOMAIN-SUFFIX,int,Proxy
 - DOMAIN-SUFFIX,org,Proxy
 
@@ -207,6 +209,7 @@
 - DOMAIN-SUFFIX,me,Proxy
 - DOMAIN-SUFFIX,dev,Proxy
 - DOMAIN-SUFFIX,website,Proxy
+- DOMAIN-SUFFIX,rent,Proxy
 - DOMAIN-SUFFIX,community,Proxy
 - DOMAIN-SUFFIX,asia,Proxy
 - DOMAIN-SUFFIX,eu,Proxy

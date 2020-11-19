@@ -156,6 +156,8 @@ payload:
   - DOMAIN-SUFFIX,edu
 
   # other non-mlcn TLDs
+  # ## experimental
+  # NOT,((NOT,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
   - DOMAIN-SUFFIX,int
   - DOMAIN-SUFFIX,org
 
@@ -166,6 +168,7 @@ payload:
   - DOMAIN-SUFFIX,me
   - DOMAIN-SUFFIX,dev
   - DOMAIN-SUFFIX,website
+  - DOMAIN-SUFFIX,rent
   - DOMAIN-SUFFIX,community
   - DOMAIN-SUFFIX,asia
   - DOMAIN-SUFFIX,eu
