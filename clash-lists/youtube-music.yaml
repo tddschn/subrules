@@ -1,0 +1,4 @@
+payload:
+  ## This config file is auto generated from coresponding Surge rules
+
+  - DOMAIN-SUFFIX,music.youtube.com

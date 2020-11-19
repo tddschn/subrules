@@ -1,0 +1,7 @@
+payload:
+  ## This config file is auto generated from coresponding Surge rules
+
+  # detect if the proxy is "native" enough to fool some service providers
+
+  - DOMAIN-SUFFIX,whoer.net
+  - DOMAIN-SUFFIX,ipdata.co

@@ -1,0 +1,25 @@
+payload:
+  ## This config file is auto generated from coresponding Surge rules
+
+  # ipip.net
+  # used with curl
+  - DOMAIN,myip.ipip.net
+  #
+  # doesn't work well
+  # weird behabior: slow loading, some parts not loaded
+  # DOMAIN-SUFFIX,kmf.com
+
+
+  # fix zhihu 
+  # DOMAIN-SUFFIX,zhihu.com
+  # DOMAIN-SUFFIX,zhimg.com
+
+  # gitee
+  - DOMAIN-SUFFIX,gitee.com
+
+  # chaoxing
+  - DOMAIN-SUFFIX,chaoxing.com
+
+  # edu.cn
+  - DOMAIN-SUFFIX,edu.cn
+

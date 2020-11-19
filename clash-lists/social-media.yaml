@@ -1,0 +1,9 @@
+payload:
+  ## This config file is auto generated from coresponding Surge rules
+
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,twitter.com
+  # DOMAIN-SUFFIX,twitter.com
+  # DOMAIN-SUFFIX,twitter.com
+  # DOMAIN-SUFFIX,twitter.com
+  # DOMAIN-SUFFIX,twitter.com

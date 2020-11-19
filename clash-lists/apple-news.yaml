@@ -1,0 +1,18 @@
+payload:
+  ## This config file is auto generated from coresponding Surge rules
+
+  # > Apple News and Apple Map TOMTOM Version
+  - USER-AGENT,AppleNews*
+  - USER-AGENT,com.apple.news*
+  - DOMAIN,gspe1-ssl.ls.apple.com
+
+  - USER-AGENT,News*
+  - DOMAIN,apple.comscoreresearch.com
+  ## icloud? i'm not sure now
+  - DOMAIN,gateway.icloud.com
+  - DOMAIN,news-client.apple.com
+  - DOMAIN,news-edge.apple.com
+  - DOMAIN,news-events.apple.com
+  - DOMAIN-SUFFIX,apple.news
+
+  # https://github.com/lhie1/Rules/blob/master/Surge/Surge%203/Provider/Media/Apple%20News.list

@@ -1,0 +1,9 @@
+payload:
+  ## This config file is auto generated from coresponding Surge rules
+
+  # block surge & dashboard's requests to bugsnag.com
+  # built-in policy: reject https://manual.nssurge.com/policy/built-in.html
+  # logical rule: https://manual.nssurge.com/rule/logical-rule.html
+  - AND,((PROCESS-NAME,/Applications/Surge.app/Contents/MacOS/Surge), (DOMAIN,sessions.bugsnag.com))
+  - AND,((PROCESS-NAME,/Applications/Surge.app/Contents/Applications/Surge Dashboard.app/Contents/MacOS/Surge Dashboard), (DOMAIN,sessions.bugsnag.com))
+
