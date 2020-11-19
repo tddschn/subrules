@@ -81,6 +81,9 @@ payload:
   # genius.com
   - DOMAIN-SUFFIX,genius.com
 
+  # tower
+  - DOMAIN-SUFFIX,git-tower.com
+
   # bitcoins
   ## localbitcoins.com
   - DOMAIN-SUFFIX,localbitcoins.com

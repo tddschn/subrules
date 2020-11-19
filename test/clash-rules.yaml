@@ -120,6 +120,9 @@
 # genius.com
 - DOMAIN-SUFFIX,genius.com,Proxy
 
+# tower
+- DOMAIN-SUFFIX,git-tower.com,Proxy
+
 # bitcoins
 ## localbitcoins.com
 - DOMAIN-SUFFIX,localbitcoins.com,Proxy
