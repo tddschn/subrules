@@ -181,6 +181,8 @@
 - DOMAIN-SUFFIX,no,Proxy
 - DOMAIN-SUFFIX,fi,Proxy
 - DOMAIN-SUFFIX,is,Proxy
+- DOMAIN-SUFFIX,st,Proxy
+- DOMAIN-SUFFIX,br,Proxy
 - DOMAIN-SUFFIX,be,Proxy
 - DOMAIN-SUFFIX,nd,Proxy
 - DOMAIN-SUFFIX,de,Proxy
