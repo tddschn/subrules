@@ -119,6 +119,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# metasploit.com
+- DOMAIN-SUFFIX,metasploit.com,Proxy
+
 # genius.com
 - DOMAIN-SUFFIX,genius.com,Proxy
 

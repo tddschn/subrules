@@ -78,6 +78,9 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # metasploit.com
+  - DOMAIN-SUFFIX,metasploit.com
+
   # genius.com
   - DOMAIN-SUFFIX,genius.com
 
