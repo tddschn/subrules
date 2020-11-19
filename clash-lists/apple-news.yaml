@@ -2,11 +2,11 @@ payload:
   ## This config file is auto generated from coresponding Surge rules
 
   # > Apple News and Apple Map TOMTOM Version
-  - USER-AGENT,AppleNews*
-  - USER-AGENT,com.apple.news*
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
   - DOMAIN,gspe1-ssl.ls.apple.com
 
-  - USER-AGENT,News*
+USER-AGENT,News*
   - DOMAIN,apple.comscoreresearch.com
   ## icloud? i'm not sure now
   - DOMAIN,gateway.icloud.com
