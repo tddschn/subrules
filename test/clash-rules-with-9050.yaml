@@ -2,6 +2,46 @@
 
 ## This config file is auto generated from coresponding Surge rules
 
+# block canva mlcn site (fix iOS issue)
+- DOMAIN-SUFFIX,canva.cn,AdBlock
+
+# ads
+- DOMAIN-SUFFIX,promotion.happy12138.top,AdBlock
+## This config file is auto generated from coresponding Surge rules
+
+# ipip.net
+# used with curl
+- DOMAIN,myip.ipip.net,Domestic
+#
+# doesn't work well
+# weird behabior: slow loading, some parts not loaded
+# DOMAIN-SUFFIX,kmf.com
+
+
+# fix zhihu 
+# DOMAIN-SUFFIX,zhihu.com
+# DOMAIN-SUFFIX,zhimg.com
+
+# gitee
+- DOMAIN-SUFFIX,gitee.com,Domestic
+
+# chaoxing
+- DOMAIN-SUFFIX,chaoxing.com,Domestic
+
+# zhihuishu
+- DOMAIN-SUFFIX,zhihuishi.com,Domestic
+
+# edu.cn
+- DOMAIN-SUFFIX,edu.cn,Domestic
+
+## This config file is auto generated from coresponding Surge rules
+
+# fix lhie1's spotify list
+- DOMAIN-SUFFIX,spotifycdn.com,Spotify
+- DOMAIN-SUFFIX,spotify.demdex.net,Spotify
+
+## This config file is auto generated from coresponding Surge rules
+
 # ---------------
 # apps----
 # ---------------
@@ -433,44 +473,4 @@
 ## unclear sites
 - DOMAIN-SUFFIX,aaxads.com,Proxy
 
-
-## This config file is auto generated from coresponding Surge rules
-
-# ipip.net
-# used with curl
-- DOMAIN,myip.ipip.net,Domestic
-#
-# doesn't work well
-# weird behabior: slow loading, some parts not loaded
-# DOMAIN-SUFFIX,kmf.com
-
-
-# fix zhihu 
-# DOMAIN-SUFFIX,zhihu.com
-# DOMAIN-SUFFIX,zhimg.com
-
-# gitee
-- DOMAIN-SUFFIX,gitee.com,Domestic
-
-# chaoxing
-- DOMAIN-SUFFIX,chaoxing.com,Domestic
-
-# zhihuishu
-- DOMAIN-SUFFIX,zhihuishi.com,Domestic
-
-# edu.cn
-- DOMAIN-SUFFIX,edu.cn,Domestic
-
-## This config file is auto generated from coresponding Surge rules
-
-# block canva mlcn site (fix iOS issue)
-- DOMAIN-SUFFIX,canva.cn,AdBlock
-
-# ads
-- DOMAIN-SUFFIX,promotion.happy12138.top,AdBlock
-## This config file is auto generated from coresponding Surge rules
-
-# fix lhie1's spotify list
-- DOMAIN-SUFFIX,spotifycdn.com,Spotify
-- DOMAIN-SUFFIX,spotify.demdex.net,Spotify
 
