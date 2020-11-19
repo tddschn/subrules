@@ -1,0 +1,8 @@
+payload:
+  ## This config file is auto generated from coresponding Surge rules
+
+  # > mo
+  # https://github-production-release-asset-2e65be.s3.amazonaws.com/
+  - DOMAIN-KEYWORD,github-production-release-asset
+  - DOMAIN-SUFFIX,bintray.com
+  - DOMAIN-SUFFIX,cloudfront.net

@@ -1,0 +1,415 @@
+payload:
+  ## This config file is auto generated from coresponding Surge rules
+
+  # ---------------
+  # apps----
+  # ---------------
+  # bitwarden
+  - PROCESS-NAME,/Applications/Bitwarden.app/Contents/MacOS/Bitwarden
+
+  # authy
+  - DOMAIN-SUFFIX,authy.com
+  - PROCESS-NAME,/Applications/Authy Desktop.app/Contents/MacOS/Authy Desktop
+  - PROCESS-NAME,/Applications/Authy Desktop.app/Contents/Frameworks/Authy Desktop Helper.app/Contents/MacOS/Authy Desktop Helper
+
+  # tor browser
+  - PROCESS-NAME,/Applications/Tor Browser.app/Contents/MacOS/Tor/tor.real
+
+  # notion
+  - PROCESS-NAME,/Applications/Notion.app/Contents/MacOS/Notion
+  ## notion related
+  - DOMAIN-SUFFIX,loggly.com
+  - DOMAIN-SUFFIX,segment.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,amplitude.com
+  - DOMAIN-SUFFIX,notion.so
+  # DOMAIN-SUFFIX,amazonaws.com
+
+  # lulu
+  - PROCESS-NAME,/Applications/LuLu.app/Contents/MacOS/LuLu
+
+  # vscode
+  - PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/MacOS/Electron
+  - PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper
+
+  # launchcontrol (soma-zone.com)
+  - PROCESS-NAME,/Applications/LaunchControl.app/Contents/MacOS/LaunchControl
+  - DOMAIN-SUFFIX,soma-zone.com
+
+  # twitter
+  - PROCESS-NAME,/Applications/Twitter.app/Contents/MacOS/Twitter
+
+  # dash
+  - PROCESS-NAME,/Applications/Dash.app/Contents/MacOS/Dash
+  - DOMAIN-SUFFIX,kapeli.com
+
+  # dictionary.app
+
+
+  # trustd
+  - DOMAIN-SUFFIX,digitalcertvalidation.com
+
+
+
+
+  # ---------------
+  # personal---- sites
+  # ---------------
+  - DOMAIN-SUFFIX,skk.moe
+  - DOMAIN-SUFFIX,andrewdenty.com
+
+
+  # ---------------
+  # patches--- fix lhie1/Rules
+  # ---------------
+  # ali
+  ## fix aliwangwang dl speed
+  - DOMAIN-SUFFIX,alipayobjects.com
+
+  # reddit fix
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redd.it
+  - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-SUFFIX,redditstatic.com
+
+
+  # ---------------
+  # apps--- , projects---- & services---
+  # ---------------
+  # markk---
+  # bitcoins
+  ## localbitcoins.com
+  - DOMAIN-SUFFIX,localbitcoins.com
+
+  # desmos graphic calculator
+  - DOMAIN-SUFFIX,desmos.com
+
+  # twilio
+  - DOMAIN-SUFFIX,twilio.com
+  - DOMAIN-SUFFIX,sendgrid.com
+
+
+  # discourse
+  - DOMAIN-SUFFIX,discourse.com
+  - DOMAIN-SUFFIX,discourse-cdn.com
+
+
+  - DOMAIN-KEYWORD,ocsp
+  - DOMAIN-SUFFIX,unpkg.com
+  - DOMAIN-SUFFIX,folivora.ai
+  - DOMAIN-SUFFIX,polyfill.io
+  - DOMAIN-SUFFIX,identrust.com
+
+  # bitly
+  - DOMAIN-SUFFIX,bitly.com
+  - DOMAIN-SUFFIX,bit.ly
+  - DOMAIN-SUFFIX,goo.gle
+
+
+
+  # carrd.co
+  - DOMAIN-SUFFIX,carrd.co
+
+  # let's encrypt
+  - DOMAIN-SUFFIX,letsencrypt.org
+
+  # repl.it
+  - DOMAIN-SUFFIX,repl.it
+  - DOMAIN-SUFFIX,repl.co
+
+  # jsfiddle
+  - DOMAIN-SUFFIX,jsfiddle.net
+
+  # codepen
+  - DOMAIN-SUFFIX,codepen.io
+
+  # glitch
+  - DOMAIN-SUFFIX,glitch.me
+  - DOMAIN-SUFFIX,glitch.com
+  - DOMAIN-SUFFIX,happyfox.com
+
+  # css-tricks
+  - DOMAIN-SUFFIX,css-tricks.com
+
+
+  # DOMAIN-SUFFIX,jqplay.org
+
+  # algolia
+  - DOMAIN-KEYWORD,algolia
+  - DOMAIN-SUFFIX,algolianet.com
+
+
+  # us gov sites
+  - DOMAIN-SUFFIX,gov
+
+  # us military
+  - DOMAIN-SUFFIX,mil
+
+  # us school sites
+  - DOMAIN-SUFFIX,edu
+
+  # other non-mlcn TLDs
+  - DOMAIN-SUFFIX,int
+  - DOMAIN-SUFFIX,org
+
+  - DOMAIN-SUFFIX,io
+  - DOMAIN-SUFFIX,ai
+  - DOMAIN-SUFFIX,sh
+  - DOMAIN-SUFFIX,moe
+  - DOMAIN-SUFFIX,me
+  - DOMAIN-SUFFIX,dev
+  - DOMAIN-SUFFIX,website
+  - DOMAIN-SUFFIX,community
+  - DOMAIN-SUFFIX,asia
+  - DOMAIN-SUFFIX,eu
+  - DOMAIN-SUFFIX,co
+  - DOMAIN-SUFFIX,app
+  - DOMAIN-SUFFIX,dog
+  - DOMAIN-SUFFIX,shop
+  - DOMAIN-SUFFIX,md
+  - DOMAIN-SUFFIX,blog
+
+  - DOMAIN-SUFFIX,us
+  - DOMAIN-SUFFIX,uk
+  - DOMAIN-SUFFIX,it
+  - DOMAIN-SUFFIX,cc
+  - DOMAIN-SUFFIX,es
+  - DOMAIN-SUFFIX,ca
+  - DOMAIN-SUFFIX,dk
+  - DOMAIN-SUFFIX,de
+  - DOMAIN-SUFFIX,fr
+  - DOMAIN-SUFFIX,au
+  - DOMAIN-SUFFIX,nz
+  - DOMAIN-SUFFIX,tw
+  - DOMAIN-SUFFIX,jp
+  - DOMAIN-SUFFIX,kr
+  - DOMAIN-SUFFIX,pl // poland
+
+  - DOMAIN-KEYWORD,webdev
+
+  # Gfycat
+  - DOMAIN-SUFFIX,gfycat.com
+
+  # hcaptcha
+  - DOMAIN-SUFFIX,hcaptcha.com
+
+  ### embed.ly
+  - DOMAIN-SUFFIX,embed.ly
+
+  ### contextly
+  - DOMAIN-SUFFIX,contextly.com
+  - DOMAIN-SUFFIX,context.ly
+
+  # sspai & cdn.sspai.com (images don't load well using DIRECT)
+  # commented out sspai bcz of loading issues with ctm 03
+  # waiting for cache forever in google chrome on mac, using global proxy solved this issue (cdn.sspai.com, image)
+  - DOMAIN-SUFFIX,sspai.com
+
+  - DOMAIN-KEYWORD,data-analysis
+
+  # python
+  - DOMAIN-KEYWORD,python
+  - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,pythonhosted.org
+
+  # amazon
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,aws
+
+  # apple
+  - DOMAIN-SUFFIX,apple.com.cn
+  - DOMAIN-SUFFIX,apple.com
+
+  # hashicorp
+  - DOMAIN-SUFFIX,hashicorp.com
+  - DOMAIN-KEYWORD,hashicorp
+  - DOMAIN-SUFFIX,boundaryproject.io
+  - DOMAIN-SUFFIX,waypointproject.io
+
+  # gitbook
+  - DOMAIN-SUFFIX,gitbook.io
+  - DOMAIN-SUFFIX,gitbook.com
+  - DOMAIN-SUFFIX,gitbook.org
+
+  # github
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,github.dev
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-SUFFIX,victorlee.me
+  - DOMAIN-SUFFIX,teddysc.rocks
+
+  # gitlab
+  - DOMAIN-SUFFIX,gitlab.com
+  - DOMAIN-SUFFIX,gitlab.io
+  - DOMAIN-KEYWORD,gitlab
+
+
+  # atlassian
+  - DOMAIN-SUFFIX,atlassian.com
+
+  ## bitbucket
+  - DOMAIN-SUFFIX,bitbucket.org
+
+
+  # homebrew
+  - DOMAIN-SUFFIX,brew.sh
+
+  # news
+  ## > cnbc
+  - DOMAIN-SUFFIX,cnbc.com
+  - DOMAIN-SUFFIX,cnbcfm.com # images
+
+
+  # bitwarden
+  - DOMAIN-SUFFIX,bitwarden.com
+  - DOMAIN-SUFFIX,bitwarden.net
+
+
+
+
+  # codecademy
+  - DOMAIN-SUFFIX,codecademy.com
+
+
+
+
+
+
+  # eclipse
+  - DOMAIN-SUFFIX,eclipse.org
+
+  ## dlercloud
+  - DOMAIN-SUFFIX,dler.cloud
+  - DOMAIN-SUFFIX,dler.io
+  - DOMAIN-KEYWORD,qiangdong
+  - DOMAIN-SUFFIX,dleris.best
+  - DOMAIN-SUFFIX,dlercloud.com
+  - DOMAIN-SUFFIX,dlercloud.net
+
+
+  ## trello
+  - DOMAIN-SUFFIX,trello.com
+  - DOMAIN-SUFFIX,trellocdn.com
+
+  ## github codespaces
+  # windows.net is in Special.list
+  - DOMAIN-SUFFIX,windows.net
+
+  ## google mtalk
+  # https://www.reddit.com/r/privacy/comments/f5ifmd/android_randomly_connects_to_mtalkgooglecom/
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,gmail.com
+  - DOMAIN-SUFFIX,google
+  - DOMAIN-KEYWORD,google
+
+  # dropbox
+  - DOMAIN-SUFFIX,dropboxapi.com
+  - DOMAIN-SUFFIX,dropbox.com
+  - DOMAIN-SUFFIX,dropbox.tech
+
+
+  # chess.com
+  ## chess analysis
+  - DOMAIN-SUFFIX,chess.com
+
+  # lichess.org
+  - DOMAIN-SUFFIX,lichess.org
+
+  # objective-see.com
+  - DOMAIN-SUFFIX,objective-see.com
+
+  # sentry
+  - DOMAIN-SUFFIX,sentry.io
+
+
+  # libav
+  - DOMAIN-SUFFIX,libav.org
+
+  # dicts in saladict
+  - DOMAIN-SUFFIX,urbandictionary.com
+  - DOMAIN-SUFFIX,cambridge.org
+  - DOMAIN-SUFFIX,etymonline.com
+  - DOMAIN-SUFFIX,collinsdictionary.com
+
+  # foursquare
+  - DOMAIN-SUFFIX,foursquare.com
+
+  # remove.bg
+  - DOMAIN-SUFFIX,remove.bg
+
+  # procreate
+  - DOMAIN-SUFFIX,procreate.art
+  ## savage interactive, the company behind procreate
+  - DOMAIN-SUFFIX,savage.si 
+
+  # SE
+  - DOMAIN-SUFFIX,stackexchange.com
+
+  # magicplan
+  - DOMAIN-SUFFIX,magicplan.app
+
+  # ---------------
+  # cdn----
+  # ---------------
+  - DOMAIN-SUFFIX,knotch-cdn.com
+  - DOMAIN-SUFFIX,jsdelivr.net
+
+  # akamai
+  ## used by Dictionary.app
+  - DOMAIN-SUFFIX,akamaiedge.net
+
+  # ---------------
+  # tools---
+  # ---------------
+  # dark reader
+  - DOMAIN-SUFFIX,darkreader.org
+
+  # maxmind mmdb
+  - DOMAIN-SUFFIX,maxmind.com
+
+  # ---------------
+  # contents---
+  # ---------------
+  ## cult of mac
+  - DOMAIN-SUFFIX,cultofmac.com
+
+  ## how to geek
+  - DOMAIN-SUFFIX,howtogeek.com
+
+  ## others
+  - DOMAIN-SUFFIX,directindustry.com
+
+
+
+  # ---------------
+  # shopping---
+  # ---------------
+  # ebay---
+  - DOMAIN-SUFFIX,ebay.com
+  - DOMAIN-SUFFIX,ebaystatic.com
+  - DOMAIN-SUFFIX,ebayimg.com
+
+  # amazon---
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,ssl-images-amazon.com
+
+  # tracking
+  - DOMAIN-SUFFIX,dhlglobalmail.com
+
+
+  # gwdang global
+  - DOMAIN,cdn.gwdang.com
+
+
+
+  # ---------------
+  # unclear----
+  # ---------------
+  ## unclear sites
+  - DOMAIN-SUFFIX,aaxads.com
+
+
