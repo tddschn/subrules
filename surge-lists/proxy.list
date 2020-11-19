@@ -322,6 +322,16 @@ DOMAIN-SUFFIX,google
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,googleapps.com
 DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,googleblog.com
+DOMAIN-SUFFIX,googlegroups.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googlefiber.net
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,blogspot.com
+DOMAIN-SUFFIX,googlesource.com
+
 
 # dropbox
 DOMAIN-SUFFIX,dropboxapi.com

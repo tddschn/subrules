@@ -364,6 +364,16 @@
 - DOMAIN-KEYWORD,google,Proxy
 - DOMAIN-SUFFIX,googleapps.com,Proxy
 - DOMAIN-SUFFIX,googleusercontent.com,Proxy
+- DOMAIN-SUFFIX,googlevideo.com,Proxy
+- DOMAIN-SUFFIX,googleblog.com,Proxy
+- DOMAIN-SUFFIX,googlegroups.com,Proxy
+- DOMAIN-SUFFIX,googletagmanager.com,Proxy
+- DOMAIN-SUFFIX,googleadservices.com,Proxy
+- DOMAIN-SUFFIX,googlefiber.net,Proxy
+- DOMAIN-SUFFIX,google-analytics.com,Proxy
+- DOMAIN-SUFFIX,blogspot.com,Proxy
+- DOMAIN-SUFFIX,googlesource.com,Proxy
+
 
 # dropbox
 - DOMAIN-SUFFIX,dropboxapi.com,Proxy
