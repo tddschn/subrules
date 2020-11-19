@@ -451,3 +451,16 @@
 # edu.cn
 - DOMAIN-SUFFIX,edu.cn,Domestic
 
+## This config file is auto generated from coresponding Surge rules
+
+# block canva mlcn site (fix iOS issue)
+- DOMAIN-SUFFIX,canva.cn,AdBlock
+
+# ads
+- DOMAIN-SUFFIX,promotion.happy12138.top,AdBlock
+## This config file is auto generated from coresponding Surge rules
+
+# fix lhie1's spotify list
+- DOMAIN-SUFFIX,spotifycdn.com,Spotify
+- DOMAIN-SUFFIX,spotify.demdex.net,Spotify
+
