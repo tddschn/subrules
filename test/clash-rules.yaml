@@ -167,6 +167,7 @@
 - DOMAIN-SUFFIX,dog,Proxy
 - DOMAIN-SUFFIX,shop,Proxy
 - DOMAIN-SUFFIX,md,Proxy
+- DOMAIN-SUFFIX,ly,Proxy
 - DOMAIN-SUFFIX,blog,Proxy
 
 - DOMAIN-SUFFIX,us,Proxy
@@ -176,6 +177,12 @@
 - DOMAIN-SUFFIX,es,Proxy
 - DOMAIN-SUFFIX,ca,Proxy
 - DOMAIN-SUFFIX,dk,Proxy
+- DOMAIN-SUFFIX,se,Proxy
+- DOMAIN-SUFFIX,no,Proxy
+- DOMAIN-SUFFIX,fi,Proxy
+- DOMAIN-SUFFIX,is,Proxy
+- DOMAIN-SUFFIX,be,Proxy
+- DOMAIN-SUFFIX,nd,Proxy
 - DOMAIN-SUFFIX,de,Proxy
 - DOMAIN-SUFFIX,fr,Proxy
 - DOMAIN-SUFFIX,au,Proxy
