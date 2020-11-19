@@ -171,6 +171,8 @@
 - DOMAIN-SUFFIX,md,Proxy
 - DOMAIN-SUFFIX,ly,Proxy
 - DOMAIN-SUFFIX,blog,Proxy
+- DOMAIN-SUFFIX,cloud,Proxy
+- DOMAIN-SUFFIX,rocks,Proxy
 
 - DOMAIN-SUFFIX,us,Proxy
 - DOMAIN-SUFFIX,uk,Proxy

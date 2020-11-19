@@ -170,6 +170,8 @@ payload:
   - DOMAIN-SUFFIX,md
   - DOMAIN-SUFFIX,ly
   - DOMAIN-SUFFIX,blog
+  - DOMAIN-SUFFIX,cloud
+  - DOMAIN-SUFFIX,rocks
 
   - DOMAIN-SUFFIX,us
   - DOMAIN-SUFFIX,uk
