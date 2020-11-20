@@ -153,6 +153,11 @@ DOMAIN-SUFFIX,stripe.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# postale
+DOMAIN-SUFFIX,postale.io
+DOMAIN-SUFFIX,cookiepro.com
+DOMAIN-SUFFIX,onetrust.com
+
 # infoq
 DOMAIN-SUFFIX,infoq.com
 

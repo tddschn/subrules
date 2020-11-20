@@ -197,6 +197,11 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# postale
+- DOMAIN-SUFFIX,postale.io,Proxy
+- DOMAIN-SUFFIX,cookiepro.com,Proxy
+- DOMAIN-SUFFIX,onetrust.com,Proxy
+
 # infoq
 - DOMAIN-SUFFIX,infoq.com,Proxy
 
