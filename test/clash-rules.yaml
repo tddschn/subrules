@@ -343,6 +343,8 @@
 - DOMAIN-SUFFIX,github.io,Proxy
 - DOMAIN-SUFFIX,github.dev,Proxy
 - DOMAIN-KEYWORD,github,Proxy
+## container registry
+- DOMAIN-KEYWORD,ghcr.io,Proxy
 - DOMAIN-SUFFIX,victorlee.me,Proxy
 - DOMAIN-SUFFIX,teddysc.rocks,Proxy
 
