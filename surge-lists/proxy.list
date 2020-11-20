@@ -15,12 +15,14 @@ PROCESS-NAME,/Applications/Tor Browser.app/Contents/MacOS/Tor/tor.real
 # notion
 PROCESS-NAME,/Applications/Notion.app/Contents/MacOS/Notion
 ## notion related
+DOMAIN-KEYWORD,notion
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,loggly.com
 DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,notion.so
 # DOMAIN-SUFFIX,amazonaws.com
 
 # lulu

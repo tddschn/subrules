@@ -57,12 +57,14 @@
 # notion
 # PROCESS-NAME,/Applications/Notion.app/Contents/MacOS/Notion
 ## notion related
+- DOMAIN-KEYWORD,notion,Proxy
+- DOMAIN-SUFFIX,notion.so,Proxy
+- DOMAIN-SUFFIX,notion.new,Proxy
 - DOMAIN-SUFFIX,loggly.com,Proxy
 - DOMAIN-SUFFIX,segment.com,Proxy
 - DOMAIN-SUFFIX,intercom.io,Proxy
 - DOMAIN-SUFFIX,intercomcdn.com,Proxy
 - DOMAIN-SUFFIX,amplitude.com,Proxy
-- DOMAIN-SUFFIX,notion.so,Proxy
 # DOMAIN-SUFFIX,amazonaws.com
 
 # lulu
