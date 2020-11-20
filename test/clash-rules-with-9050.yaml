@@ -195,6 +195,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# infoq
+- DOMAIN-SUFFIX,infoq.com,Proxy
+
 # symfonycasts.com
 - DOMAIN-SUFFIX,symfonycasts.com,Proxy
 

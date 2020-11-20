@@ -151,6 +151,9 @@ DOMAIN-SUFFIX,stripe.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# infoq
+DOMAIN-SUFFIX,infoq.com
+
 # symfonycasts.com
 DOMAIN-SUFFIX,symfonycasts.com
 
