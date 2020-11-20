@@ -198,6 +198,9 @@
 # infoq
 - DOMAIN-SUFFIX,infoq.com,Proxy
 
+# fandom
+- DOMAIN-SUFFIX,fandom.com,Proxy
+
 # symfonycasts.com
 - DOMAIN-SUFFIX,symfonycasts.com,Proxy
 
