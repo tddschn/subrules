@@ -90,6 +90,71 @@
 - DOMAIN-SUFFIX,digitalcertvalidation.com,Proxy
 
 
+# ---------------
+# TLD----
+# ---------------
+# ## experimental
+# NOT,((OR,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
+
+# us gov sites
+- DOMAIN-SUFFIX,gov,Proxy
+
+# us military
+- DOMAIN-SUFFIX,mil,Proxy
+
+# us school sites
+- DOMAIN-SUFFIX,edu,Proxy
+
+# other non-mlcn TLDs
+- DOMAIN-SUFFIX,int,Proxy
+- DOMAIN-SUFFIX,org,Proxy
+
+- DOMAIN-SUFFIX,io,Proxy
+- DOMAIN-SUFFIX,ai,Proxy
+- DOMAIN-SUFFIX,sh,Proxy
+- DOMAIN-SUFFIX,moe,Proxy
+- DOMAIN-SUFFIX,me,Proxy
+- DOMAIN-SUFFIX,dev,Proxy
+- DOMAIN-SUFFIX,website,Proxy
+- DOMAIN-SUFFIX,rent,Proxy
+- DOMAIN-SUFFIX,community,Proxy
+- DOMAIN-SUFFIX,asia,Proxy
+- DOMAIN-SUFFIX,eu,Proxy
+- DOMAIN-SUFFIX,co,Proxy
+- DOMAIN-SUFFIX,app,Proxy
+- DOMAIN-SUFFIX,dog,Proxy
+- DOMAIN-SUFFIX,shop,Proxy
+- DOMAIN-SUFFIX,md,Proxy
+- DOMAIN-SUFFIX,ly,Proxy
+- DOMAIN-SUFFIX,blog,Proxy
+- DOMAIN-SUFFIX,cloud,Proxy
+- DOMAIN-SUFFIX,rocks,Proxy
+
+- DOMAIN-SUFFIX,us,Proxy
+- DOMAIN-SUFFIX,uk,Proxy
+- DOMAIN-SUFFIX,it,Proxy
+- DOMAIN-SUFFIX,cc,Proxy
+- DOMAIN-SUFFIX,es,Proxy
+- DOMAIN-SUFFIX,ca,Proxy
+- DOMAIN-SUFFIX,dk,Proxy
+- DOMAIN-SUFFIX,se,Proxy
+- DOMAIN-SUFFIX,no,Proxy
+- DOMAIN-SUFFIX,fi,Proxy
+- DOMAIN-SUFFIX,is,Proxy
+- DOMAIN-SUFFIX,st,Proxy
+- DOMAIN-SUFFIX,in,Proxy
+- DOMAIN-SUFFIX,br,Proxy
+- DOMAIN-SUFFIX,be,Proxy
+- DOMAIN-SUFFIX,nd,Proxy
+- DOMAIN-SUFFIX,de,Proxy
+- DOMAIN-SUFFIX,fr,Proxy
+- DOMAIN-SUFFIX,au,Proxy
+- DOMAIN-SUFFIX,nz,Proxy
+- DOMAIN-SUFFIX,tw,Proxy
+- DOMAIN-SUFFIX,jp,Proxy
+- DOMAIN-SUFFIX,kr,Proxy
+- DOMAIN-SUFFIX,pl // poland,Proxy
+
 
 
 # ---------------
@@ -112,11 +177,24 @@
 - DOMAIN-SUFFIX,redditmedia.com,Proxy
 - DOMAIN-SUFFIX,redditstatic.com,Proxy
 
+# ---------------
+# finance----
+# ---------------
+- DOMAIN-SUFFIX,stripe.com,Proxy
+
+
 
 # ---------------
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# symfonycasts.com
+- DOMAIN-SUFFIX,symfonycasts.com,Proxy
+
+# US court records
+- DOMAIN-SUFFIX,courtlistener.com,Proxy
+- DOMAIN-SUFFIX,judyrecords.com,Proxy
+
 # metasploit.com
 - DOMAIN-SUFFIX,metasploit.com,Proxy
 
@@ -188,66 +266,9 @@
 - DOMAIN-SUFFIX,algolianet.com,Proxy
 
 
-# us gov sites
-- DOMAIN-SUFFIX,gov,Proxy
 
-# us military
-- DOMAIN-SUFFIX,mil,Proxy
-
-# us school sites
-- DOMAIN-SUFFIX,edu,Proxy
-
-# other non-mlcn TLDs
-# ## experimental
-# NOT,((OR,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
-- DOMAIN-SUFFIX,int,Proxy
-- DOMAIN-SUFFIX,org,Proxy
-
-- DOMAIN-SUFFIX,io,Proxy
-- DOMAIN-SUFFIX,ai,Proxy
-- DOMAIN-SUFFIX,sh,Proxy
-- DOMAIN-SUFFIX,moe,Proxy
-- DOMAIN-SUFFIX,me,Proxy
-- DOMAIN-SUFFIX,dev,Proxy
-- DOMAIN-SUFFIX,website,Proxy
-- DOMAIN-SUFFIX,rent,Proxy
-- DOMAIN-SUFFIX,community,Proxy
-- DOMAIN-SUFFIX,asia,Proxy
-- DOMAIN-SUFFIX,eu,Proxy
-- DOMAIN-SUFFIX,co,Proxy
-- DOMAIN-SUFFIX,app,Proxy
-- DOMAIN-SUFFIX,dog,Proxy
-- DOMAIN-SUFFIX,shop,Proxy
-- DOMAIN-SUFFIX,md,Proxy
-- DOMAIN-SUFFIX,ly,Proxy
-- DOMAIN-SUFFIX,blog,Proxy
-- DOMAIN-SUFFIX,cloud,Proxy
-- DOMAIN-SUFFIX,rocks,Proxy
-
-- DOMAIN-SUFFIX,us,Proxy
-- DOMAIN-SUFFIX,uk,Proxy
-- DOMAIN-SUFFIX,it,Proxy
-- DOMAIN-SUFFIX,cc,Proxy
-- DOMAIN-SUFFIX,es,Proxy
-- DOMAIN-SUFFIX,ca,Proxy
-- DOMAIN-SUFFIX,dk,Proxy
-- DOMAIN-SUFFIX,se,Proxy
-- DOMAIN-SUFFIX,no,Proxy
-- DOMAIN-SUFFIX,fi,Proxy
-- DOMAIN-SUFFIX,is,Proxy
-- DOMAIN-SUFFIX,st,Proxy
-- DOMAIN-SUFFIX,in,Proxy
-- DOMAIN-SUFFIX,br,Proxy
-- DOMAIN-SUFFIX,be,Proxy
-- DOMAIN-SUFFIX,nd,Proxy
-- DOMAIN-SUFFIX,de,Proxy
-- DOMAIN-SUFFIX,fr,Proxy
-- DOMAIN-SUFFIX,au,Proxy
-- DOMAIN-SUFFIX,nz,Proxy
-- DOMAIN-SUFFIX,tw,Proxy
-- DOMAIN-SUFFIX,jp,Proxy
-- DOMAIN-SUFFIX,kr,Proxy
-- DOMAIN-SUFFIX,pl // poland,Proxy
+# ?
+- DOMAIN-SUFFIX,techno-logic-art.com,Proxy
 
 - DOMAIN-KEYWORD,webdev,Proxy
 
@@ -303,6 +324,9 @@
 - DOMAIN-KEYWORD,github,Proxy
 - DOMAIN-SUFFIX,victorlee.me,Proxy
 - DOMAIN-SUFFIX,teddysc.rocks,Proxy
+
+## (unofficial) GitHub buttons
+- DOMAIN-SUFFIX,ghbtns.com,Proxy
 
 # gitlab
 - DOMAIN-SUFFIX,gitlab.com,Proxy

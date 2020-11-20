@@ -51,6 +51,71 @@ payload:
   - DOMAIN-SUFFIX,digitalcertvalidation.com
 
 
+  # ---------------
+  # TLD----
+  # ---------------
+  # ## experimental
+  # NOT,((OR,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
+
+  # us gov sites
+  - DOMAIN-SUFFIX,gov
+
+  # us military
+  - DOMAIN-SUFFIX,mil
+
+  # us school sites
+  - DOMAIN-SUFFIX,edu
+
+  # other non-mlcn TLDs
+  - DOMAIN-SUFFIX,int
+  - DOMAIN-SUFFIX,org
+
+  - DOMAIN-SUFFIX,io
+  - DOMAIN-SUFFIX,ai
+  - DOMAIN-SUFFIX,sh
+  - DOMAIN-SUFFIX,moe
+  - DOMAIN-SUFFIX,me
+  - DOMAIN-SUFFIX,dev
+  - DOMAIN-SUFFIX,website
+  - DOMAIN-SUFFIX,rent
+  - DOMAIN-SUFFIX,community
+  - DOMAIN-SUFFIX,asia
+  - DOMAIN-SUFFIX,eu
+  - DOMAIN-SUFFIX,co
+  - DOMAIN-SUFFIX,app
+  - DOMAIN-SUFFIX,dog
+  - DOMAIN-SUFFIX,shop
+  - DOMAIN-SUFFIX,md
+  - DOMAIN-SUFFIX,ly
+  - DOMAIN-SUFFIX,blog
+  - DOMAIN-SUFFIX,cloud
+  - DOMAIN-SUFFIX,rocks
+
+  - DOMAIN-SUFFIX,us
+  - DOMAIN-SUFFIX,uk
+  - DOMAIN-SUFFIX,it
+  - DOMAIN-SUFFIX,cc
+  - DOMAIN-SUFFIX,es
+  - DOMAIN-SUFFIX,ca
+  - DOMAIN-SUFFIX,dk
+  - DOMAIN-SUFFIX,se
+  - DOMAIN-SUFFIX,no
+  - DOMAIN-SUFFIX,fi
+  - DOMAIN-SUFFIX,is
+  - DOMAIN-SUFFIX,st
+  - DOMAIN-SUFFIX,in
+  - DOMAIN-SUFFIX,br
+  - DOMAIN-SUFFIX,be
+  - DOMAIN-SUFFIX,nd
+  - DOMAIN-SUFFIX,de
+  - DOMAIN-SUFFIX,fr
+  - DOMAIN-SUFFIX,au
+  - DOMAIN-SUFFIX,nz
+  - DOMAIN-SUFFIX,tw
+  - DOMAIN-SUFFIX,jp
+  - DOMAIN-SUFFIX,kr
+  - DOMAIN-SUFFIX,pl // poland
+
 
 
   # ---------------
@@ -73,11 +138,24 @@ payload:
   - DOMAIN-SUFFIX,redditmedia.com
   - DOMAIN-SUFFIX,redditstatic.com
 
+  # ---------------
+  # finance----
+  # ---------------
+  - DOMAIN-SUFFIX,stripe.com
+
+
 
   # ---------------
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # symfonycasts.com
+  - DOMAIN-SUFFIX,symfonycasts.com
+
+  # US court records
+  - DOMAIN-SUFFIX,courtlistener.com
+  - DOMAIN-SUFFIX,judyrecords.com
+
   # metasploit.com
   - DOMAIN-SUFFIX,metasploit.com
 
@@ -149,66 +227,9 @@ payload:
   - DOMAIN-SUFFIX,algolianet.com
 
 
-  # us gov sites
-  - DOMAIN-SUFFIX,gov
 
-  # us military
-  - DOMAIN-SUFFIX,mil
-
-  # us school sites
-  - DOMAIN-SUFFIX,edu
-
-  # other non-mlcn TLDs
-  # ## experimental
-  # NOT,((OR,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
-  - DOMAIN-SUFFIX,int
-  - DOMAIN-SUFFIX,org
-
-  - DOMAIN-SUFFIX,io
-  - DOMAIN-SUFFIX,ai
-  - DOMAIN-SUFFIX,sh
-  - DOMAIN-SUFFIX,moe
-  - DOMAIN-SUFFIX,me
-  - DOMAIN-SUFFIX,dev
-  - DOMAIN-SUFFIX,website
-  - DOMAIN-SUFFIX,rent
-  - DOMAIN-SUFFIX,community
-  - DOMAIN-SUFFIX,asia
-  - DOMAIN-SUFFIX,eu
-  - DOMAIN-SUFFIX,co
-  - DOMAIN-SUFFIX,app
-  - DOMAIN-SUFFIX,dog
-  - DOMAIN-SUFFIX,shop
-  - DOMAIN-SUFFIX,md
-  - DOMAIN-SUFFIX,ly
-  - DOMAIN-SUFFIX,blog
-  - DOMAIN-SUFFIX,cloud
-  - DOMAIN-SUFFIX,rocks
-
-  - DOMAIN-SUFFIX,us
-  - DOMAIN-SUFFIX,uk
-  - DOMAIN-SUFFIX,it
-  - DOMAIN-SUFFIX,cc
-  - DOMAIN-SUFFIX,es
-  - DOMAIN-SUFFIX,ca
-  - DOMAIN-SUFFIX,dk
-  - DOMAIN-SUFFIX,se
-  - DOMAIN-SUFFIX,no
-  - DOMAIN-SUFFIX,fi
-  - DOMAIN-SUFFIX,is
-  - DOMAIN-SUFFIX,st
-  - DOMAIN-SUFFIX,in
-  - DOMAIN-SUFFIX,br
-  - DOMAIN-SUFFIX,be
-  - DOMAIN-SUFFIX,nd
-  - DOMAIN-SUFFIX,de
-  - DOMAIN-SUFFIX,fr
-  - DOMAIN-SUFFIX,au
-  - DOMAIN-SUFFIX,nz
-  - DOMAIN-SUFFIX,tw
-  - DOMAIN-SUFFIX,jp
-  - DOMAIN-SUFFIX,kr
-  - DOMAIN-SUFFIX,pl // poland
+  # ?
+  - DOMAIN-SUFFIX,techno-logic-art.com
 
   - DOMAIN-KEYWORD,webdev
 
@@ -264,6 +285,9 @@ payload:
   - DOMAIN-KEYWORD,github
   - DOMAIN-SUFFIX,victorlee.me
   - DOMAIN-SUFFIX,teddysc.rocks
+
+  ## (unofficial) GitHub buttons
+  - DOMAIN-SUFFIX,ghbtns.com
 
   # gitlab
   - DOMAIN-SUFFIX,gitlab.com
