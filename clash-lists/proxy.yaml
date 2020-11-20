@@ -78,6 +78,7 @@ payload:
   - DOMAIN-SUFFIX,dev
   - DOMAIN-SUFFIX,website
   - DOMAIN-SUFFIX,rent
+  - DOMAIN-SUFFIX,guide
   - DOMAIN-SUFFIX,community
   - DOMAIN-SUFFIX,asia
   - DOMAIN-SUFFIX,eu
@@ -103,6 +104,9 @@ payload:
   - DOMAIN-SUFFIX,fi
   - DOMAIN-SUFFIX,is
   - DOMAIN-SUFFIX,st
+  - DOMAIN-SUFFIX,nf
+  - DOMAIN-SUFFIX,hk
+  - DOMAIN-SUFFIX,mo
   - DOMAIN-SUFFIX,in
   - DOMAIN-SUFFIX,br
   - DOMAIN-SUFFIX,be

@@ -117,6 +117,7 @@
 - DOMAIN-SUFFIX,dev,Proxy
 - DOMAIN-SUFFIX,website,Proxy
 - DOMAIN-SUFFIX,rent,Proxy
+- DOMAIN-SUFFIX,guide,Proxy
 - DOMAIN-SUFFIX,community,Proxy
 - DOMAIN-SUFFIX,asia,Proxy
 - DOMAIN-SUFFIX,eu,Proxy
@@ -142,6 +143,9 @@
 - DOMAIN-SUFFIX,fi,Proxy
 - DOMAIN-SUFFIX,is,Proxy
 - DOMAIN-SUFFIX,st,Proxy
+- DOMAIN-SUFFIX,nf,Proxy
+- DOMAIN-SUFFIX,hk,Proxy
+- DOMAIN-SUFFIX,mo,Proxy
 - DOMAIN-SUFFIX,in,Proxy
 - DOMAIN-SUFFIX,br,Proxy
 - DOMAIN-SUFFIX,be,Proxy
