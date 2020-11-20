@@ -122,6 +122,7 @@
 - DOMAIN-SUFFIX,asia,Proxy
 - DOMAIN-SUFFIX,eu,Proxy
 - DOMAIN-SUFFIX,co,Proxy
+- DOMAIN-SUFFIX,im,Proxy
 - DOMAIN-SUFFIX,app,Proxy
 - DOMAIN-SUFFIX,dog,Proxy
 - DOMAIN-SUFFIX,shop,Proxy

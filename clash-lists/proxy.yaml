@@ -83,6 +83,7 @@ payload:
   - DOMAIN-SUFFIX,asia
   - DOMAIN-SUFFIX,eu
   - DOMAIN-SUFFIX,co
+  - DOMAIN-SUFFIX,im
   - DOMAIN-SUFFIX,app
   - DOMAIN-SUFFIX,dog
   - DOMAIN-SUFFIX,shop
