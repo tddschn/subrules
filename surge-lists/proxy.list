@@ -153,6 +153,9 @@ DOMAIN-SUFFIX,stripe.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# thunderbird.net
+DOMAIN-SUFFIX,thunderbird.net
+
 # postale
 DOMAIN-SUFFIX,postale.io
 DOMAIN-SUFFIX,cookiepro.com

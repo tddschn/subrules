@@ -197,6 +197,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# thunderbird.net
+- DOMAIN-SUFFIX,thunderbird.net,Proxy
+
 # postale
 - DOMAIN-SUFFIX,postale.io,Proxy
 - DOMAIN-SUFFIX,cookiepro.com,Proxy
