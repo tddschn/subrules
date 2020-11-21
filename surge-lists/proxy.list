@@ -118,7 +118,9 @@ DOMAIN-SUFFIX,nz
 DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,jp
 DOMAIN-SUFFIX,kr
-DOMAIN-SUFFIX,pl // poland
+DOMAIN-SUFFIX,pl
+# appcenter, microsoft
+DOMAIN-SUFFIX,ms
 
 
 

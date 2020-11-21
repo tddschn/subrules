@@ -160,7 +160,9 @@
 - DOMAIN-SUFFIX,tw,Proxy
 - DOMAIN-SUFFIX,jp,Proxy
 - DOMAIN-SUFFIX,kr,Proxy
-- DOMAIN-SUFFIX,pl // poland,Proxy
+- DOMAIN-SUFFIX,pl,Proxy
+# appcenter, microsoft
+- DOMAIN-SUFFIX,ms,Proxy
 
 
 
