@@ -89,6 +89,7 @@ payload:
   - DOMAIN-SUFFIX,app
   - DOMAIN-SUFFIX,dog
   - DOMAIN-SUFFIX,shop
+  - DOMAIN-SUFFIX,ninja
   - DOMAIN-SUFFIX,md
   - DOMAIN-SUFFIX,ly
   - DOMAIN-SUFFIX,blog
@@ -134,6 +135,7 @@ payload:
   # ---------------
   - DOMAIN-SUFFIX,skk.moe
   - DOMAIN-SUFFIX,andrewdenty.com
+  - DOMAIN-SUFFIX,kovidgoyal.net
 
 
   # ---------------

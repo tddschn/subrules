@@ -130,6 +130,7 @@
 - DOMAIN-SUFFIX,app,Proxy
 - DOMAIN-SUFFIX,dog,Proxy
 - DOMAIN-SUFFIX,shop,Proxy
+- DOMAIN-SUFFIX,ninja,Proxy
 - DOMAIN-SUFFIX,md,Proxy
 - DOMAIN-SUFFIX,ly,Proxy
 - DOMAIN-SUFFIX,blog,Proxy
@@ -175,6 +176,7 @@
 # ---------------
 - DOMAIN-SUFFIX,skk.moe,Proxy
 - DOMAIN-SUFFIX,andrewdenty.com,Proxy
+- DOMAIN-SUFFIX,kovidgoyal.net,Proxy
 
 
 # ---------------
