@@ -133,6 +133,7 @@
 - DOMAIN-SUFFIX,blog,Proxy
 - DOMAIN-SUFFIX,cloud,Proxy
 - DOMAIN-SUFFIX,rocks,Proxy
+- DOMAIN-SUFFIX,moe,Proxy
 
 - DOMAIN-SUFFIX,us,Proxy
 - DOMAIN-SUFFIX,uk,Proxy
@@ -163,6 +164,7 @@
 - DOMAIN-SUFFIX,pl,Proxy
 # appcenter, microsoft
 - DOMAIN-SUFFIX,ms,Proxy
+- DOMAIN-SUFFIX,lv,Proxy
 
 
 

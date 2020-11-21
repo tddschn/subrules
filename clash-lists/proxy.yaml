@@ -94,6 +94,7 @@ payload:
   - DOMAIN-SUFFIX,blog
   - DOMAIN-SUFFIX,cloud
   - DOMAIN-SUFFIX,rocks
+  - DOMAIN-SUFFIX,moe
 
   - DOMAIN-SUFFIX,us
   - DOMAIN-SUFFIX,uk
@@ -124,6 +125,7 @@ payload:
   - DOMAIN-SUFFIX,pl
   # appcenter, microsoft
   - DOMAIN-SUFFIX,ms
+  - DOMAIN-SUFFIX,lv
 
 
 
