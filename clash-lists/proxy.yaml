@@ -83,6 +83,7 @@ payload:
   - DOMAIN-SUFFIX,me
   - DOMAIN-SUFFIX,dev
   - DOMAIN-SUFFIX,website
+  - DOMAIN-SUFFIX,guru
   - DOMAIN-SUFFIX,tech
   - DOMAIN-SUFFIX,rent
   - DOMAIN-SUFFIX,guide
