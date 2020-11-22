@@ -79,6 +79,7 @@ payload:
   - DOMAIN-SUFFIX,me
   - DOMAIN-SUFFIX,dev
   - DOMAIN-SUFFIX,website
+  - DOMAIN-SUFFIX,tech
   - DOMAIN-SUFFIX,rent
   - DOMAIN-SUFFIX,guide
   - DOMAIN-SUFFIX,community

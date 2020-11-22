@@ -120,6 +120,7 @@
 - DOMAIN-SUFFIX,me,Proxy
 - DOMAIN-SUFFIX,dev,Proxy
 - DOMAIN-SUFFIX,website,Proxy
+- DOMAIN-SUFFIX,tech,Proxy
 - DOMAIN-SUFFIX,rent,Proxy
 - DOMAIN-SUFFIX,guide,Proxy
 - DOMAIN-SUFFIX,community,Proxy
