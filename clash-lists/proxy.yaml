@@ -163,6 +163,9 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # fontawesome.com
+  - DOMAIN-SUFFIX,fontawesome.com
+
   # thunderbird.net
   - DOMAIN-SUFFIX,thunderbird.net
 
