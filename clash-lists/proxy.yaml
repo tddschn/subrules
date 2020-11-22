@@ -53,6 +53,10 @@ payload:
   - DOMAIN-SUFFIX,digitalcertvalidation.com
 
 
+
+  # ## experimental
+  - DOMAIN-KEYWORD,cdn
+
   # ---------------
   # TLD----
   # ---------------
@@ -504,6 +508,10 @@ payload:
   - DOMAIN,cdn.gwdang.com
 
 
+  # ---------------
+  # misc----
+  # ---------------
+  - DOMAIN-SUFFIX,contentful.com
 
   # ---------------
   # unclear----

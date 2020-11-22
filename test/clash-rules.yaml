@@ -92,6 +92,10 @@
 - DOMAIN-SUFFIX,digitalcertvalidation.com,Proxy
 
 
+
+# ## experimental
+- DOMAIN-KEYWORD,cdn,Proxy
+
 # ---------------
 # TLD----
 # ---------------
@@ -543,6 +547,10 @@
 - DOMAIN,cdn.gwdang.com,Proxy
 
 
+# ---------------
+# misc----
+# ---------------
+- DOMAIN-SUFFIX,contentful.com,Proxy
 
 # ---------------
 # unclear----
