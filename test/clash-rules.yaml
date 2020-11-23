@@ -172,6 +172,7 @@
 # appcenter, microsoft
 - DOMAIN-SUFFIX,ms,Proxy
 - DOMAIN-SUFFIX,lv,Proxy
+- DOMAIN-SUFFIX,to,Proxy
 
 
 

@@ -133,6 +133,7 @@ payload:
   # appcenter, microsoft
   - DOMAIN-SUFFIX,ms
   - DOMAIN-SUFFIX,lv
+  - DOMAIN-SUFFIX,to
 
 
 
