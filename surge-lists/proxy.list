@@ -169,6 +169,9 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,zdassets.com
 DOMAIN-SUFFIX,zendesk.com
 
+# tampermonkey.net
+DOMAIN-SUFFIX,tampermonkey.net
+
 # fontawesome.com
 DOMAIN-SUFFIX,fontawesome.com
 

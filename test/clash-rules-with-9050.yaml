@@ -213,6 +213,9 @@
 - DOMAIN-SUFFIX,zdassets.com,Proxy
 - DOMAIN-SUFFIX,zendesk.com,Proxy
 
+# tampermonkey.net
+- DOMAIN-SUFFIX,tampermonkey.net,Proxy
+
 # fontawesome.com
 - DOMAIN-SUFFIX,fontawesome.com,Proxy
 
