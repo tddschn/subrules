@@ -130,7 +130,6 @@ payload:
   - DOMAIN-SUFFIX,jp
   - DOMAIN-SUFFIX,kr
   - DOMAIN-SUFFIX,pl
-  # appcenter, microsoft
   - DOMAIN-SUFFIX,ms
   - DOMAIN-SUFFIX,lv
   - DOMAIN-SUFFIX,to

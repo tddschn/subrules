@@ -169,7 +169,6 @@
 - DOMAIN-SUFFIX,jp,Proxy
 - DOMAIN-SUFFIX,kr,Proxy
 - DOMAIN-SUFFIX,pl,Proxy
-# appcenter, microsoft
 - DOMAIN-SUFFIX,ms,Proxy
 - DOMAIN-SUFFIX,lv,Proxy
 - DOMAIN-SUFFIX,to,Proxy
