@@ -207,6 +207,10 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# zendesk
+- DOMAIN-SUFFIX,zdassets.com,Proxy
+- DOMAIN-SUFFIX,zendesk.com,Proxy
+
 # fontawesome.com
 - DOMAIN-SUFFIX,fontawesome.com,Proxy
 

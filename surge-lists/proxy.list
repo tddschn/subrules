@@ -165,6 +165,10 @@ DOMAIN-SUFFIX,stripe.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# zendesk
+DOMAIN-SUFFIX,zdassets.com
+DOMAIN-SUFFIX,zendesk.com
+
 # fontawesome.com
 DOMAIN-SUFFIX,fontawesome.com
 
