@@ -217,6 +217,9 @@
 # regex101.com
 - DOMAIN-SUFFIX,regex101.com,Proxy
 
+# postman
+- DOMAIN-SUFFIX,getpostman.com,Proxy
+
 # fontawesome.com
 - DOMAIN-SUFFIX,fontawesome.com,Proxy
 

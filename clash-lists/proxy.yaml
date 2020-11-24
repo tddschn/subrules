@@ -178,6 +178,9 @@ payload:
   # regex101.com
   - DOMAIN-SUFFIX,regex101.com
 
+  # postman
+  - DOMAIN-SUFFIX,getpostman.com
+
   # fontawesome.com
   - DOMAIN-SUFFIX,fontawesome.com
 
