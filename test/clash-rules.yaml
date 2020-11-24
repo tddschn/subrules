@@ -220,6 +220,15 @@
 # postman
 - DOMAIN-SUFFIX,getpostman.com,Proxy
 
+# virustotal
+- DOMAIN-SUFFIX,virustotal.com,Proxy
+
+# hackerone.com
+- DOMAIN-SUFFIX,hackerone.com,Proxy
+
+# protonmail
+- DOMAIN-SUFFIX,protonmail.com,Proxy
+
 # fontawesome.com
 - DOMAIN-SUFFIX,fontawesome.com,Proxy
 

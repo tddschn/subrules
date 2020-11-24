@@ -181,6 +181,15 @@ payload:
   # postman
   - DOMAIN-SUFFIX,getpostman.com
 
+  # virustotal
+  - DOMAIN-SUFFIX,virustotal.com
+
+  # hackerone.com
+  - DOMAIN-SUFFIX,hackerone.com
+
+  # protonmail
+  - DOMAIN-SUFFIX,protonmail.com
+
   # fontawesome.com
   - DOMAIN-SUFFIX,fontawesome.com
 
