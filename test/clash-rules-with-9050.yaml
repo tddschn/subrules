@@ -216,6 +216,9 @@
 # tampermonkey.net
 - DOMAIN-SUFFIX,tampermonkey.net,Proxy
 
+# regex101.com
+- DOMAIN-SUFFIX,regex101.com,Proxy
+
 # fontawesome.com
 - DOMAIN-SUFFIX,fontawesome.com,Proxy
 
