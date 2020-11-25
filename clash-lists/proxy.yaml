@@ -187,6 +187,9 @@ payload:
   # hackerone.com
   - DOMAIN-SUFFIX,hackerone.com
 
+  # marginnote.com
+  - DOMAIN-SUFFIX,marginnote.com
+
   # protonmail
   - DOMAIN-SUFFIX,protonmail.com
 

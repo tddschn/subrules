@@ -228,6 +228,9 @@
 # hackerone.com
 - DOMAIN-SUFFIX,hackerone.com,Proxy
 
+# marginnote.com
+- DOMAIN-SUFFIX,marginnote.com,Proxy
+
 # protonmail
 - DOMAIN-SUFFIX,protonmail.com,Proxy
 
