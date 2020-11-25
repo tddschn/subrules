@@ -176,7 +176,11 @@ DOMAIN-SUFFIX,tampermonkey.net
 DOMAIN-SUFFIX,regex101.com
 
 # postman
+## https://learning.postman.com/docs/getting-started/installation-and-updates/#using-postman-behind-a-firewall
 DOMAIN-SUFFIX,getpostman.com
+DOMAIN-SUFFIX,postman.co
+DOMAIN-SUFFIX,pstmn.io
+DOMAIN-SUFFIX,postman.com
 
 # virustotal
 DOMAIN-SUFFIX,virustotal.com

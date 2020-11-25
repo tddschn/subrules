@@ -218,7 +218,11 @@
 - DOMAIN-SUFFIX,regex101.com,Proxy
 
 # postman
+## https://learning.postman.com/docs/getting-started/installation-and-updates/#using-postman-behind-a-firewall
 - DOMAIN-SUFFIX,getpostman.com,Proxy
+- DOMAIN-SUFFIX,postman.co,Proxy
+- DOMAIN-SUFFIX,pstmn.io,Proxy
+- DOMAIN-SUFFIX,postman.com,Proxy
 
 # virustotal
 - DOMAIN-SUFFIX,virustotal.com,Proxy
