@@ -4,3 +4,6 @@
 AND,((PROCESS-NAME,/Applications/Surge.app/Contents/MacOS/Surge), (DOMAIN,sessions.bugsnag.com))
 AND,((PROCESS-NAME,/Applications/Surge.app/Contents/Applications/Surge Dashboard.app/Contents/MacOS/Surge Dashboard), (DOMAIN,sessions.bugsnag.com))
 
+# block marginnote requests to baidu cloud engine
+AND,((PROCESS-NAME,/Applications/MarginNote 3.app/Contents/MacOS/MarginNote 3), (DOMAIN,aip.baidubce.com))
+
