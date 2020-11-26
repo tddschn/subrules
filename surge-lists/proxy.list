@@ -166,6 +166,9 @@ DOMAIN-SUFFIX,stripe.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# sourcegraph.com
+DOMAIN-SUFFIX,sourcegraph.com
+
 # cloudflare
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cdnjs.com

@@ -210,6 +210,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# sourcegraph.com
+- DOMAIN-SUFFIX,sourcegraph.com,Proxy
+
 # cloudflare
 - DOMAIN-SUFFIX,cloudflare.com,Proxy
 - DOMAIN-SUFFIX,cdnjs.com,Proxy
