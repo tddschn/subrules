@@ -169,6 +169,10 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # cloudflare
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cdnjs.com
+
   # zendesk
   - DOMAIN-SUFFIX,zdassets.com
   - DOMAIN-SUFFIX,zendesk.com

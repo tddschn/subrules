@@ -210,6 +210,10 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# cloudflare
+- DOMAIN-SUFFIX,cloudflare.com,Proxy
+- DOMAIN-SUFFIX,cdnjs.com,Proxy
+
 # zendesk
 - DOMAIN-SUFFIX,zdassets.com,Proxy
 - DOMAIN-SUFFIX,zendesk.com,Proxy
