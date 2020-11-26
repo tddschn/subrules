@@ -137,6 +137,7 @@ DOMAIN-SUFFIX,to
 # personal---- sites
 # ---------------
 DOMAIN-SUFFIX,skk.moe
+DOMAIN-SUFFIX,yihui.org
 DOMAIN-SUFFIX,andrewdenty.com
 DOMAIN-SUFFIX,kovidgoyal.net
 

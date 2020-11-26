@@ -179,6 +179,7 @@
 # personal---- sites
 # ---------------
 - DOMAIN-SUFFIX,skk.moe,Proxy
+- DOMAIN-SUFFIX,yihui.org,Proxy
 - DOMAIN-SUFFIX,andrewdenty.com,Proxy
 - DOMAIN-SUFFIX,kovidgoyal.net,Proxy
 
