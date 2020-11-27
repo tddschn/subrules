@@ -123,6 +123,7 @@
 - DOMAIN-SUFFIX,dev,Proxy
 - DOMAIN-SUFFIX,website,Proxy
 - DOMAIN-SUFFIX,works,Proxy
+- DOMAIN-SUFFIX,icu,Proxy
 - DOMAIN-SUFFIX,guru,Proxy
 - DOMAIN-SUFFIX,tech,Proxy
 - DOMAIN-SUFFIX,rent,Proxy
