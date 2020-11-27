@@ -215,6 +215,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# getpocket.com
+- DOMAIN-SUFFIX,getpocket.com,Proxy
+
 # sourcegraph.com
 - DOMAIN-SUFFIX,sourcegraph.com,Proxy
 

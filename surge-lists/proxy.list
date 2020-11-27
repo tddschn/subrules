@@ -171,6 +171,9 @@ DOMAIN-SUFFIX,stripe.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# getpocket.com
+DOMAIN-SUFFIX,getpocket.com
+
 # sourcegraph.com
 DOMAIN-SUFFIX,sourcegraph.com
 
