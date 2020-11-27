@@ -146,6 +146,7 @@
 
 - DOMAIN-SUFFIX,us,Proxy
 - DOMAIN-SUFFIX,uk,Proxy
+- DOMAIN-SUFFIX,li,Proxy
 - DOMAIN-SUFFIX,it,Proxy
 - DOMAIN-SUFFIX,cc,Proxy
 - DOMAIN-SUFFIX,es,Proxy

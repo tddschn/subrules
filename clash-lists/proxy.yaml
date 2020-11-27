@@ -107,6 +107,7 @@ payload:
 
   - DOMAIN-SUFFIX,us
   - DOMAIN-SUFFIX,uk
+  - DOMAIN-SUFFIX,li
   - DOMAIN-SUFFIX,it
   - DOMAIN-SUFFIX,cc
   - DOMAIN-SUFFIX,es
