@@ -220,6 +220,9 @@
 - DOMAIN-SUFFIX,cdnjs.com,Proxy
 - DOMAIN-SUFFIX,argotunnel.com,Proxy
 
+# zerossl.com
+- DOMAIN-SUFFIX,zerossl.com,Proxy
+
 # zendesk
 - DOMAIN-SUFFIX,zdassets.com,Proxy
 - DOMAIN-SUFFIX,zendesk.com,Proxy
