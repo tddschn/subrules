@@ -179,6 +179,7 @@ payload:
   # cloudflare
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cdnjs.com
+  - DOMAIN-SUFFIX,argotunnel.com
 
   # zendesk
   - DOMAIN-SUFFIX,zdassets.com
