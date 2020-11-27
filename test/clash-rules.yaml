@@ -126,6 +126,7 @@
 - DOMAIN-SUFFIX,icu,Proxy
 - DOMAIN-SUFFIX,guru,Proxy
 - DOMAIN-SUFFIX,tech,Proxy
+- DOMAIN-SUFFIX,email,Proxy
 - DOMAIN-SUFFIX,rent,Proxy
 - DOMAIN-SUFFIX,guide,Proxy
 - DOMAIN-SUFFIX,community,Proxy

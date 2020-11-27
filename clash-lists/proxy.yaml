@@ -87,6 +87,7 @@ payload:
   - DOMAIN-SUFFIX,icu
   - DOMAIN-SUFFIX,guru
   - DOMAIN-SUFFIX,tech
+  - DOMAIN-SUFFIX,email
   - DOMAIN-SUFFIX,rent
   - DOMAIN-SUFFIX,guide
   - DOMAIN-SUFFIX,community
