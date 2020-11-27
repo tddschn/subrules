@@ -177,6 +177,9 @@ payload:
   # getpocket.com
   - DOMAIN-SUFFIX,getpocket.com
 
+  # php.net
+  - DOMAIN-SUFFIX,php.net
+
   # katacoda.com
   ## browser-based shell environment
   - DOMAIN-SUFFIX,katacoda.com

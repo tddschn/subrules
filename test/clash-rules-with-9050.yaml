@@ -218,6 +218,9 @@
 # getpocket.com
 - DOMAIN-SUFFIX,getpocket.com,Proxy
 
+# php.net
+- DOMAIN-SUFFIX,php.net,Proxy
+
 # katacoda.com
 ## browser-based shell environment
 - DOMAIN-SUFFIX,katacoda.com,Proxy
