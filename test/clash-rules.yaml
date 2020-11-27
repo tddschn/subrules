@@ -216,6 +216,10 @@
 # getpocket.com
 - DOMAIN-SUFFIX,getpocket.com,Proxy
 
+# katacoda.com
+## browser-based shell environment
+- DOMAIN-SUFFIX,katacoda.com,Proxy
+
 # sourcegraph.com
 - DOMAIN-SUFFIX,sourcegraph.com,Proxy
 
