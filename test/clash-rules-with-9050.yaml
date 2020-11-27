@@ -498,6 +498,7 @@
 - DOMAIN-SUFFIX,googleusercontent.com,Proxy
 - DOMAIN-SUFFIX,googlevideo.com,Proxy
 - DOMAIN-SUFFIX,googleblog.com,Proxy
+- DOMAIN-SUFFIX,withgoogle.com,Proxy
 - DOMAIN-SUFFIX,googlegroups.com,Proxy
 - DOMAIN-SUFFIX,googletagmanager.com,Proxy
 - DOMAIN-SUFFIX,googleadservices.com,Proxy
