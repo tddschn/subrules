@@ -211,6 +211,7 @@ payload:
   - DOMAIN-SUFFIX,postman.co
   - DOMAIN-SUFFIX,pstmn.io
   - DOMAIN-SUFFIX,postman.com
+  - DOMAIN-SUFFIX,postman-echo.com
 
   # virustotal
   - DOMAIN-SUFFIX,virustotal.com

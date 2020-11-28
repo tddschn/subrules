@@ -252,6 +252,7 @@
 - DOMAIN-SUFFIX,postman.co,Proxy
 - DOMAIN-SUFFIX,pstmn.io,Proxy
 - DOMAIN-SUFFIX,postman.com,Proxy
+- DOMAIN-SUFFIX,postman-echo.com,Proxy
 
 # virustotal
 - DOMAIN-SUFFIX,virustotal.com,Proxy
