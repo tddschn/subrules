@@ -138,6 +138,7 @@
 - DOMAIN-SUFFIX,me,Proxy
 - DOMAIN-SUFFIX,dev,Proxy
 - DOMAIN-SUFFIX,website,Proxy
+- DOMAIN-SUFFIX,info,Proxy
 - DOMAIN-SUFFIX,works,Proxy
 - DOMAIN-SUFFIX,icu,Proxy
 - DOMAIN-SUFFIX,guru,Proxy
