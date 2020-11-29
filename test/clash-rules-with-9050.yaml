@@ -254,6 +254,10 @@
 - DOMAIN-SUFFIX,postman.com,Proxy
 - DOMAIN-SUFFIX,postman-echo.com,Proxy
 
+# virtualmin / webmin
+- DOMAIN-SUFFIX,virtualmin.com,Proxy
+- DOMAIN-SUFFIX,webmin.com,Proxy
+
 # virustotal
 - DOMAIN-SUFFIX,virustotal.com,Proxy
 

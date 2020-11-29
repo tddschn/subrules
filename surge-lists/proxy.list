@@ -210,6 +210,10 @@ DOMAIN-SUFFIX,pstmn.io
 DOMAIN-SUFFIX,postman.com
 DOMAIN-SUFFIX,postman-echo.com
 
+# virtualmin / webmin
+DOMAIN-SUFFIX,virtualmin.com
+DOMAIN-SUFFIX,webmin.com
+
 # virustotal
 DOMAIN-SUFFIX,virustotal.com
 
