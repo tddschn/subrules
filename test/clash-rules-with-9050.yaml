@@ -227,6 +227,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# snipaste
+- DOMAIN-SUFFIX,snipaste.com,Proxy
+
 # getpocket.com
 - DOMAIN-SUFFIX,getpocket.com,Proxy
 
