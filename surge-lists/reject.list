@@ -3,3 +3,7 @@ DOMAIN-SUFFIX,canva.cn
 
 # ads
 DOMAIN-SUFFIX,promotion.happy12138.top
+
+# block snipaste from accessing the internet
+
+PROCESS-NAME,/Applications/Snipaste.app/Contents/MacOS/Snipaste

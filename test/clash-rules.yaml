@@ -5,6 +5,10 @@
 
 # ads
 - DOMAIN-SUFFIX,promotion.happy12138.top,AdBlock
+
+# block snipaste from accessing the internet
+
+# PROCESS-NAME,/Applications/Snipaste.app/Contents/MacOS/Snipaste
 ## This config file is auto generated from coresponding Surge rules
 
 # wechat
