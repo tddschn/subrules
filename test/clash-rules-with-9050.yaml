@@ -234,6 +234,11 @@
 # snipaste
 - DOMAIN-SUFFIX,snipaste.com,Proxy
 
+# alfred
+- DOMAIN-SUFFIX,alfredapp.com,Proxy
+- DOMAIN-SUFFIX,alfredforum.com,Proxy
+- DOMAIN-SUFFIX,packal.org,Proxy
+
 # getpocket.com
 - DOMAIN-SUFFIX,getpocket.com,Proxy
 

@@ -177,6 +177,11 @@ payload:
   # snipaste
   - DOMAIN-SUFFIX,snipaste.com
 
+  # alfred
+  - DOMAIN-SUFFIX,alfredapp.com
+  - DOMAIN-SUFFIX,alfredforum.com
+  - DOMAIN-SUFFIX,packal.org
+
   # getpocket.com
   - DOMAIN-SUFFIX,getpocket.com
 
