@@ -1,3 +1,11 @@
+# wechat
+# PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat
+AND,((PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat),(NOT,((DOMAIN-SUFFIX,githubusercontent.com))))
+
+# aliwangwang
+PROCESS-NAME,/Applications/AliWangwang.app/Contents/MacOS/Aliwangwang
+
+
 # ipip.net
 # used with curl
 DOMAIN,myip.ipip.net
@@ -22,4 +30,8 @@ DOMAIN-SUFFIX,zhihuishi.com
 
 # edu.cn
 DOMAIN-SUFFIX,edu.cn
+
+# alibaba
+## fliggy - travel service
+DOMAIN-SUFFIX,fliggy.com
 

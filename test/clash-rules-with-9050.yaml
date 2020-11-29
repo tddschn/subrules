@@ -9,6 +9,14 @@
 - DOMAIN-SUFFIX,promotion.happy12138.top,AdBlock
 ## This config file is auto generated from coresponding Surge rules
 
+# wechat
+# PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat
+# AND,((PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat),(NOT,((DOMAIN-SUFFIX,githubusercontent.com))))
+
+# aliwangwang
+# PROCESS-NAME,/Applications/AliWangwang.app/Contents/MacOS/Aliwangwang
+
+
 # ipip.net
 # used with curl
 - DOMAIN,myip.ipip.net,Domestic
@@ -33,6 +41,10 @@
 
 # edu.cn
 - DOMAIN-SUFFIX,edu.cn,Domestic
+
+# alibaba
+## fliggy - travel service
+- DOMAIN-SUFFIX,fliggy.com,Domestic
 
 ## This config file is auto generated from coresponding Surge rules
 
