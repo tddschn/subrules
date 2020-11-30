@@ -585,6 +585,11 @@
 
 # SE
 - DOMAIN-SUFFIX,stackexchange.com,Proxy
+## SO snippets runner
+- DOMAIN-SUFFIX,stacksnippets.net,Proxy
+
+# readthedocs
+- DOMAIN-KEYWORD,readthedocs,Proxy
 
 # magicplan
 - DOMAIN-SUFFIX,magicplan.app,Proxy

@@ -525,6 +525,11 @@ DOMAIN-SUFFIX,savage.si
 
 # SE
 DOMAIN-SUFFIX,stackexchange.com
+## SO snippets runner
+DOMAIN-SUFFIX,stacksnippets.net
+
+# readthedocs
+DOMAIN-KEYWORD,readthedocs
 
 # magicplan
 DOMAIN-SUFFIX,magicplan.app
