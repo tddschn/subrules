@@ -1,3 +1,9 @@
+# ## experimental
+NOT,((OR,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
+
+# ## experimental
+DOMAIN-KEYWORD,cdn
+
 # ---------------
 # apps----
 # ---------------
@@ -51,15 +57,9 @@ DOMAIN-SUFFIX,digitalcertvalidation.com
 
 
 
-# ## experimental
-DOMAIN-KEYWORD,cdn
-
 # ---------------
 # TLD----
 # ---------------
-# ## experimental
-NOT,((OR,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
-
 # us gov sites
 DOMAIN-SUFFIX,gov
 

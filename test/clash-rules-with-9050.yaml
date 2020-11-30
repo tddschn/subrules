@@ -58,6 +58,12 @@
 
 ## This config file is auto generated from coresponding Surge rules
 
+# ## experimental
+# NOT,((OR,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
+
+# ## experimental
+- DOMAIN-KEYWORD,cdn,Proxy
+
 # ---------------
 # apps----
 # ---------------
@@ -111,15 +117,9 @@
 
 
 
-# ## experimental
-- DOMAIN-KEYWORD,cdn,Proxy
-
 # ---------------
 # TLD----
 # ---------------
-# ## experimental
-# NOT,((OR,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
-
 # us gov sites
 - DOMAIN-SUFFIX,gov,Proxy
 
