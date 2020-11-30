@@ -363,6 +363,9 @@ DOMAIN-KEYWORD,python
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,pythonhosted.org
 
+# anaconda
+DOMAIN-KEYWORD,anaconda
+
 # amazon
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazon.com

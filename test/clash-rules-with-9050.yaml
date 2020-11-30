@@ -423,6 +423,9 @@
 - DOMAIN-SUFFIX,pypi.org,Proxy
 - DOMAIN-SUFFIX,pythonhosted.org,Proxy
 
+# anaconda
+- DOMAIN-KEYWORD,anaconda,Proxy
+
 # amazon
 - DOMAIN-SUFFIX,amazonaws.com,Proxy
 - DOMAIN-SUFFIX,amazon.com,Proxy
