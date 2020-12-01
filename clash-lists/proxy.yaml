@@ -180,6 +180,18 @@ payload:
   # wikidot
   - DOMAIN-SUFFIX,wikidot.com
 
+  # wizardzines.com
+  - DOMAIN-SUFFIX,wizardzines.com
+
+  # zlibrary, b-ok
+  - DOMAIN-KEYWORD,b-ok
+  - DOMAIN-SUFFIX,zlibcdn.com
+  - DOMAIN-SUFFIX,zlibcdn1.com
+  - DOMAIN-SUFFIX,zlibcdn2.com
+  - DOMAIN-SUFFIX,zlibcdn3.com
+  - DOMAIN-SUFFIX,zlibcdn4.com
+  - DOMAIN-SUFFIX,zlibcdn5.com
+
   # snipaste
   - DOMAIN-SUFFIX,snipaste.com
 

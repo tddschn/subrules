@@ -235,6 +235,18 @@
 # wikidot
 - DOMAIN-SUFFIX,wikidot.com,Proxy
 
+# wizardzines.com
+- DOMAIN-SUFFIX,wizardzines.com,Proxy
+
+# zlibrary, b-ok
+- DOMAIN-KEYWORD,b-ok,Proxy
+- DOMAIN-SUFFIX,zlibcdn.com,Proxy
+- DOMAIN-SUFFIX,zlibcdn1.com,Proxy
+- DOMAIN-SUFFIX,zlibcdn2.com,Proxy
+- DOMAIN-SUFFIX,zlibcdn3.com,Proxy
+- DOMAIN-SUFFIX,zlibcdn4.com,Proxy
+- DOMAIN-SUFFIX,zlibcdn5.com,Proxy
+
 # snipaste
 - DOMAIN-SUFFIX,snipaste.com,Proxy
 
