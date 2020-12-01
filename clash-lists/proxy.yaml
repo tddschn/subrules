@@ -177,6 +177,9 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # wikidot
+  - DOMAIN-SUFFIX,wikidot.com
+
   # snipaste
   - DOMAIN-SUFFIX,snipaste.com
 

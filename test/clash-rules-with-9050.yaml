@@ -234,6 +234,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# wikidot
+- DOMAIN-SUFFIX,wikidot.com,Proxy
+
 # snipaste
 - DOMAIN-SUFFIX,snipaste.com,Proxy
 
