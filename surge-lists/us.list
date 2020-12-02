@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,craigslist.org
 
 # google tables, currently only available in the US.
 DOMAIN,tables.area120.google.com
+
+# fix 'Access denied'
+DOMAIN-SUFFIX,census.gov
