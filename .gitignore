@@ -1,1 +1,3 @@
 *.sampleconf
+*cache**
+...bfg-report
