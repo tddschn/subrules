@@ -140,6 +140,7 @@ DOMAIN-SUFFIX,to
 DOMAIN-SUFFIX,ee
 DOMAIN-SUFFIX,pw
 DOMAIN-SUFFIX,yt
+DOMAIN-SUFFIX,nl
 
 
 
@@ -412,6 +413,14 @@ DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,ghcr.io
 DOMAIN-SUFFIX,victorlee.me
 DOMAIN-SUFFIX,teddysc.rocks
+
+# github codespaces
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,trafficmanager.net
+DOMAIN-SUFFIX,codestream.com
+DOMAIN-SUFFIX,vscode-webview-test.com
+
+
 
 ## (unofficial) GitHub buttons
 DOMAIN-SUFFIX,ghbtns.com

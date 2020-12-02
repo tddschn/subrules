@@ -200,6 +200,7 @@
 - DOMAIN-SUFFIX,ee,Proxy
 - DOMAIN-SUFFIX,pw,Proxy
 - DOMAIN-SUFFIX,yt,Proxy
+- DOMAIN-SUFFIX,nl,Proxy
 
 
 
@@ -472,6 +473,14 @@
 - DOMAIN-KEYWORD,ghcr.io,Proxy
 - DOMAIN-SUFFIX,victorlee.me,Proxy
 - DOMAIN-SUFFIX,teddysc.rocks,Proxy
+
+# github codespaces
+- DOMAIN-SUFFIX,visualstudio.com,Proxy
+- DOMAIN-SUFFIX,trafficmanager.net,Proxy
+- DOMAIN-SUFFIX,codestream.com,Proxy
+- DOMAIN-SUFFIX,vscode-webview-test.com,Proxy
+
+
 
 ## (unofficial) GitHub buttons
 - DOMAIN-SUFFIX,ghbtns.com,Proxy
