@@ -1,5 +1,5 @@
 *.sampleconf
-*cache**
+cache
 
 # bfg repo cleaner
 ...bfg-report
