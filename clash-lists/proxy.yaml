@@ -83,6 +83,7 @@ payload:
   - DOMAIN-SUFFIX,me
   - DOMAIN-SUFFIX,dev
   - DOMAIN-SUFFIX,website
+  - DOMAIN-SUFFIX,online
   - DOMAIN-SUFFIX,info
   - DOMAIN-SUFFIX,works
   - DOMAIN-SUFFIX,icu
