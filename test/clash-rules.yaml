@@ -246,6 +246,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# spyse.com
+- DOMAIN-SUFFIX,spyse.com,Proxy
+
 # substack
 - DOMAIN-SUFFIX,substack.com,Proxy
 
@@ -628,6 +631,7 @@
 
 # SE
 - DOMAIN-SUFFIX,stackexchange.com,Proxy
+- DOMAIN-SUFFIX,stackoverflow.com,Proxy
 ## SO snippets runner
 - DOMAIN-SUFFIX,stacksnippets.net,Proxy
 

@@ -182,6 +182,9 @@ DOMAIN-SUFFIX,onlyfans.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# spyse.com
+DOMAIN-SUFFIX,spyse.com
+
 # substack
 DOMAIN-SUFFIX,substack.com
 
@@ -564,6 +567,7 @@ DOMAIN-SUFFIX,savage.si
 
 # SE
 DOMAIN-SUFFIX,stackexchange.com
+DOMAIN-SUFFIX,stackoverflow.com
 ## SO snippets runner
 DOMAIN-SUFFIX,stacksnippets.net
 
