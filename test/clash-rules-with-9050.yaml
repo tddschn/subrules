@@ -243,6 +243,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# adguard
+- DOMAIN-SUFFIX,adguard.com,Proxy
+
 # wikidot
 - DOMAIN-SUFFIX,wikidot.com,Proxy
 

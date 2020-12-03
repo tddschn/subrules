@@ -180,6 +180,9 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # adguard
+  - DOMAIN-SUFFIX,adguard.com
+
   # wikidot
   - DOMAIN-SUFFIX,wikidot.com
 
