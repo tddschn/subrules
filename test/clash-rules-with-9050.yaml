@@ -243,6 +243,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# substack
+- DOMAIN-SUFFIX,substack.com,Proxy
+
 # adguard
 - DOMAIN-SUFFIX,adguard.com,Proxy
 

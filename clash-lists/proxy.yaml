@@ -180,6 +180,9 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # substack
+  - DOMAIN-SUFFIX,substack.com
+
   # adguard
   - DOMAIN-SUFFIX,adguard.com
 
