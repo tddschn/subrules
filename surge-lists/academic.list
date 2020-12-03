@@ -7,3 +7,8 @@ DOMAIN-SUFFIX,webofknowledge.com
 # proquest
 DOMAIN-SUFFIX,proquest.com
 
+# > med
+DOMAIN-SUFFIX,pubmed.ncbi.nlm.nih.gov
+DOMAIN-SUFFIX,ovid.com
+DOMAIN-SUFFIX,biomedcentral.com
+
