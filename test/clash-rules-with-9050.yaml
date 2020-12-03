@@ -45,6 +45,9 @@
 
 # edu.cn
 - DOMAIN-SUFFIX,edu.cn,Domestic
+## fudan
+- IP-CIDR,202.120.224.0/24,no-resolve,Domestic
+- IP-CIDR,202.120.227.0/24,no-resolve,Domestic
 
 # alibaba
 ## fliggy - travel service
