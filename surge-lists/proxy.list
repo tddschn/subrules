@@ -490,6 +490,7 @@ DOMAIN-SUFFIX,windows.net
 # https://www.reddit.com/r/privacy/comments/f5ifmd/android_randomly_connects_to_mtalkgooglecom/
 ## gstatic.com: google's CDN
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gmail.com
