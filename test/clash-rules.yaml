@@ -46,6 +46,9 @@
 ## fudan
 - IP-CIDR,202.120.224.0/24,no-resolve,Domestic
 - IP-CIDR,202.120.227.0/24,no-resolve,Domestic
+## other schools
+### bj jiaotong univ
+- IP-CIDR,202.112.150/24,no-resolve,Domestic
 
 # alibaba
 ## fliggy - travel service
