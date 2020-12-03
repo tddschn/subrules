@@ -172,6 +172,10 @@ DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,stripe.com
 
 
+# ---------------
+# nsfw---
+# ---------------
+DOMAIN-SUFFIX,onlyfans.com
 
 # ---------------
 # apps--- , projects---- & services---

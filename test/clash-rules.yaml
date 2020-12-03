@@ -236,6 +236,10 @@
 - DOMAIN-SUFFIX,stripe.com,Proxy
 
 
+# ---------------
+# nsfw---
+# ---------------
+- DOMAIN-SUFFIX,onlyfans.com,Proxy
 
 # ---------------
 # apps--- , projects---- & services---
