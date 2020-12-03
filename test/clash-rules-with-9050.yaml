@@ -146,6 +146,7 @@
 - DOMAIN-SUFFIX,me,Proxy
 - DOMAIN-SUFFIX,dev,Proxy
 - DOMAIN-SUFFIX,website,Proxy
+- DOMAIN-SUFFIX,community,Proxy
 - DOMAIN-SUFFIX,online,Proxy
 - DOMAIN-SUFFIX,info,Proxy
 - DOMAIN-SUFFIX,works,Proxy
