@@ -421,6 +421,7 @@ DOMAIN-SUFFIX,github.dev
 DOMAIN-KEYWORD,github
 ## container registry
 DOMAIN-KEYWORD,ghcr.io
+DOMAIN-SUFFIX,github-debug.com
 DOMAIN-SUFFIX,victorlee.me
 DOMAIN-SUFFIX,teddysc.rocks
 
