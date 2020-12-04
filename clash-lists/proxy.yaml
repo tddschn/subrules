@@ -473,6 +473,8 @@ payload:
   ### images
   - DOMAIN-SUFFIX,cnbcfm.com
 
+  ## hk01 (dns pollution)
+  - DOMAIN-SUFFIX,hk01.com
 
   # bitwarden
   - DOMAIN-SUFFIX,bitwarden.com

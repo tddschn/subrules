@@ -534,6 +534,8 @@
 ### images
 - DOMAIN-SUFFIX,cnbcfm.com,Proxy
 
+## hk01 (dns pollution)
+- DOMAIN-SUFFIX,hk01.com,Proxy
 
 # bitwarden
 - DOMAIN-SUFFIX,bitwarden.com,Proxy
