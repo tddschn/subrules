@@ -148,6 +148,12 @@ payload:
   - DOMAIN-SUFFIX,nl
   - DOMAIN-SUFFIX,ml
 
+  - DOMAIN-SUFFIX,tf
+  - DOMAIN-SUFFIX,rs
+  - DOMAIN-SUFFIX,js
+  - DOMAIN-SUFFIX,py
+  - DOMAIN-SUFFIX,rb
+
 
 
   # ---------------

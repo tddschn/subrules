@@ -209,6 +209,12 @@
 - DOMAIN-SUFFIX,nl,Proxy
 - DOMAIN-SUFFIX,ml,Proxy
 
+- DOMAIN-SUFFIX,tf,Proxy
+- DOMAIN-SUFFIX,rs,Proxy
+- DOMAIN-SUFFIX,js,Proxy
+- DOMAIN-SUFFIX,py,Proxy
+- DOMAIN-SUFFIX,rb,Proxy
+
 
 
 # ---------------
