@@ -473,6 +473,9 @@ DOMAIN-SUFFIX,cnbcfm.com
 ## hk01 (dns pollution)
 DOMAIN-SUFFIX,hk01.com
 
+## axios
+DOMAIN-SUFFIX,axios.com
+
 # bitwarden
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,bitwarden.net

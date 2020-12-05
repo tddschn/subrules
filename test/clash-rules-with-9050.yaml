@@ -539,6 +539,9 @@
 ## hk01 (dns pollution)
 - DOMAIN-SUFFIX,hk01.com,Proxy
 
+## axios
+- DOMAIN-SUFFIX,axios.com,Proxy
+
 # bitwarden
 - DOMAIN-SUFFIX,bitwarden.com,Proxy
 - DOMAIN-SUFFIX,bitwarden.net,Proxy
