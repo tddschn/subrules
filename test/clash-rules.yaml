@@ -84,6 +84,8 @@
 
 # notion
 # PROCESS-NAME,/Applications/Notion.app/Contents/MacOS/Notion
+# PROCESS-NAME,/Applications/Notion.app/Contents/Frameworks/Notion Helper.app/Contents/MacOS/Notion Helper
+
 ## notion related
 - DOMAIN-KEYWORD,notion,Proxy
 - DOMAIN-SUFFIX,notion.so,Proxy
@@ -101,6 +103,7 @@
 # vscode
 # PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/MacOS/Electron
 # PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper
+# PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer)
 
 # launchcontrol (soma-zone.com)
 # PROCESS-NAME,/Applications/LaunchControl.app/Contents/MacOS/LaunchControl
@@ -119,6 +122,12 @@
 # trustd
 - DOMAIN-SUFFIX,digitalcertvalidation.com,Proxy
 
+# Paw
+## (GCP)
+- DOMAIN-SUFFIX,firebaseio.com,Proxy
+
+# Surge
+- DOMAIN-SUFFIX,nssurge.com,Proxy
 
 
 # ---------------
@@ -581,13 +590,13 @@
 ## google mtalk
 # https://www.reddit.com/r/privacy/comments/f5ifmd/android_randomly_connects_to_mtalkgooglecom/
 ## gstatic.com: google's CDN
+- DOMAIN-KEYWORD,google,Proxy
 - DOMAIN-SUFFIX,gstatic.com,Proxy
 - DOMAIN-SUFFIX,appspot.com,Proxy
 - DOMAIN-SUFFIX,google.com,Proxy
 - DOMAIN-SUFFIX,googleapis.com,Proxy
 - DOMAIN-SUFFIX,gmail.com,Proxy
 - DOMAIN-SUFFIX,google,Proxy
-- DOMAIN-KEYWORD,google,Proxy
 - DOMAIN-SUFFIX,googleapps.com,Proxy
 - DOMAIN-SUFFIX,googleusercontent.com,Proxy
 - DOMAIN-SUFFIX,googlevideo.com,Proxy

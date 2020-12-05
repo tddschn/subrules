@@ -20,6 +20,8 @@ PROCESS-NAME,/Applications/Tor Browser.app/Contents/MacOS/Tor/tor.real
 
 # notion
 PROCESS-NAME,/Applications/Notion.app/Contents/MacOS/Notion
+PROCESS-NAME,/Applications/Notion.app/Contents/Frameworks/Notion Helper.app/Contents/MacOS/Notion Helper
+
 ## notion related
 DOMAIN-KEYWORD,notion
 DOMAIN-SUFFIX,notion.so
@@ -37,6 +39,7 @@ PROCESS-NAME,/Applications/LuLu.app/Contents/MacOS/LuLu
 # vscode
 PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/MacOS/Electron
 PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper
+PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer)
 
 # launchcontrol (soma-zone.com)
 PROCESS-NAME,/Applications/LaunchControl.app/Contents/MacOS/LaunchControl
@@ -55,6 +58,12 @@ DOMAIN-SUFFIX,kapeli.com
 # trustd
 DOMAIN-SUFFIX,digitalcertvalidation.com
 
+# Paw
+## (GCP)
+DOMAIN-SUFFIX,firebaseio.com
+
+# Surge
+DOMAIN-SUFFIX,nssurge.com
 
 
 # ---------------
@@ -517,13 +526,13 @@ DOMAIN-SUFFIX,windows.net
 ## google mtalk
 # https://www.reddit.com/r/privacy/comments/f5ifmd/android_randomly_connects_to_mtalkgooglecom/
 ## gstatic.com: google's CDN
+DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,google
-DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,googleapps.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googlevideo.com
