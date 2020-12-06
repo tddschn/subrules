@@ -442,6 +442,9 @@
 # jsfiddle
 - DOMAIN-SUFFIX,jsfiddle.net,Proxy
 
+# stackblitz.com
+- DOMAIN-SUFFIX,stackblitz.com,Proxy
+
 # codepen
 - DOMAIN-SUFFIX,codepen.io,Proxy
 

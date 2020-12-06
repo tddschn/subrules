@@ -381,6 +381,9 @@ payload:
   # jsfiddle
   - DOMAIN-SUFFIX,jsfiddle.net
 
+  # stackblitz.com
+  - DOMAIN-SUFFIX,stackblitz.com
+
   # codepen
   - DOMAIN-SUFFIX,codepen.io
 
