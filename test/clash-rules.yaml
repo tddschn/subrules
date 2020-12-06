@@ -264,6 +264,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# roamresearch.com
+- DOMAIN-SUFFIX,roamresearch.com,Proxy
+
 # spyse.com
 - DOMAIN-SUFFIX,spyse.com,Proxy
 
