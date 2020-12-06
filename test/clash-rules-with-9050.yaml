@@ -270,6 +270,9 @@
 # culturedcode.com
 - DOMAIN-SUFFIX,culturedcode.com,Proxy
 
+# zulipchat.com
+- DOMAIN-SUFFIX,zulipchat.com,Proxy
+
 # roamresearch.com
 - DOMAIN-SUFFIX,roamresearch.com,Proxy
 - DOMAIN-KEYWORD,roamresearch,Proxy
