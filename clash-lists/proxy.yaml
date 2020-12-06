@@ -205,6 +205,7 @@ payload:
   # markk---
   # roamresearch.com
   - DOMAIN-SUFFIX,roamresearch.com
+  - DOMAIN-KEYWORD,roamresearch
 
   # spyse.com
   - DOMAIN-SUFFIX,spyse.com
@@ -258,6 +259,10 @@ payload:
 
   # zerossl.com
   - DOMAIN-SUFFIX,zerossl.com
+
+  # freshdesk
+  - DOMAIN-SUFFIX,freshworks.com
+  - DOMAIN-SUFFIX,freshdesk.com
 
   # zendesk
   - DOMAIN-SUFFIX,zdassets.com
@@ -553,6 +558,8 @@ payload:
   - DOMAIN-SUFFIX,blogspot.com
   - DOMAIN-SUFFIX,googlesource.com
 
+  # gcp
+  - DOMAIN-SUFFIX,cloudfunctions.net
 
   # dropbox
   - DOMAIN-SUFFIX,dropboxapi.com

@@ -266,6 +266,7 @@
 # markk---
 # roamresearch.com
 - DOMAIN-SUFFIX,roamresearch.com,Proxy
+- DOMAIN-KEYWORD,roamresearch,Proxy
 
 # spyse.com
 - DOMAIN-SUFFIX,spyse.com,Proxy
@@ -319,6 +320,10 @@
 
 # zerossl.com
 - DOMAIN-SUFFIX,zerossl.com,Proxy
+
+# freshdesk
+- DOMAIN-SUFFIX,freshworks.com,Proxy
+- DOMAIN-SUFFIX,freshdesk.com,Proxy
 
 # zendesk
 - DOMAIN-SUFFIX,zdassets.com,Proxy
@@ -614,6 +619,8 @@
 - DOMAIN-SUFFIX,blogspot.com,Proxy
 - DOMAIN-SUFFIX,googlesource.com,Proxy
 
+# gcp
+- DOMAIN-SUFFIX,cloudfunctions.net,Proxy
 
 # dropbox
 - DOMAIN-SUFFIX,dropboxapi.com,Proxy

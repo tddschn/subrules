@@ -202,6 +202,7 @@ DOMAIN-SUFFIX,onlyfans.com
 # markk---
 # roamresearch.com
 DOMAIN-SUFFIX,roamresearch.com
+DOMAIN-KEYWORD,roamresearch
 
 # spyse.com
 DOMAIN-SUFFIX,spyse.com
@@ -255,6 +256,10 @@ DOMAIN-SUFFIX,argotunnel.com
 
 # zerossl.com
 DOMAIN-SUFFIX,zerossl.com
+
+# freshdesk
+DOMAIN-SUFFIX,freshworks.com
+DOMAIN-SUFFIX,freshdesk.com
 
 # zendesk
 DOMAIN-SUFFIX,zdassets.com
@@ -550,6 +555,8 @@ DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,googlesource.com
 
+# gcp
+DOMAIN-SUFFIX,cloudfunctions.net
 
 # dropbox
 DOMAIN-SUFFIX,dropboxapi.com
