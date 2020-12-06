@@ -271,6 +271,7 @@
 - DOMAIN-SUFFIX,culturedcode.com,Proxy
 
 # zulipchat.com
+- DOMAIN-SUFFIX,zulip.com,Proxy
 - DOMAIN-SUFFIX,zulipchat.com,Proxy
 
 # roamresearch.com

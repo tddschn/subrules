@@ -208,6 +208,7 @@ payload:
   - DOMAIN-SUFFIX,culturedcode.com
 
   # zulipchat.com
+  - DOMAIN-SUFFIX,zulip.com
   - DOMAIN-SUFFIX,zulipchat.com
 
   # roamresearch.com
