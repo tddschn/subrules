@@ -193,6 +193,7 @@
 - DOMAIN-SUFFIX,no,Proxy
 - DOMAIN-SUFFIX,fi,Proxy
 - DOMAIN-SUFFIX,is,Proxy
+- DOMAIN-SUFFIX,gl,Proxy
 - DOMAIN-SUFFIX,fm,Proxy
 - DOMAIN-SUFFIX,st,Proxy
 - DOMAIN-SUFFIX,nf,Proxy
@@ -418,7 +419,6 @@
 # bitly
 - DOMAIN-SUFFIX,bitly.com,Proxy
 - DOMAIN-SUFFIX,bit.ly,Proxy
-- DOMAIN-SUFFIX,goo.gle,Proxy
 
 
 
@@ -596,6 +596,7 @@
 - DOMAIN-SUFFIX,windows.net,Proxy
 
 # goo---
+# google---
 ## google mtalk
 # https://www.reddit.com/r/privacy/comments/f5ifmd/android_randomly_connects_to_mtalkgooglecom/
 ## gstatic.com: google's CDN
@@ -605,7 +606,6 @@
 - DOMAIN-SUFFIX,google.com,Proxy
 - DOMAIN-SUFFIX,googleapis.com,Proxy
 - DOMAIN-SUFFIX,gmail.com,Proxy
-- DOMAIN-SUFFIX,google,Proxy
 - DOMAIN-SUFFIX,googleapps.com,Proxy
 - DOMAIN-SUFFIX,googleusercontent.com,Proxy
 - DOMAIN-SUFFIX,googlevideo.com,Proxy
@@ -618,6 +618,11 @@
 - DOMAIN-SUFFIX,google-analytics.com,Proxy
 - DOMAIN-SUFFIX,blogspot.com,Proxy
 - DOMAIN-SUFFIX,googlesource.com,Proxy
+
+# google tld
+- DOMAIN-SUFFIX,google,Proxy
+- DOMAIN-SUFFIX,goog,Proxy
+- DOMAIN-SUFFIX,gle,Proxy
 
 # gcp
 - DOMAIN-SUFFIX,cloudfunctions.net,Proxy

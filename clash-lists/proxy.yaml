@@ -132,6 +132,7 @@ payload:
   - DOMAIN-SUFFIX,no
   - DOMAIN-SUFFIX,fi
   - DOMAIN-SUFFIX,is
+  - DOMAIN-SUFFIX,gl
   - DOMAIN-SUFFIX,fm
   - DOMAIN-SUFFIX,st
   - DOMAIN-SUFFIX,nf
@@ -357,7 +358,6 @@ payload:
   # bitly
   - DOMAIN-SUFFIX,bitly.com
   - DOMAIN-SUFFIX,bit.ly
-  - DOMAIN-SUFFIX,goo.gle
 
 
 
@@ -535,6 +535,7 @@ payload:
   - DOMAIN-SUFFIX,windows.net
 
   # goo---
+  # google---
   ## google mtalk
   # https://www.reddit.com/r/privacy/comments/f5ifmd/android_randomly_connects_to_mtalkgooglecom/
   ## gstatic.com: google's CDN
@@ -544,7 +545,6 @@ payload:
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,gmail.com
-  - DOMAIN-SUFFIX,google
   - DOMAIN-SUFFIX,googleapps.com
   - DOMAIN-SUFFIX,googleusercontent.com
   - DOMAIN-SUFFIX,googlevideo.com
@@ -557,6 +557,11 @@ payload:
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,blogspot.com
   - DOMAIN-SUFFIX,googlesource.com
+
+  # google tld
+  - DOMAIN-SUFFIX,google
+  - DOMAIN-SUFFIX,goog
+  - DOMAIN-SUFFIX,gle
 
   # gcp
   - DOMAIN-SUFFIX,cloudfunctions.net
