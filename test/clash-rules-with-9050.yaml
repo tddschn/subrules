@@ -195,6 +195,7 @@
 - DOMAIN-SUFFIX,no,Proxy
 - DOMAIN-SUFFIX,fi,Proxy
 - DOMAIN-SUFFIX,is,Proxy
+- DOMAIN-SUFFIX,fm,Proxy
 - DOMAIN-SUFFIX,st,Proxy
 - DOMAIN-SUFFIX,nf,Proxy
 - DOMAIN-SUFFIX,hk,Proxy
