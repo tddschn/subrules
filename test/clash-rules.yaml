@@ -684,6 +684,7 @@
 # SE
 - DOMAIN-SUFFIX,stackexchange.com,Proxy
 - DOMAIN-SUFFIX,stackoverflow.com,Proxy
+- DOMAIN-SUFFIX,serverfault.com,Proxy
 ## SO snippets runner
 - DOMAIN-SUFFIX,stacksnippets.net,Proxy
 
