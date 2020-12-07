@@ -268,6 +268,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# appshopper
+- DOMAIN-SUFFIX,appshopper.com,Proxy
+
 # culturedcode.com
 - DOMAIN-SUFFIX,culturedcode.com,Proxy
 
