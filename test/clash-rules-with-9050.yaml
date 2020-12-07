@@ -494,7 +494,7 @@
 # sspai & cdn.sspai.com (images don't load well using DIRECT)
 # commented out sspai bcz of loading issues with ctm 03
 # waiting for cache forever in google chrome on mac, using global proxy solved this issue (cdn.sspai.com, image)
-- DOMAIN-SUFFIX,sspai.com,Proxy
+# DOMAIN-SUFFIX,sspai.com
 
 - DOMAIN-KEYWORD,data-analysis,Proxy
 
