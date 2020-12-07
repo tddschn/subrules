@@ -380,6 +380,7 @@ payload:
 
   # jsfiddle
   - DOMAIN-SUFFIX,jsfiddle.net
+  - DOMAIN-SUFFIX,jshell.net
 
   # stackblitz.com
   - DOMAIN-SUFFIX,stackblitz.com

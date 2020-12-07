@@ -443,6 +443,7 @@
 
 # jsfiddle
 - DOMAIN-SUFFIX,jsfiddle.net,Proxy
+- DOMAIN-SUFFIX,jshell.net,Proxy
 
 # stackblitz.com
 - DOMAIN-SUFFIX,stackblitz.com,Proxy
