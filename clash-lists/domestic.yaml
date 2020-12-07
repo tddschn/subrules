@@ -38,7 +38,7 @@ payload:
   - IP-CIDR,202.120.227.0/24,no-resolve
   ## other schools
   ### bj jiaotong univ
-  - IP-CIDR,202.112.150/24,no-resolve
+  - IP-CIDR,202.112.150.0/24,no-resolve
 
   # alibaba
   ## fliggy - travel service

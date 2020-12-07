@@ -50,7 +50,7 @@
 - IP-CIDR,202.120.227.0/24,Domestic,no-resolve
 ## other schools
 ### bj jiaotong univ
-- IP-CIDR,202.112.150/24,Domestic,no-resolve
+- IP-CIDR,202.112.150.0/24,Domestic,no-resolve
 
 # alibaba
 ## fliggy - travel service
