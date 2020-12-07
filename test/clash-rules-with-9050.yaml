@@ -121,8 +121,7 @@
 # dictionary.app
 
 # things
-# the process is prefixed with $TMPDIR, idk why.
-# PROCESS-NAME,
+# PROCESS-NAME,/Applications/Things3.app/Contents/MacOS/Things3
 
 # trustd
 - DOMAIN-SUFFIX,digitalcertvalidation.com,Proxy
