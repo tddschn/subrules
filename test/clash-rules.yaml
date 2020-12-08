@@ -275,6 +275,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# tutanota.com
+- DOMAIN-SUFFIX,tutanota.com,Proxy
+
 # appshopper
 - DOMAIN-SUFFIX,appshopper.com,Proxy
 

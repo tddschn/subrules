@@ -206,6 +206,9 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # tutanota.com
+  - DOMAIN-SUFFIX,tutanota.com
+
   # appshopper
   - DOMAIN-SUFFIX,appshopper.com
 
