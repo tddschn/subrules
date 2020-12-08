@@ -55,7 +55,9 @@ DOMAIN-SUFFIX,kapeli.com
 # dictionary.app
 
 # things
-PROCESS-NAME,/Applications/Things3.app/Contents/MacOS/Things3
+# PROCESS-NAME,/Applications/Things3.app/Contents/MacOS/Things3
+## allowing direct connection when syncing in LAN
+AND,((PROCESS-NAME,/Applications/Things3.app/Contents/MacOS/Things3), (DOMAIN-SUFFIX,culturedcode.com))
 
 # trustd
 DOMAIN-SUFFIX,digitalcertvalidation.com
