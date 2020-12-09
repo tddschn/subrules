@@ -165,6 +165,8 @@
 - DOMAIN-SUFFIX,me,Proxy
 - DOMAIN-SUFFIX,dev,Proxy
 - DOMAIN-SUFFIX,website,Proxy
+- DOMAIN-SUFFIX,name,Proxy
+- DOMAIN-SUFFIX,press,Proxy
 - DOMAIN-SUFFIX,site,Proxy
 - DOMAIN-SUFFIX,community,Proxy
 - DOMAIN-SUFFIX,online,Proxy
@@ -231,6 +233,7 @@
 - DOMAIN-SUFFIX,yt,Proxy
 - DOMAIN-SUFFIX,nl,Proxy
 - DOMAIN-SUFFIX,ml,Proxy
+- DOMAIN-SUFFIX,hr,Proxy
 
 - DOMAIN-SUFFIX,tf,Proxy
 - DOMAIN-SUFFIX,rs,Proxy

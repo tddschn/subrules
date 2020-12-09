@@ -96,6 +96,8 @@ payload:
   - DOMAIN-SUFFIX,me
   - DOMAIN-SUFFIX,dev
   - DOMAIN-SUFFIX,website
+  - DOMAIN-SUFFIX,name
+  - DOMAIN-SUFFIX,press
   - DOMAIN-SUFFIX,site
   - DOMAIN-SUFFIX,community
   - DOMAIN-SUFFIX,online
@@ -162,6 +164,7 @@ payload:
   - DOMAIN-SUFFIX,yt
   - DOMAIN-SUFFIX,nl
   - DOMAIN-SUFFIX,ml
+  - DOMAIN-SUFFIX,hr
 
   - DOMAIN-SUFFIX,tf
   - DOMAIN-SUFFIX,rs
