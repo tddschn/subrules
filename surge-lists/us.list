@@ -8,3 +8,6 @@ DOMAIN,tables.area120.google.com
 
 # fix 'Access denied'
 DOMAIN-SUFFIX,census.gov
+
+# avoid BG redirecting
+DOMAIN-SUFFIX,bloomberg.com
