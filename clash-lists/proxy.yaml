@@ -165,6 +165,7 @@ payload:
   - DOMAIN-SUFFIX,nl
   - DOMAIN-SUFFIX,ml
   - DOMAIN-SUFFIX,hr
+  - DOMAIN-SUFFIX,tv
 
   - DOMAIN-SUFFIX,tf
   - DOMAIN-SUFFIX,rs
