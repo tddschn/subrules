@@ -781,3 +781,28 @@
 - DOMAIN-SUFFIX,aaxads.com,Proxy
 
 
+## This config file is auto generated from coresponding Surge rules
+
+# taobao
+- DOMAIN-SUFFIX,taobao.com,Domestic
+- DOMAIN-SUFFIX,tmall.com,Domestic
+- DOMAIN-SUFFIX,alicdn.com,Domestic
+
+## This config file is auto generated from coresponding Surge rules
+
+# social media
+- DOMAIN-SUFFIX,reddit.com,Proxy
+- DOMAIN-SUFFIX,twitter.com,Proxy
+
+# streaming
+- DOMAIN-SUFFIX,netflix.com,Proxy
+- DOMAIN-SUFFIX,youtube.com,Proxy
+
+# github & github pages
+- DOMAIN-SUFFIX,github.com,Proxy
+# DOMAIN-SUFFIX,github.io # not only blogs, some are quite important for web browsing experience
+
+# hacker news
+- DOMAIN-SUFFIX,news.ycombinator.com,Proxy
+- DOMAIN-SUFFIX,news.ycombinator.com,Proxy
+
