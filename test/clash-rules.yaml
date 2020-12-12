@@ -58,6 +58,9 @@
 - DOMAIN-SUFFIX,sspai.com,Domestic
 
 
+# ele.me
+# .me exception
+- DOMAIN-SUFFIX,ele.me,Domestic
 
 
 

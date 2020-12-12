@@ -48,6 +48,9 @@ payload:
   - DOMAIN-SUFFIX,sspai.com
 
 
+  # ele.me
+  # .me exception
+  - DOMAIN-SUFFIX,ele.me
 
 
 
