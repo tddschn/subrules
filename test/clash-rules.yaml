@@ -294,6 +294,12 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# inoreader.com
+- DOMAIN-SUFFIX,inoreader.com,Proxy
+
+# reeder
+- DOMAIN-SUFFIX,reederapp.com,Proxy
+
 # setapp
 - DOMAIN-SUFFIX,setapp.com,Proxy
 - DOMAIN-SUFFIX,devmate.com,Proxy
