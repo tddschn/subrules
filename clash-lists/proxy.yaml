@@ -214,8 +214,13 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # 9gag
+  - DOMAIN-SUFFIX,9cache.com
+  - DOMAIN-SUFFIX,9gag.com
+
   # inoreader.com
   - DOMAIN-SUFFIX,inoreader.com
+  - DOMAIN-SUFFIX,innologica.com
 
   # reeder
   - DOMAIN-SUFFIX,reederapp.com
@@ -727,4 +732,4 @@ payload:
   ## unclear sites
   - DOMAIN-SUFFIX,aaxads.com
 
-
+  - DOMAIN-SUFFIX,chzbgr.com

@@ -294,8 +294,13 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# 9gag
+- DOMAIN-SUFFIX,9cache.com,Proxy
+- DOMAIN-SUFFIX,9gag.com,Proxy
+
 # inoreader.com
 - DOMAIN-SUFFIX,inoreader.com,Proxy
+- DOMAIN-SUFFIX,innologica.com,Proxy
 
 # reeder
 - DOMAIN-SUFFIX,reederapp.com,Proxy
@@ -807,7 +812,7 @@
 ## unclear sites
 - DOMAIN-SUFFIX,aaxads.com,Proxy
 
-
+- DOMAIN-SUFFIX,chzbgr.com,Proxy
 ## This config file is auto generated from coresponding Surge rules
 
 # taobao
