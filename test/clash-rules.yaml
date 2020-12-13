@@ -292,6 +292,11 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# setapp
+- DOMAIN-SUFFIX,setapp.com,Proxy
+- DOMAIN-SUFFIX,devmate.com,Proxy
+- DOMAIN-SUFFIX,macpaw.com,Proxy
+
 # tutanota.com
 - DOMAIN-SUFFIX,tutanota.com,Proxy
 
