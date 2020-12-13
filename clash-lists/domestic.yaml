@@ -54,4 +54,12 @@ payload:
 
 
 
+  # qunar
+  - DOMAIN-SUFFIX,qunar.com
+  - DOMAIN-SUFFIX,qunarzz.com
+
+  # ctrip
+  - DOMAIN-SUFFIX,c-ctrip.com
+  - DOMAIN-SUFFIX,ctrip.com
+
 

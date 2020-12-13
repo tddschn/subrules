@@ -66,6 +66,14 @@
 
 
 
+# qunar
+- DOMAIN-SUFFIX,qunar.com,Domestic
+- DOMAIN-SUFFIX,qunarzz.com,Domestic
+
+# ctrip
+- DOMAIN-SUFFIX,c-ctrip.com,Domestic
+- DOMAIN-SUFFIX,ctrip.com,Domestic
+
 
 ## This config file is auto generated from coresponding Surge rules
 
