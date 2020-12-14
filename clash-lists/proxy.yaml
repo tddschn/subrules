@@ -735,3 +735,6 @@ payload:
   - DOMAIN-SUFFIX,aaxads.com
 
   - DOMAIN-SUFFIX,chzbgr.com
+
+  - DOMAIN-SUFFIX,hs-scripts.com
+  - DOMAIN-SUFFIX,hs-banner.com

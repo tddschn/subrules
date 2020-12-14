@@ -820,6 +820,9 @@
 - DOMAIN-SUFFIX,aaxads.com,Proxy
 
 - DOMAIN-SUFFIX,chzbgr.com,Proxy
+
+- DOMAIN-SUFFIX,hs-scripts.com,Proxy
+- DOMAIN-SUFFIX,hs-banner.com,Proxy
 ## This config file is auto generated from coresponding Surge rules
 
 # taobao
