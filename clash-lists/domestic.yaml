@@ -8,6 +8,9 @@ payload:
   # aliwangwang
   # PROCESS-NAME,/Applications/AliWangwang.app/Contents/MacOS/Aliwangwang
 
+  # PROCESS-NAME,v2ray
+  # PROCESS-NAME,ss-local
+
 
   # ipip.net
   # used with curl

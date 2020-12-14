@@ -5,6 +5,9 @@ AND,((PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat),(NOT,((DOMAIN
 # aliwangwang
 PROCESS-NAME,/Applications/AliWangwang.app/Contents/MacOS/Aliwangwang
 
+PROCESS-NAME,v2ray
+PROCESS-NAME,ss-local
+
 
 # ipip.net
 # used with curl
