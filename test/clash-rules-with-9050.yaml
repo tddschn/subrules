@@ -586,7 +586,7 @@
 - DOMAIN-SUFFIX,github.io,Proxy
 - DOMAIN-SUFFIX,github.dev,Proxy
 - DOMAIN-SUFFIX,githubassets.com,Proxy
-sdsgithubusercontent.com
+- DOMAIN-SUFFIX,githubusercontent.com,Proxy
 - DOMAIN-KEYWORD,github,Proxy
 ## container registry
 - DOMAIN-KEYWORD,ghcr.io,Proxy
