@@ -579,6 +579,10 @@
 - DOMAIN-SUFFIX,gitbook.com,Proxy
 - DOMAIN-SUFFIX,gitbook.org,Proxy
 
+# docker
+- DOMAIN-SUFFIX,docker.com,Proxy
+- DOMAIN-SUFFIX,docker.io,Proxy
+
 # github
 - DOMAIN-SUFFIX,github.com,Proxy
 - DOMAIN-SUFFIX,github.io,Proxy

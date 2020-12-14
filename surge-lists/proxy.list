@@ -493,6 +493,10 @@ DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,gitbook.org
 
+# docker
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+
 # github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
