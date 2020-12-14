@@ -497,6 +497,7 @@ DOMAIN-SUFFIX,gitbook.org
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,githubassets.com
 DOMAIN-KEYWORD,github
 ## container registry
 DOMAIN-KEYWORD,ghcr.io
