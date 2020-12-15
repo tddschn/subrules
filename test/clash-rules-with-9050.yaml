@@ -299,6 +299,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# qz
+- DOMAIN-SUFFIX,qz.com,Proxy
+
 # crdroid.net
 - DOMAIN-SUFFIX,crdroid.net,Proxy
 
