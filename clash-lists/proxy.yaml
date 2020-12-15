@@ -621,6 +621,9 @@ payload:
   # gcp
   - DOMAIN-SUFFIX,cloudfunctions.net
 
+  # chrome
+  - DOMAIN-SUFFIX,crbug.com
+
   # dropbox
   - DOMAIN-SUFFIX,dropboxapi.com
   - DOMAIN-SUFFIX,dropbox.com
