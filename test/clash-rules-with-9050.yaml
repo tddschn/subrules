@@ -299,6 +299,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# crdroid.net
+- DOMAIN-SUFFIX,rdroid.net,Proxy
+
 # xda-developers.com
 - DOMAIN-SUFFIX,xda-developers.com,Proxy
 
