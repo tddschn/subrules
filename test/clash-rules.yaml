@@ -297,6 +297,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# xda-developers.com
+- DOMAIN-SUFFIX,xda-developers.com,Proxy
+
 # 9gag
 - DOMAIN-SUFFIX,9cache.com,Proxy
 - DOMAIN-SUFFIX,9gag.com,Proxy

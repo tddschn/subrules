@@ -214,6 +214,9 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # xda-developers.com
+  - DOMAIN-SUFFIX,xda-developers.com
+
   # 9gag
   - DOMAIN-SUFFIX,9cache.com
   - DOMAIN-SUFFIX,9gag.com
