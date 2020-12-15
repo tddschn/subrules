@@ -238,6 +238,8 @@
 - DOMAIN-SUFFIX,tw,Proxy
 - DOMAIN-SUFFIX,jp,Proxy
 - DOMAIN-SUFFIX,kr,Proxy
+- DOMAIN-SUFFIX,vn,Proxy
+- DOMAIN-SUFFIX,lt,Proxy
 - DOMAIN-SUFFIX,pl,Proxy
 - DOMAIN-SUFFIX,ms,Proxy
 - DOMAIN-SUFFIX,lv,Proxy
