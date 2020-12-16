@@ -855,8 +855,8 @@
 
 # social media
 ## reddit
-- DOMAIN-SUFFIX,reddit.com,Proxy
 # PROCESS-NAME,/Applications/Curiosity.app/Contents/MacOS/Curiosity
+- DOMAIN-SUFFIX,reddit.com,Proxy
 
 ## twitter
 - DOMAIN-SUFFIX,twitter.com,Proxy
