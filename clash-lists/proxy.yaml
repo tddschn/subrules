@@ -498,6 +498,12 @@ payload:
   - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-SUFFIX,aws
 
+  # vultr
+  - DOMAIN-SUFFIX,vultr.com
+
+  # digitalocean.com
+  - DOMAIN-SUFFIX,digitalocean.com
+
   # apple
   - DOMAIN-SUFFIX,apple.com.cn
   - DOMAIN-SUFFIX,apple.com

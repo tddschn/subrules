@@ -583,6 +583,12 @@
 - DOMAIN-SUFFIX,amazon.com,Proxy
 - DOMAIN-SUFFIX,aws,Proxy
 
+# vultr
+- DOMAIN-SUFFIX,vultr.com,Proxy
+
+# digitalocean.com
+- DOMAIN-SUFFIX,digitalocean.com,Proxy
+
 # apple
 - DOMAIN-SUFFIX,apple.com.cn,Proxy
 - DOMAIN-SUFFIX,apple.com,Proxy
