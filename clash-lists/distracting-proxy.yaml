@@ -2,7 +2,11 @@ payload:
   ## This config file is auto generated from coresponding Surge rules
 
   # social media
+  ## reddit
   - DOMAIN-SUFFIX,reddit.com
+  # PROCESS-NAME,/Applications/Curiosity.app/Contents/MacOS/Curiosity
+
+  ## twitter
   - DOMAIN-SUFFIX,twitter.com
 
   # streaming
