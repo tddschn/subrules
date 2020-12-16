@@ -216,6 +216,9 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # darksky
+  - DOMAIN-SUFFIX,darksky.net
+
   # qz
   - DOMAIN-SUFFIX,qz.com
 

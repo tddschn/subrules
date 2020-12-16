@@ -299,6 +299,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# darksky
+- DOMAIN-SUFFIX,darksky.net,Proxy
+
 # qz
 - DOMAIN-SUFFIX,qz.com,Proxy
 
