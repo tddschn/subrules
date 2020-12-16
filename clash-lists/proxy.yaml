@@ -291,6 +291,9 @@ payload:
   # snipaste
   - DOMAIN-SUFFIX,snipaste.com
 
+  # xcodereleases.com
+  - DOMAIN-SUFFIX,xcodereleases.com
+
   # alfred
   - DOMAIN-SUFFIX,alfredapp.com
   - DOMAIN-SUFFIX,alfredforum.com

@@ -376,6 +376,9 @@
 # snipaste
 - DOMAIN-SUFFIX,snipaste.com,Proxy
 
+# xcodereleases.com
+- DOMAIN-SUFFIX,xcodereleases.com,Proxy
+
 # alfred
 - DOMAIN-SUFFIX,alfredapp.com,Proxy
 - DOMAIN-SUFFIX,alfredforum.com,Proxy
