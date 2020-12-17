@@ -301,6 +301,10 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# jupyter
+## cocalc.com
+- DOMAIN-SUFFIX,cocalc.com,Proxy
+
 # darksky
 - DOMAIN-SUFFIX,darksky.net,Proxy
 

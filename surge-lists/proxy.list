@@ -213,6 +213,10 @@ DOMAIN-SUFFIX,onlyfans.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# jupyter
+## cocalc.com
+DOMAIN-SUFFIX,cocalc.com
+
 # darksky
 DOMAIN-SUFFIX,darksky.net
 
