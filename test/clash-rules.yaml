@@ -794,6 +794,7 @@
 - DOMAIN-SUFFIX,jsdelivr.net,Proxy
 
 # akamai
+- DOMAIN-KEYWORD,akamai,Proxy
 ## used by Dictionary.app
 - DOMAIN-SUFFIX,akamaiedge.net,Proxy
 

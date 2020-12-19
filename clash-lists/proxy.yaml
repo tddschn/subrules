@@ -711,6 +711,7 @@ payload:
   - DOMAIN-SUFFIX,jsdelivr.net
 
   # akamai
+  - DOMAIN-KEYWORD,akamai
   ## used by Dictionary.app
   - DOMAIN-SUFFIX,akamaiedge.net
 
