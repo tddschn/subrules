@@ -6,6 +6,7 @@ payload:
 
   # ads
   - DOMAIN-SUFFIX,promotion.happy12138.top
+  - DOMAIN-KEYWORD,doubleclick
 
   # block snipaste from accessing the internet
 
