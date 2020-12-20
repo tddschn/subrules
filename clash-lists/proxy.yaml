@@ -630,6 +630,7 @@ payload:
   - DOMAIN-SUFFIX,appspot.com
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,gmail.com
   - DOMAIN-SUFFIX,googleapps.com
   - DOMAIN-SUFFIX,googleusercontent.com

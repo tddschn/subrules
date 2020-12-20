@@ -716,6 +716,7 @@
 - DOMAIN-SUFFIX,appspot.com,Proxy
 - DOMAIN-SUFFIX,google.com,Proxy
 - DOMAIN-SUFFIX,googleapis.com,Proxy
+- DOMAIN-SUFFIX,googleapis.com,Proxy
 - DOMAIN-SUFFIX,gmail.com,Proxy
 - DOMAIN-SUFFIX,googleapps.com,Proxy
 - DOMAIN-SUFFIX,googleusercontent.com,Proxy
