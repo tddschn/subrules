@@ -96,6 +96,7 @@ payload:
   - DOMAIN-SUFFIX,me
   - DOMAIN-SUFFIX,dev
   - DOMAIN-SUFFIX,website
+  - DOMAIN-SUFFIX,xyz
   - DOMAIN-SUFFIX,name
   - DOMAIN-SUFFIX,press
   - DOMAIN-SUFFIX,site
@@ -216,6 +217,9 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # jquery
+  - DOMAIN-SUFFIX,jquery.com
+
   # jupyter
   ## cocalc.com
   - DOMAIN-SUFFIX,cocalc.com

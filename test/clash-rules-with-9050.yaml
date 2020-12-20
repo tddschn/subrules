@@ -181,6 +181,7 @@
 - DOMAIN-SUFFIX,me,Proxy
 - DOMAIN-SUFFIX,dev,Proxy
 - DOMAIN-SUFFIX,website,Proxy
+- DOMAIN-SUFFIX,xyz,Proxy
 - DOMAIN-SUFFIX,name,Proxy
 - DOMAIN-SUFFIX,press,Proxy
 - DOMAIN-SUFFIX,site,Proxy
@@ -301,6 +302,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# jquery
+- DOMAIN-SUFFIX,jquery.com,Proxy
+
 # jupyter
 ## cocalc.com
 - DOMAIN-SUFFIX,cocalc.com,Proxy
