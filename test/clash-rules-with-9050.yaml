@@ -237,6 +237,7 @@
 - DOMAIN-SUFFIX,be,Proxy
 - DOMAIN-SUFFIX,nd,Proxy
 - DOMAIN-SUFFIX,de,Proxy
+- DOMAIN-SUFFIX,ch,Proxy
 - DOMAIN-SUFFIX,fr,Proxy
 - DOMAIN-SUFFIX,au,Proxy
 - DOMAIN-SUFFIX,nz,Proxy
