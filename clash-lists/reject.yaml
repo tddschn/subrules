@@ -5,7 +5,7 @@ payload:
   - DOMAIN-SUFFIX,canva.cn
 
   # block nvidia mlcn site
-  - DOMAIN-SUFFIX,nvidia.cn
+  # DOMAIN-SUFFIX,nvidia.cn
 
   # ads
   - DOMAIN-SUFFIX,promotion.happy12138.top

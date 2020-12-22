@@ -4,7 +4,7 @@
 - DOMAIN-SUFFIX,canva.cn,AdBlock
 
 # block nvidia mlcn site
-- DOMAIN-SUFFIX,nvidia.cn,AdBlock
+# DOMAIN-SUFFIX,nvidia.cn
 
 # ads
 - DOMAIN-SUFFIX,promotion.happy12138.top,AdBlock
