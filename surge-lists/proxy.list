@@ -168,6 +168,7 @@ DOMAIN-SUFFIX,nl
 DOMAIN-SUFFIX,ml
 DOMAIN-SUFFIX,hr
 DOMAIN-SUFFIX,tv
+DOMAIN-SUFFIX,id
 
 DOMAIN-SUFFIX,tf
 DOMAIN-SUFFIX,rs
@@ -259,6 +260,9 @@ DOMAIN-SUFFIX,appshopper.com
 
 # culturedcode.com
 DOMAIN-SUFFIX,culturedcode.com
+
+# threema (3ma)
+DOMAIN-KEYWORD,threema
 
 # zulipchat.com
 DOMAIN-SUFFIX,zulip.com

@@ -255,6 +255,7 @@
 - DOMAIN-SUFFIX,ml,Proxy
 - DOMAIN-SUFFIX,hr,Proxy
 - DOMAIN-SUFFIX,tv,Proxy
+- DOMAIN-SUFFIX,id,Proxy
 
 - DOMAIN-SUFFIX,tf,Proxy
 - DOMAIN-SUFFIX,rs,Proxy
@@ -346,6 +347,9 @@
 
 # culturedcode.com
 - DOMAIN-SUFFIX,culturedcode.com,Proxy
+
+# threema (3ma)
+- DOMAIN-KEYWORD,threema,Proxy
 
 # zulipchat.com
 - DOMAIN-SUFFIX,zulip.com,Proxy
