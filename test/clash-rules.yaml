@@ -354,6 +354,12 @@
 # threema (3ma)
 - DOMAIN-KEYWORD,threema,Proxy
 
+# nvidia
+- DOMAIN-SUFFIX,nvidia.com,Proxy
+
+# canva
+- DOMAIN-SUFFIX,canva.com,Proxy
+
 # zulipchat.com
 - DOMAIN-SUFFIX,zulip.com,Proxy
 - DOMAIN-SUFFIX,zulipchat.com,Proxy

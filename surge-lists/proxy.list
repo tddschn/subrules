@@ -264,6 +264,12 @@ DOMAIN-SUFFIX,culturedcode.com
 # threema (3ma)
 DOMAIN-KEYWORD,threema
 
+# nvidia
+DOMAIN-SUFFIX,nvidia.com
+
+# canva
+DOMAIN-SUFFIX,canva.com
+
 # zulipchat.com
 DOMAIN-SUFFIX,zulip.com
 DOMAIN-SUFFIX,zulipchat.com
