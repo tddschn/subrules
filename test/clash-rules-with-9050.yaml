@@ -769,6 +769,8 @@
 # lichess.org
 - DOMAIN-SUFFIX,lichess.org,Proxy
 
+- DOMAIN-KEYWORD,chess,Proxy
+
 # objective-see.com
 - DOMAIN-SUFFIX,objective-see.com,Proxy
 

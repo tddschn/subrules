@@ -677,6 +677,8 @@ DOMAIN-SUFFIX,chess.com
 # lichess.org
 DOMAIN-SUFFIX,lichess.org
 
+DOMAIN-KEYWORD,chess
+
 # objective-see.com
 DOMAIN-SUFFIX,objective-see.com
 
