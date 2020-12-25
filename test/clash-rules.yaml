@@ -93,6 +93,8 @@
 
 # ## experimental
 - DOMAIN-KEYWORD,cdn,Proxy
+# DOMAIN-KEYWORD,asset
+
 
 # ---------------
 # apps----
@@ -768,6 +770,9 @@
 - DOMAIN-SUFFIX,lichess.org,Proxy
 
 - DOMAIN-KEYWORD,chess,Proxy
+
+# typeform
+- DOMAIN-SUFFIX,typeform.com,Proxy
 
 # objective-see.com
 - DOMAIN-SUFFIX,objective-see.com,Proxy

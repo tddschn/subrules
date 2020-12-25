@@ -6,6 +6,8 @@ payload:
 
   # ## experimental
   - DOMAIN-KEYWORD,cdn
+  # DOMAIN-KEYWORD,asset
+
 
   # ---------------
   # apps----
@@ -681,6 +683,9 @@ payload:
   - DOMAIN-SUFFIX,lichess.org
 
   - DOMAIN-KEYWORD,chess
+
+  # typeform
+  - DOMAIN-SUFFIX,typeform.com
 
   # objective-see.com
   - DOMAIN-SUFFIX,objective-see.com

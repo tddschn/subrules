@@ -3,6 +3,8 @@ NOT,((OR,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
 
 # ## experimental
 DOMAIN-KEYWORD,cdn
+# DOMAIN-KEYWORD,asset
+
 
 # ---------------
 # apps----
@@ -678,6 +680,9 @@ DOMAIN-SUFFIX,chess.com
 DOMAIN-SUFFIX,lichess.org
 
 DOMAIN-KEYWORD,chess
+
+# typeform
+DOMAIN-SUFFIX,typeform.com
 
 # objective-see.com
 DOMAIN-SUFFIX,objective-see.com
