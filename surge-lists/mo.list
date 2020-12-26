@@ -1,5 +1,7 @@
 # > mo
 # https://github-production-release-asset-2e65be.s3.amazonaws.com/
 DOMAIN-KEYWORD,github-production-release-asset
+DOMAIN-KEYWORD,s3
+
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,cloudfront.net
