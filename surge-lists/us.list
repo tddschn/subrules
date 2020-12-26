@@ -11,3 +11,6 @@ DOMAIN-SUFFIX,census.gov
 
 # avoid BG redirecting
 DOMAIN-SUFFIX,bloomberg.com
+
+# avoiding hcaptcha
+DOMAIN-SUFFIX,remove.bg
