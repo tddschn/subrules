@@ -591,6 +591,9 @@ payload:
   ### images
   - DOMAIN-SUFFIX,cnbcfm.com
 
+  ## reuters
+  - DOMAIN-KEYWORD,reuters
+
   ## hk01 (dns pollution)
   - DOMAIN-SUFFIX,hk01.com
 

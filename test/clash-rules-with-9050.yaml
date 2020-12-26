@@ -680,6 +680,9 @@
 ### images
 - DOMAIN-SUFFIX,cnbcfm.com,Proxy
 
+## reuters
+- DOMAIN-KEYWORD,reuters,Proxy
+
 ## hk01 (dns pollution)
 - DOMAIN-SUFFIX,hk01.com,Proxy
 
