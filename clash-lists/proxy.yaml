@@ -98,6 +98,7 @@ payload:
   - DOMAIN-SUFFIX,me
   - DOMAIN-SUFFIX,dev
   - DOMAIN-SUFFIX,website
+  - DOMAIN-SUFFIX,design
   - DOMAIN-SUFFIX,new
   - DOMAIN-SUFFIX,xyz
   - DOMAIN-SUFFIX,name
