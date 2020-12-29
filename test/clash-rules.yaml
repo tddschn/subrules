@@ -93,6 +93,8 @@
 
 # ## experimental
 - DOMAIN-KEYWORD,cdn,Proxy
+- DOMAIN-KEYWORD,repo,Proxy
+- DOMAIN-KEYWORD,repository,Proxy
 # DOMAIN-KEYWORD,asset
 
 
@@ -310,6 +312,12 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# maven
+- DOMAIN-SUFFIX,maven.org,Proxy
+
+# typesafe
+- DOMAIN-SUFFIX,typesafe.com,Proxy
+
 # jquery
 - DOMAIN-SUFFIX,jquery.com,Proxy
 

@@ -3,6 +3,8 @@ NOT,((OR,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
 
 # ## experimental
 DOMAIN-KEYWORD,cdn
+DOMAIN-KEYWORD,repo
+DOMAIN-KEYWORD,repository
 # DOMAIN-KEYWORD,asset
 
 
@@ -220,6 +222,12 @@ DOMAIN-SUFFIX,onlyfans.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# maven
+DOMAIN-SUFFIX,maven.org
+
+# typesafe
+DOMAIN-SUFFIX,typesafe.com
+
 # jquery
 DOMAIN-SUFFIX,jquery.com
 
