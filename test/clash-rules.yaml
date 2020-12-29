@@ -778,10 +778,11 @@
 ## chess analysis
 - DOMAIN-SUFFIX,chess.com,Proxy
 
-# lichess.org
+## lichess.org
 - DOMAIN-SUFFIX,lichess.org,Proxy
 
 - DOMAIN-KEYWORD,chess,Proxy
+- DOMAIN-KEYWORD,playmagnus,Proxy
 
 # typeform
 - DOMAIN-SUFFIX,typeform.com,Proxy

@@ -691,10 +691,11 @@ payload:
   ## chess analysis
   - DOMAIN-SUFFIX,chess.com
 
-  # lichess.org
+  ## lichess.org
   - DOMAIN-SUFFIX,lichess.org
 
   - DOMAIN-KEYWORD,chess
+  - DOMAIN-KEYWORD,playmagnus
 
   # typeform
   - DOMAIN-SUFFIX,typeform.com
