@@ -76,6 +76,14 @@ payload:
   # Surge
   - DOMAIN-SUFFIX,nssurge.com
 
+  # devbook
+  # PROCESS-NAME,/Applications/Devbook.app/Contents/Frameworks/Devbook Helper.app/Contents/MacOS/Devbook Helper
+
+  # figma
+  # PROCESS-NAME,figma_agent
+  # PROCESS-NAME,/Applications/Figma.app/Contents/Frameworks/Figma Helper.app/Contents/MacOS/Figma Helper
+
+
 
   # ---------------
   # TLD----
@@ -225,6 +233,11 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # figma
+  - DOMAIN-SUFFIX,figma.com
+  - DOMAIN-SUFFIX,clearbit.com
+  - DOMAIN-SUFFIX,clearbitjs.com
+
   # maven
   - DOMAIN-SUFFIX,maven.org
 

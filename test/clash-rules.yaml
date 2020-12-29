@@ -163,6 +163,14 @@
 # Surge
 - DOMAIN-SUFFIX,nssurge.com,Proxy
 
+# devbook
+# PROCESS-NAME,/Applications/Devbook.app/Contents/Frameworks/Devbook Helper.app/Contents/MacOS/Devbook Helper
+
+# figma
+# PROCESS-NAME,figma_agent
+# PROCESS-NAME,/Applications/Figma.app/Contents/Frameworks/Figma Helper.app/Contents/MacOS/Figma Helper
+
+
 
 # ---------------
 # TLD----
@@ -312,6 +320,11 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# figma
+- DOMAIN-SUFFIX,figma.com,Proxy
+- DOMAIN-SUFFIX,clearbit.com,Proxy
+- DOMAIN-SUFFIX,clearbitjs.com,Proxy
+
 # maven
 - DOMAIN-SUFFIX,maven.org,Proxy
 
