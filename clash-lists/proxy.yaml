@@ -421,6 +421,7 @@ payload:
 
   # fandom
   - DOMAIN-SUFFIX,fandom.com
+  - DOMAIN-KEYWORD,wikia
 
   # symfonycasts.com
   - DOMAIN-SUFFIX,symfonycasts.com

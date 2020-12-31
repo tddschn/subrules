@@ -508,6 +508,7 @@
 
 # fandom
 - DOMAIN-SUFFIX,fandom.com,Proxy
+- DOMAIN-KEYWORD,wikia,Proxy
 
 # symfonycasts.com
 - DOMAIN-SUFFIX,symfonycasts.com,Proxy
