@@ -5,6 +5,8 @@ NOT,((OR,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
 DOMAIN-KEYWORD,cdn
 DOMAIN-KEYWORD,repo
 DOMAIN-KEYWORD,repository
+DOMAIN-KEYWORD,support
+DOMAIN-KEYWORD,help
 # DOMAIN-KEYWORD,asset
 
 
@@ -230,6 +232,9 @@ DOMAIN-SUFFIX,onlyfans.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# helpscout.net
+DOMAIN-SUFFIX,helpscout.net
+
 # figma
 DOMAIN-SUFFIX,figma.com
 DOMAIN-SUFFIX,clearbit.com

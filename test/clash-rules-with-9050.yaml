@@ -97,6 +97,8 @@
 - DOMAIN-KEYWORD,cdn,Proxy
 - DOMAIN-KEYWORD,repo,Proxy
 - DOMAIN-KEYWORD,repository,Proxy
+- DOMAIN-KEYWORD,support,Proxy
+- DOMAIN-KEYWORD,help,Proxy
 # DOMAIN-KEYWORD,asset
 
 
@@ -322,6 +324,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# helpscout.net
+- DOMAIN-SUFFIX,helpscout.net,Proxy
+
 # figma
 - DOMAIN-SUFFIX,figma.com,Proxy
 - DOMAIN-SUFFIX,clearbit.com,Proxy
