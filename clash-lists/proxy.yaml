@@ -714,6 +714,8 @@ payload:
   - DOMAIN-SUFFIX,lichess.org
 
   - DOMAIN-KEYWORD,chess
+  - DOMAIN-KEYWORD,tactic
+  - DOMAIN-KEYWORD,tactics
   - DOMAIN-KEYWORD,playmagnus
 
   # typeform

@@ -803,6 +803,8 @@
 - DOMAIN-SUFFIX,lichess.org,Proxy
 
 - DOMAIN-KEYWORD,chess,Proxy
+- DOMAIN-KEYWORD,tactic,Proxy
+- DOMAIN-KEYWORD,tactics,Proxy
 - DOMAIN-KEYWORD,playmagnus,Proxy
 
 # typeform
