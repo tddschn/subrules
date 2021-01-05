@@ -6,6 +6,7 @@ payload:
 
   # ## experimental
   - DOMAIN-KEYWORD,cdn
+  - DOMAIN-KEYWORD,usercontent
   - DOMAIN-KEYWORD,repo
   - DOMAIN-KEYWORD,repository
   - DOMAIN-KEYWORD,support
@@ -235,6 +236,9 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # focusmate.com
+  - DOMAIN-KEYWORD,focusmate
+
   # helpscout.net
   - DOMAIN-SUFFIX,helpscout.net
 

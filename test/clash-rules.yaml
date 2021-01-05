@@ -93,6 +93,7 @@
 
 # ## experimental
 - DOMAIN-KEYWORD,cdn,Proxy
+- DOMAIN-KEYWORD,usercontent,Proxy
 - DOMAIN-KEYWORD,repo,Proxy
 - DOMAIN-KEYWORD,repository,Proxy
 - DOMAIN-KEYWORD,support,Proxy
@@ -322,6 +323,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# focusmate.com
+- DOMAIN-KEYWORD,focusmate,Proxy
+
 # helpscout.net
 - DOMAIN-SUFFIX,helpscout.net,Proxy
 

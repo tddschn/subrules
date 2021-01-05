@@ -3,6 +3,7 @@ NOT,((OR,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
 
 # ## experimental
 DOMAIN-KEYWORD,cdn
+DOMAIN-KEYWORD,usercontent
 DOMAIN-KEYWORD,repo
 DOMAIN-KEYWORD,repository
 DOMAIN-KEYWORD,support
@@ -232,6 +233,9 @@ DOMAIN-SUFFIX,onlyfans.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# focusmate.com
+DOMAIN-KEYWORD,focusmate
+
 # helpscout.net
 DOMAIN-SUFFIX,helpscout.net
 
