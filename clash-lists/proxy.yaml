@@ -236,6 +236,12 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # heroku
+  - DOMAIN-KEYWORD,heroku
+
+  # firebase
+  - DOMAIN-KEYWORD,firebase
+
   # focusmate.com
   - DOMAIN-KEYWORD,focusmate
 
@@ -554,9 +560,11 @@ payload:
 
   # vultr
   - DOMAIN-SUFFIX,vultr.com
+  - DOMAIN-KEYWORD,vultr
 
   # digitalocean.com
   - DOMAIN-SUFFIX,digitalocean.com
+  - DOMAIN-KEYWORD,digitalocean
 
   # apple
   - DOMAIN-SUFFIX,apple.com.cn

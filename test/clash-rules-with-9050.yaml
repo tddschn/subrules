@@ -325,6 +325,12 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# heroku
+- DOMAIN-KEYWORD,heroku,Proxy
+
+# firebase
+- DOMAIN-KEYWORD,firebase,Proxy
+
 # focusmate.com
 - DOMAIN-KEYWORD,focusmate,Proxy
 
@@ -643,9 +649,11 @@
 
 # vultr
 - DOMAIN-SUFFIX,vultr.com,Proxy
+- DOMAIN-KEYWORD,vultr,Proxy
 
 # digitalocean.com
 - DOMAIN-SUFFIX,digitalocean.com,Proxy
+- DOMAIN-KEYWORD,digitalocean,Proxy
 
 # apple
 - DOMAIN-SUFFIX,apple.com.cn,Proxy
