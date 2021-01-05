@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,youtube.com
 
 # github & github pages
+# !! critical infra
 # still have to access github from cli (pushing / cloning / downloading assets)
 # DOMAIN-SUFFIX,github.com
 

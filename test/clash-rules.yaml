@@ -951,6 +951,7 @@
 - DOMAIN-SUFFIX,youtube.com,Proxy
 
 # github & github pages
+# !! critical infra
 # still have to access github from cli (pushing / cloning / downloading assets)
 # DOMAIN-SUFFIX,github.com
 
