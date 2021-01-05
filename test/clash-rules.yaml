@@ -951,8 +951,11 @@
 - DOMAIN-SUFFIX,youtube.com,Proxy
 
 # github & github pages
-- DOMAIN-SUFFIX,github.com,Proxy
-# DOMAIN-SUFFIX,github.io # not only blogs, some are quite important for web browsing experience
+# still have to access github from cli (pushing / cloning / downloading assets)
+# DOMAIN-SUFFIX,github.com
+
+# not only blogs, some are quite important for web browsing experience
+# DOMAIN-SUFFIX,github.io
 
 # hacker news
 - DOMAIN-SUFFIX,news.ycombinator.com,Proxy
