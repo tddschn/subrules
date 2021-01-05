@@ -23,3 +23,4 @@ payload:
 
   # chess
   - DOMAIN-KEYWORD,chess
+  - DOMAIN-KEYWORD,playmagnus
