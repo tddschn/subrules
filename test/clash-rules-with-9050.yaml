@@ -960,3 +960,5 @@
 - DOMAIN-SUFFIX,news.ycombinator.com,Proxy
 - DOMAIN-SUFFIX,news.ycombinator.com,Proxy
 
+# chess
+- DOMAIN-KEYWORD,chess,Proxy

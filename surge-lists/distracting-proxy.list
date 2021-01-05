@@ -18,3 +18,5 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,news.ycombinator.com
 DOMAIN-SUFFIX,news.ycombinator.com
 
+# chess
+DOMAIN-KEYWORD,chess
