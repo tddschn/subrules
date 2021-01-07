@@ -630,7 +630,10 @@
 # waiting for cache forever in google chrome on mac, using global proxy solved this issue (cdn.sspai.com, image)
 # DOMAIN-SUFFIX,sspai.com
 
+# data
 - DOMAIN-KEYWORD,data-analysis,Proxy
+- DOMAIN-KEYWORD,dataanalysis,Proxy
+- DOMAIN-KEYWORD,datascience,Proxy
 
 # python
 - DOMAIN-KEYWORD,python,Proxy
