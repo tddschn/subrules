@@ -83,6 +83,9 @@ PROCESS-NAME,/Applications/Devbook.app/Contents/Frameworks/Devbook Helper.app/Co
 PROCESS-NAME,figma_agent
 PROCESS-NAME,/Applications/Figma.app/Contents/Frameworks/Figma Helper.app/Contents/MacOS/Figma Helper
 
+# carrot weather
+PROCESS-NAME,/Applications/CARROTweather.app/Contents/MacOS/CARROTweather
+
 
 
 # ---------------
