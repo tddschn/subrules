@@ -1,4 +1,5 @@
 # add Telegram to Telegram group
 PROCESS-NAME,/Applications/Telegram.app/Contents/MacOS/Telegram
+PROCESS-NAME,/Applications/Telegram.app/Contents/PlugIns/TelegramShare.appex/Contents/MacOS/TelegramShare
 
 
