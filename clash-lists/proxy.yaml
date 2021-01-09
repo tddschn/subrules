@@ -89,6 +89,9 @@ payload:
   # carrot weather
   # PROCESS-NAME,/Applications/CARROTweather.app/Contents/MacOS/CARROTweather
 
+  # bartender 4
+  # PROCESS-NAME,/Applications/Bartender 4.app/Contents/MacOS/Bartender 4
+  - DOMAIN-SUFFIX,macbartender.com
 
 
   # ---------------
@@ -239,6 +242,11 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # geekbench
+  - DOMAIN-SUFFIX,geekbench.com
+  - DOMAIN-SUFFIX,primelabs.com
+
+
   # imazing
   - DOMAIN-KEYWORD,imazing
 
