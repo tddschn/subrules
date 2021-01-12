@@ -520,6 +520,8 @@
 
 # marginnote.com
 - DOMAIN-SUFFIX,marginnote.com,Proxy
+- DOMAIN-SUFFIX,marginstudy.com,Proxy
+- DOMAIN-KEYWORD,margin,Proxy
 
 # protonmail
 - DOMAIN-SUFFIX,protonmail.com,Proxy

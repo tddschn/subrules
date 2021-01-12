@@ -430,6 +430,8 @@ DOMAIN-SUFFIX,hackerone.com
 
 # marginnote.com
 DOMAIN-SUFFIX,marginnote.com
+DOMAIN-SUFFIX,marginstudy.com
+DOMAIN-KEYWORD,margin
 
 # protonmail
 DOMAIN-SUFFIX,protonmail.com
