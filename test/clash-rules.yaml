@@ -93,6 +93,7 @@
 
 # ## experimental
 - DOMAIN-KEYWORD,cdn,Proxy
+- DOMAIN-KEYWORD,mirror,Proxy
 - DOMAIN-KEYWORD,usercontent,Proxy
 - DOMAIN-KEYWORD,repo,Proxy
 - DOMAIN-KEYWORD,repository,Proxy
@@ -329,6 +330,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# koddos.net
+- DOMAIN-KEYWORD,koddos.net,Proxy
+
 # geekbench
 - DOMAIN-SUFFIX,geekbench.com,Proxy
 - DOMAIN-SUFFIX,primelabs.com,Proxy

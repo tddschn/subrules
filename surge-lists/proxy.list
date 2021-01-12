@@ -3,6 +3,7 @@ NOT,((OR,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
 
 # ## experimental
 DOMAIN-KEYWORD,cdn
+DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,usercontent
 DOMAIN-KEYWORD,repo
 DOMAIN-KEYWORD,repository
@@ -239,6 +240,9 @@ DOMAIN-SUFFIX,onlyfans.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# koddos.net
+DOMAIN-KEYWORD,koddos.net
+
 # geekbench
 DOMAIN-SUFFIX,geekbench.com
 DOMAIN-SUFFIX,primelabs.com
