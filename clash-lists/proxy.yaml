@@ -738,6 +738,10 @@ payload:
   # chrome
   - DOMAIN-SUFFIX,crbug.com
 
+  # nest
+  - DOMAIN-SUFFIX,nest.com
+  - DOMAIN-SUFFIX,rollbar.com
+
   # dropbox
   - DOMAIN-SUFFIX,dropboxapi.com
   - DOMAIN-SUFFIX,dropbox.com

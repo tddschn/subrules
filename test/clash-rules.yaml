@@ -825,6 +825,10 @@
 # chrome
 - DOMAIN-SUFFIX,crbug.com,Proxy
 
+# nest
+- DOMAIN-SUFFIX,nest.com,Proxy
+- DOMAIN-SUFFIX,rollbar.com,Proxy
+
 # dropbox
 - DOMAIN-SUFFIX,dropboxapi.com,Proxy
 - DOMAIN-SUFFIX,dropbox.com,Proxy
