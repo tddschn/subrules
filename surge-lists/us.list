@@ -18,3 +18,6 @@ DOMAIN-SUFFIX,remove.bg
 
 # avoid redirecting to the .hk site
 DOMAIN-SUFFIX,gettyimages.com
+
+# avoid hk redir
+DOMAIN-SUFFIX,yahoo.com
