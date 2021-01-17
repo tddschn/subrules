@@ -12,6 +12,7 @@ payload:
   - DOMAIN-KEYWORD,repository
   - DOMAIN-KEYWORD,support
   - DOMAIN-KEYWORD,help
+  - DOMAIN-KEYWORD,draw
   # DOMAIN-KEYWORD,asset
 
 
@@ -243,6 +244,9 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # excalidraw.com
+  - DOMAIN-SUFFIX,excalidraw.com
+
   # koddos.net
   - DOMAIN-KEYWORD,koddos.net
 

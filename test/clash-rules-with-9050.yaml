@@ -101,6 +101,7 @@
 - DOMAIN-KEYWORD,repository,Proxy
 - DOMAIN-KEYWORD,support,Proxy
 - DOMAIN-KEYWORD,help,Proxy
+- DOMAIN-KEYWORD,draw,Proxy
 # DOMAIN-KEYWORD,asset
 
 
@@ -332,6 +333,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# excalidraw.com
+- DOMAIN-SUFFIX,excalidraw.com,Proxy
+
 # koddos.net
 - DOMAIN-KEYWORD,koddos.net,Proxy
 
