@@ -25,6 +25,8 @@
 # PROCESS-NAME,v2ray
 # PROCESS-NAME,ss-local
 
+# general keywords
+# haitao
 
 # ipip.net
 # used with curl
@@ -60,6 +62,10 @@
 # alibaba
 ## fliggy - travel service
 - DOMAIN-SUFFIX,fliggy.com,Domestic
+
+# kaola.com
+- DOMAIN-KEYWORD,kaola.com,Domestic
+- DOMAIN-KEYWORD,kaolacdn.com,Domestic
 
 # sspai
 - DOMAIN-SUFFIX,sspai.com,Domestic

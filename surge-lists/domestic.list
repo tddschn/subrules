@@ -8,6 +8,8 @@ PROCESS-NAME,/Applications/AliWangwang.app/Contents/MacOS/Aliwangwang
 PROCESS-NAME,v2ray
 PROCESS-NAME,ss-local
 
+# general keywords
+# haitao
 
 # ipip.net
 # used with curl
@@ -43,6 +45,10 @@ IP-CIDR,202.112.150.0/24,no-resolve
 # alibaba
 ## fliggy - travel service
 DOMAIN-SUFFIX,fliggy.com
+
+# kaola.com
+DOMAIN-KEYWORD,kaola.com
+DOMAIN-KEYWORD,kaolacdn.com
 
 # sspai
 DOMAIN-SUFFIX,sspai.com
