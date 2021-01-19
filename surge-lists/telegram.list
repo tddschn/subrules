@@ -2,4 +2,7 @@
 PROCESS-NAME,/Applications/Telegram.app/Contents/MacOS/Telegram
 PROCESS-NAME,/Applications/Telegram.app/Contents/PlugIns/TelegramShare.appex/Contents/MacOS/TelegramShare
 
+# telegram lite from app store (a cross-platform app)
+PROCESS-NAME,/Applications/Telegram Lite.app/Contents/MacOS/Telegram Lite
+
 
