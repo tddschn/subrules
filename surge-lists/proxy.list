@@ -5,6 +5,8 @@ NOT,((OR,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
 DOMAIN-KEYWORD,cdn
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,usercontent
+DOMAIN-KEYWORD,assets
+DOMAIN-KEYWORD,asset
 DOMAIN-KEYWORD,repo
 DOMAIN-KEYWORD,repository
 DOMAIN-KEYWORD,support
@@ -230,6 +232,7 @@ DOMAIN-SUFFIX,redditstatic.com
 # finance----
 # ---------------
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-KEYWORD,stripe
 
 
 # ---------------
@@ -241,6 +244,9 @@ DOMAIN-SUFFIX,onlyfans.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# timestripe
+DOMAIN-KEYWORD,timestripe.com
+
 # excalidraw.com
 DOMAIN-SUFFIX,excalidraw.com
 

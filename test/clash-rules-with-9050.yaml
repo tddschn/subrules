@@ -103,6 +103,8 @@
 - DOMAIN-KEYWORD,cdn,Proxy
 - DOMAIN-KEYWORD,mirror,Proxy
 - DOMAIN-KEYWORD,usercontent,Proxy
+- DOMAIN-KEYWORD,assets,Proxy
+- DOMAIN-KEYWORD,asset,Proxy
 - DOMAIN-KEYWORD,repo,Proxy
 - DOMAIN-KEYWORD,repository,Proxy
 - DOMAIN-KEYWORD,support,Proxy
@@ -328,6 +330,7 @@
 # finance----
 # ---------------
 - DOMAIN-SUFFIX,stripe.com,Proxy
+- DOMAIN-KEYWORD,stripe,Proxy
 
 
 # ---------------
@@ -339,6 +342,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# timestripe
+- DOMAIN-KEYWORD,timestripe.com,Proxy
+
 # excalidraw.com
 - DOMAIN-SUFFIX,excalidraw.com,Proxy
 

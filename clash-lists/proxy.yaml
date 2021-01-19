@@ -8,6 +8,8 @@ payload:
   - DOMAIN-KEYWORD,cdn
   - DOMAIN-KEYWORD,mirror
   - DOMAIN-KEYWORD,usercontent
+  - DOMAIN-KEYWORD,assets
+  - DOMAIN-KEYWORD,asset
   - DOMAIN-KEYWORD,repo
   - DOMAIN-KEYWORD,repository
   - DOMAIN-KEYWORD,support
@@ -233,6 +235,7 @@ payload:
   # finance----
   # ---------------
   - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-KEYWORD,stripe
 
 
   # ---------------
@@ -244,6 +247,9 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # timestripe
+  - DOMAIN-KEYWORD,timestripe.com
+
   # excalidraw.com
   - DOMAIN-SUFFIX,excalidraw.com
 
