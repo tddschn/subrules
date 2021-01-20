@@ -218,6 +218,9 @@ DOMAIN-SUFFIX,kovidgoyal.net
 # ---------------
 # patches--- fix lhie1/Rules
 # ---------------
+# fix rovio angry birds games
+DOMAIN-KEYWORD,rovio.com
+
 # ali
 ## fix aliwangwang dl speed
 DOMAIN-SUFFIX,alipayobjects.com
