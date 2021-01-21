@@ -250,6 +250,9 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # firecore infuse
+  - DOMAIN-SUFFIX,firecore.com
+
   # timestripe
   - DOMAIN-KEYWORD,timestripe.com
 
