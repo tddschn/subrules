@@ -77,6 +77,10 @@
 # .me exception
 - DOMAIN-SUFFIX,ele.me,Domestic
 
+# meituan
+- DOMAIN-SUFFIX,meituan.net,Domestic
+- DOMAIN-SUFFIX,meituan.com,Domestic
+- DOMAIN-KEYWORD,meituan,Domestic
 
 
 # qunar

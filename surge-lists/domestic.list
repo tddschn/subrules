@@ -58,6 +58,10 @@ DOMAIN-SUFFIX,sspai.com
 # .me exception
 DOMAIN-SUFFIX,ele.me
 
+# meituan
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-KEYWORD,meituan
 
 
 # qunar
