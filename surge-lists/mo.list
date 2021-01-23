@@ -5,3 +5,7 @@ DOMAIN-KEYWORD,s3
 
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,cloudfront.net
+
+# for fasting upgrading marginnote via homebrew
+AND,((DOMAIN-SUFFIX,marginstudy.com),PROCESS-NAME,curl)
+# AND,((DOMAIN-SUFFIX,marginstudy.com),PROCESS-NAME,/usr/bin/curl)
