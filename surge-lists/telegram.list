@@ -5,4 +5,8 @@ PROCESS-NAME,/Applications/Telegram.app/Contents/PlugIns/TelegramShare.appex/Con
 # telegram lite from app store (a cross-platform app)
 PROCESS-NAME,/Applications/Telegram Lite.app/Contents/MacOS/Telegram Lite
 
+# telegram websites and web apps
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,t.me
+
 
