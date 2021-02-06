@@ -48,6 +48,7 @@ payload:
   # alibaba
   ## fliggy - travel service
   - DOMAIN-SUFFIX,fliggy.com
+  - DOMAIN-SUFFIX,aliapp.org
 
   # kaola.com
   - DOMAIN-KEYWORD,kaola.com

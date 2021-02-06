@@ -64,6 +64,7 @@
 # alibaba
 ## fliggy - travel service
 - DOMAIN-SUFFIX,fliggy.com,Domestic
+- DOMAIN-SUFFIX,aliapp.org,Domestic
 
 # kaola.com
 - DOMAIN-KEYWORD,kaola.com,Domestic
