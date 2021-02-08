@@ -197,6 +197,9 @@
 # PROCESS-NAME,/Applications/Bartender 4.app/Contents/MacOS/Bartender 4
 - DOMAIN-SUFFIX,macbartender.com,Proxy
 
+# clubhouse
+- DOMAIN-KEYWORD,clubhouse,Proxy
+# USER-AGENT,Clubhouse*
 
 # ---------------
 # TLD----
