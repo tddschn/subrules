@@ -351,6 +351,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# tailscale
+- DOMAIN-KEYWORD,tailscale,Proxy
+
 # firecore infuse
 - DOMAIN-SUFFIX,firecore.com,Proxy
 

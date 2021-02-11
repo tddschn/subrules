@@ -250,6 +250,9 @@ DOMAIN-SUFFIX,onlyfans.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# tailscale
+DOMAIN-KEYWORD,tailscale
+
 # firecore infuse
 DOMAIN-SUFFIX,firecore.com
 
