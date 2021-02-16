@@ -253,6 +253,12 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # discord
+  - DOMAIN-KEYWORD,discord
+
+  # best buy
+  - DOMAIN-SUFFIX,bestbuy.com
+
   # tailscale
   - DOMAIN-KEYWORD,tailscale
 

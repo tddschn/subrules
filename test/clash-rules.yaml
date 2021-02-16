@@ -351,6 +351,12 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# discord
+- DOMAIN-KEYWORD,discord,Proxy
+
+# best buy
+- DOMAIN-SUFFIX,bestbuy.com,Proxy
+
 # tailscale
 - DOMAIN-KEYWORD,tailscale,Proxy
 
