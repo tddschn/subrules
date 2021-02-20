@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,s3
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,cloudfront.net
 
-# for fasting upgrading marginnote via homebrew
-AND,((DOMAIN-SUFFIX,marginstudy.com),PROCESS-NAME,curl)
-# AND,((DOMAIN-SUFFIX,marginstudy.com),PROCESS-NAME,/usr/bin/curl)
+# for fast upgrading marginnote via homebrew
+# us GIA works the best for marginstudy.com
+AND,((DOMAIN-SUFFIX,marginstudy.com),(PROCESS-NAME,curl))
+# AND,((DOMAIN-SUFFIX,marginstudy.com),(PROCESS-NAME,/usr/bin/curl))
