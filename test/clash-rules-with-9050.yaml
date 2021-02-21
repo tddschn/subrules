@@ -93,6 +93,8 @@
 - DOMAIN-SUFFIX,ctrip.com,Domestic
 
 
+# xiaomi routers
+- DOMAIN,192.168.31.1,Domestic
 ## This config file is auto generated from coresponding Surge rules
 
 # fix lhie1's spotify list
