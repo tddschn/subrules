@@ -878,6 +878,11 @@
 - DOMAIN-SUFFIX,dropbox.com,Proxy
 - DOMAIN-SUFFIX,dropbox.tech,Proxy
 
+# backblaze
+- DOMAIN-SUFFIX,backblaze.com,Proxy
+
+# scaleway
+- DOMAIN-SUFFIX,scaleway.com,Proxy
 
 # chess.com
 ## chess analysis

@@ -775,6 +775,11 @@ DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropbox.tech
 
+# backblaze
+DOMAIN-SUFFIX,backblaze.com
+
+# scaleway
+DOMAIN-SUFFIX,scaleway.com
 
 # chess.com
 ## chess analysis
