@@ -254,7 +254,7 @@ payload:
   # ---------------
   # markk---
   # dji
-dkddji.com
+  - DOMAIN-KEYWORD,dji.com
   # arqbackup.com
   - DOMAIN-KEYWORD,arqbackup
 
