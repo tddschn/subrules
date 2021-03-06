@@ -201,6 +201,10 @@
 - DOMAIN-KEYWORD,clubhouse,Proxy
 # USER-AGENT,Clubhouse*
 
+# btd6
+- DOMAIN-KEYWORD,ninjakiwi,Proxy
+# USER-AGENT,bloonstd6
+
 # ---------------
 # TLD----
 # ---------------

@@ -101,6 +101,10 @@ payload:
   - DOMAIN-KEYWORD,clubhouse
   # USER-AGENT,Clubhouse*
 
+  # btd6
+  - DOMAIN-KEYWORD,ninjakiwi
+  # USER-AGENT,bloonstd6
+
   # ---------------
   # TLD----
   # ---------------
