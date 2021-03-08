@@ -205,6 +205,12 @@
 - DOMAIN-KEYWORD,ninjakiwi,Proxy
 # USER-AGENT,bloonstd6
 
+# discord
+- DOMAIN-KEYWORD,discord,Proxy
+# PROCESS-NAME,/Applications/Discord.app/Contents/Frameworks/Discord Helper.app/Contents/MacOS/Discord Helper
+
+
+
 # ---------------
 # TLD----
 # ---------------
@@ -361,9 +367,6 @@
 - DOMAIN-KEYWORD,dji.com,Proxy
 # arqbackup.com
 - DOMAIN-KEYWORD,arqbackup,Proxy
-
-# discord
-- DOMAIN-KEYWORD,discord,Proxy
 
 # best buy
 - DOMAIN-SUFFIX,bestbuy.com,Proxy

@@ -105,6 +105,12 @@ payload:
   - DOMAIN-KEYWORD,ninjakiwi
   # USER-AGENT,bloonstd6
 
+  # discord
+  - DOMAIN-KEYWORD,discord
+  # PROCESS-NAME,/Applications/Discord.app/Contents/Frameworks/Discord Helper.app/Contents/MacOS/Discord Helper
+
+
+
   # ---------------
   # TLD----
   # ---------------
@@ -261,9 +267,6 @@ payload:
   - DOMAIN-KEYWORD,dji.com
   # arqbackup.com
   - DOMAIN-KEYWORD,arqbackup
-
-  # discord
-  - DOMAIN-KEYWORD,discord
 
   # best buy
   - DOMAIN-SUFFIX,bestbuy.com
