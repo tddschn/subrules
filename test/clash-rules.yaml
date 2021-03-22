@@ -209,6 +209,11 @@
 - DOMAIN-KEYWORD,discord,Proxy
 # PROCESS-NAME,/Applications/Discord.app/Contents/Frameworks/Discord Helper.app/Contents/MacOS/Discord Helper
 
+# session (loki.network)
+- DOMAIN-SUFFIX,getsession.org,Proxy
+# PROCESS-NAME,/Applications/Session.app/Contents/Frameworks/Session Helper (Renderer).app/Contents/MacOS/Session Helper (Renderer)
+
+
 
 
 # ---------------
