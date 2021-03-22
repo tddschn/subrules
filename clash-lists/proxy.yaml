@@ -146,7 +146,6 @@ payload:
   - DOMAIN-SUFFIX,name
   - DOMAIN-SUFFIX,press
   - DOMAIN-SUFFIX,site
-  - DOMAIN-SUFFIX,community
   - DOMAIN-SUFFIX,online
   - DOMAIN-SUFFIX,info
   - DOMAIN-SUFFIX,works
@@ -157,6 +156,10 @@ payload:
   - DOMAIN-SUFFIX,rent
   - DOMAIN-SUFFIX,guide
   - DOMAIN-SUFFIX,community
+  - DOMAIN-SUFFIX,foundation
+  - DOMAIN-SUFFIX,network
+  - DOMAIN-SUFFIX,ngo
+  - DOMAIN-SUFFIX,id
   - DOMAIN-SUFFIX,asia
   - DOMAIN-SUFFIX,eu
   - DOMAIN-SUFFIX,co

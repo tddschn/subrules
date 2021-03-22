@@ -246,7 +246,6 @@
 - DOMAIN-SUFFIX,name,Proxy
 - DOMAIN-SUFFIX,press,Proxy
 - DOMAIN-SUFFIX,site,Proxy
-- DOMAIN-SUFFIX,community,Proxy
 - DOMAIN-SUFFIX,online,Proxy
 - DOMAIN-SUFFIX,info,Proxy
 - DOMAIN-SUFFIX,works,Proxy
@@ -257,6 +256,10 @@
 - DOMAIN-SUFFIX,rent,Proxy
 - DOMAIN-SUFFIX,guide,Proxy
 - DOMAIN-SUFFIX,community,Proxy
+- DOMAIN-SUFFIX,foundation,Proxy
+- DOMAIN-SUFFIX,network,Proxy
+- DOMAIN-SUFFIX,ngo,Proxy
+- DOMAIN-SUFFIX,id,Proxy
 - DOMAIN-SUFFIX,asia,Proxy
 - DOMAIN-SUFFIX,eu,Proxy
 - DOMAIN-SUFFIX,co,Proxy
