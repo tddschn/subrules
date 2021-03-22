@@ -209,6 +209,7 @@
 
 # discord
 - DOMAIN-KEYWORD,discord,Proxy
+# PROCESS-NAME,/Applications/Discord.app/Contents/MacOS/Discord
 # PROCESS-NAME,/Applications/Discord.app/Contents/Frameworks/Discord Helper.app/Contents/MacOS/Discord Helper
 
 # session (loki.network)

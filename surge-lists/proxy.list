@@ -104,6 +104,7 @@ USER-AGENT,bloonstd6
 
 # discord
 DOMAIN-KEYWORD,discord
+PROCESS-NAME,/Applications/Discord.app/Contents/MacOS/Discord
 PROCESS-NAME,/Applications/Discord.app/Contents/Frameworks/Discord Helper.app/Contents/MacOS/Discord Helper
 
 # session (loki.network)
