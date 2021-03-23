@@ -104,7 +104,9 @@ payload:
   # btd6
   - DOMAIN-KEYWORD,ninjakiwi
   # USER-AGENT,bloonstd6
+  # the full path contains username.
   # PROCESS-NAME,/Users/tscp/Library/Application Support/Steam/steamapps/common/BloonsTD6/BloonsTD6.app/Contents/MacOS/BloonsTD6
+  # PROCESS-NAME,BloonsTD6
 
   # discord
   - DOMAIN-KEYWORD,discord
