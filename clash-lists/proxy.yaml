@@ -143,6 +143,7 @@ payload:
   - DOMAIN-SUFFIX,me
   - DOMAIN-SUFFIX,dev
   - DOMAIN-SUFFIX,website
+  - DOMAIN-SUFFIX,one
   - DOMAIN-SUFFIX,design
   - DOMAIN-SUFFIX,new
   - DOMAIN-SUFFIX,xyz

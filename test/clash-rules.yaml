@@ -243,6 +243,7 @@
 - DOMAIN-SUFFIX,me,Proxy
 - DOMAIN-SUFFIX,dev,Proxy
 - DOMAIN-SUFFIX,website,Proxy
+- DOMAIN-SUFFIX,one,Proxy
 - DOMAIN-SUFFIX,design,Proxy
 - DOMAIN-SUFFIX,new,Proxy
 - DOMAIN-SUFFIX,xyz,Proxy
