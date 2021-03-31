@@ -1,11 +1,13 @@
 # > us
-## CL: if zh is in accepted langs, you'll still be redirected to the shanghai CL in zh.
-## try it in incognito mode
-DOMAIN-SUFFIX,craigslist.org
-
+# ---------------
+# regional availibility
+# ---------------
 # google tables, currently only available in the US.
 DOMAIN,tables.area120.google.com
 
+# ---------------
+# blacklisted IPs
+# ---------------
 # fix 'Access denied'
 DOMAIN-SUFFIX,census.gov
 
@@ -16,8 +18,19 @@ DOMAIN-SUFFIX,census.gov
 # avoiding hcaptcha
 DOMAIN-SUFFIX,remove.bg
 
+# know your memes
+dsdknowyourmeme.com
+
+# ---------------
+# regional redirections
+# ---------------
 # avoid redirecting to the .hk site
 DOMAIN-SUFFIX,gettyimages.com
 
 # avoid hk redir
 DOMAIN-SUFFIX,yahoo.com
+
+## CL: if zh is in accepted langs, you'll still be redirected to the shanghai CL in zh.
+## try it in incognito mode
+DOMAIN-SUFFIX,craigslist.org
+
