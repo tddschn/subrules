@@ -858,6 +858,15 @@
 # windows.net is in Special.list
 - DOMAIN-SUFFIX,windows.net,Proxy
 
+## firefox
+### fix the broken rules
+- DOMAIN-SUFFIX,firefox.com,Proxy
+- DOMAIN-SUFFIX,firefox.org,Proxy
+- DOMAIN-SUFFIX,mozilla.com,Proxy
+- DOMAIN-SUFFIX,mozilla.org,Proxy
+- DOMAIN-KEYWORD,mozilla,Proxy
+- DOMAIN-SUFFIX,firefox,Proxy
+
 # goo---
 # google---
 ## google mtalk

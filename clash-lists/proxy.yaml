@@ -756,6 +756,15 @@ payload:
   # windows.net is in Special.list
   - DOMAIN-SUFFIX,windows.net
 
+  ## firefox
+  ### fix the broken rules
+  - DOMAIN-SUFFIX,firefox.com
+  - DOMAIN-SUFFIX,firefox.org
+  - DOMAIN-SUFFIX,mozilla.com
+  - DOMAIN-SUFFIX,mozilla.org
+  - DOMAIN-KEYWORD,mozilla
+  - DOMAIN-SUFFIX,firefox
+
   # goo---
   # google---
   ## google mtalk
