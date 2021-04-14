@@ -8,3 +8,6 @@ AND,((PROCESS-NAME,/Applications/Surge.app/Contents/Applications/Surge Dashboard
 # (required by OCR)
 # AND,((PROCESS-NAME,/Applications/MarginNote 3.app/Contents/MacOS/MarginNote 3),(DOMAIN,aip.baidubce.com))
 
+# block steam crash report 
+AND,((PROCESS-NAME,crash_report_sender),(DOMAIN,crash.steampowered.com))
+
