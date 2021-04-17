@@ -273,6 +273,12 @@ DOMAIN-SUFFIX,onlyfans.com
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# manning
+DOMAIN-SUFFIX,manning.com
+
+# oreilly
+DOMAIN-SUFFIX,oreilly.com
+
 # dji
 DOMAIN-KEYWORD,dji.com
 # arqbackup.com

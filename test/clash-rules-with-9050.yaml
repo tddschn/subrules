@@ -378,6 +378,12 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# manning
+- DOMAIN-SUFFIX,manning.com,Proxy
+
+# oreilly
+- DOMAIN-SUFFIX,oreilly.com,Proxy
+
 # dji
 - DOMAIN-KEYWORD,dji.com,Proxy
 # arqbackup.com
