@@ -382,6 +382,12 @@
 # oreilly
 - DOMAIN-SUFFIX,oreilly.com,Proxy
 
+# visual go / visu algo
+- DOMAIN-SUFFIX,visualgo.net,Proxy
+
+# clearlyreader.com
+- DOMAIN-SUFFIX,clearlyreader.com,Proxy
+
 # dji
 - DOMAIN-KEYWORD,dji.com,Proxy
 # arqbackup.com

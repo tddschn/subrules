@@ -282,6 +282,12 @@ payload:
   # oreilly
   - DOMAIN-SUFFIX,oreilly.com
 
+  # visual go / visu algo
+  - DOMAIN-SUFFIX,visualgo.net
+
+  # clearlyreader.com
+  - DOMAIN-SUFFIX,clearlyreader.com
+
   # dji
   - DOMAIN-KEYWORD,dji.com
   # arqbackup.com
