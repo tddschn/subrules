@@ -143,6 +143,7 @@ payload:
   - DOMAIN-SUFFIX,me
   - DOMAIN-SUFFIX,dev
   - DOMAIN-SUFFIX,website
+  - DOMAIN-SUFFIX,ovh
   - DOMAIN-SUFFIX,one
   - DOMAIN-SUFFIX,design
   - DOMAIN-SUFFIX,new
@@ -354,6 +355,9 @@ payload:
 
   ## kaggle.com
   - DOMAIN-SUFFIX,kaggle.com
+
+  ## mybinder
+  - DOMAIN-KEYWORD,mybinder
 
   # darksky
   - DOMAIN-SUFFIX,darksky.net

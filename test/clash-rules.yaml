@@ -243,6 +243,7 @@
 - DOMAIN-SUFFIX,me,Proxy
 - DOMAIN-SUFFIX,dev,Proxy
 - DOMAIN-SUFFIX,website,Proxy
+- DOMAIN-SUFFIX,ovh,Proxy
 - DOMAIN-SUFFIX,one,Proxy
 - DOMAIN-SUFFIX,design,Proxy
 - DOMAIN-SUFFIX,new,Proxy
@@ -454,6 +455,9 @@
 
 ## kaggle.com
 - DOMAIN-SUFFIX,kaggle.com,Proxy
+
+## mybinder
+- DOMAIN-KEYWORD,mybinder,Proxy
 
 # darksky
 - DOMAIN-SUFFIX,darksky.net,Proxy
