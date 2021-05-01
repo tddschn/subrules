@@ -352,6 +352,9 @@ payload:
   ## cocalc.com
   - DOMAIN-SUFFIX,cocalc.com
 
+  ## kaggle.com
+  - DOMAIN-SUFFIX,kaggle.com
+
   # darksky
   - DOMAIN-SUFFIX,darksky.net
 

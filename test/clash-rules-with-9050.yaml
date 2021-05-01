@@ -454,6 +454,9 @@
 ## cocalc.com
 - DOMAIN-SUFFIX,cocalc.com,Proxy
 
+## kaggle.com
+- DOMAIN-SUFFIX,kaggle.com,Proxy
+
 # darksky
 - DOMAIN-SUFFIX,darksky.net,Proxy
 
