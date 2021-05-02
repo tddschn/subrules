@@ -149,6 +149,13 @@
 - DOMAIN-SUFFIX,amplitude.com,Proxy
 # DOMAIN-SUFFIX,amazonaws.com
 
+
+# logseq
+# PROCESS-NAME,/Applications/Logseq.app/Contents/Frameworks/Logseq Helper.app/Contents/MacOS/Logseq Helper
+# PROCESS-NAME,/Applications/Logseq.app/Contents/MacOS/Logseq
+- DOMAIN-KEYWORD,logseq,Proxy
+- DOMAIN-SUFFIX,logseq.com,Proxy
+
 # lulu
 # PROCESS-NAME,/Applications/LuLu.app/Contents/MacOS/LuLu
 

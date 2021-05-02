@@ -44,6 +44,13 @@ DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,amplitude.com
 # DOMAIN-SUFFIX,amazonaws.com
 
+
+# logseq
+PROCESS-NAME,/Applications/Logseq.app/Contents/Frameworks/Logseq Helper.app/Contents/MacOS/Logseq Helper
+PROCESS-NAME,/Applications/Logseq.app/Contents/MacOS/Logseq
+DOMAIN-KEYWORD,logseq
+DOMAIN-SUFFIX,logseq.com
+
 # lulu
 PROCESS-NAME,/Applications/LuLu.app/Contents/MacOS/LuLu
 
