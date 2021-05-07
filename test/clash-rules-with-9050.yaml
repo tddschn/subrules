@@ -156,6 +156,11 @@
 - DOMAIN-KEYWORD,logseq,Proxy
 - DOMAIN-SUFFIX,logseq.com,Proxy
 
+# anki
+# PROCESS-NAME,/Applications/Anki.app/Contents/MacOS/AnkiMac
+- DOMAIN-SUFFIX,ankiweb.net,Proxy
+- DOMAIN-KEYWORD,anki,Proxy
+
 # lulu
 # PROCESS-NAME,/Applications/LuLu.app/Contents/MacOS/LuLu
 

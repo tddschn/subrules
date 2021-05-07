@@ -54,6 +54,11 @@ payload:
   - DOMAIN-KEYWORD,logseq
   - DOMAIN-SUFFIX,logseq.com
 
+  # anki
+  # PROCESS-NAME,/Applications/Anki.app/Contents/MacOS/AnkiMac
+  - DOMAIN-SUFFIX,ankiweb.net
+  - DOMAIN-KEYWORD,anki
+
   # lulu
   # PROCESS-NAME,/Applications/LuLu.app/Contents/MacOS/LuLu
 
