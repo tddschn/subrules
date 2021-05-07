@@ -8,8 +8,11 @@ payload:
   # aliwangwang
   # PROCESS-NAME,/Applications/AliWangwang.app/Contents/MacOS/Aliwangwang
 
-  # PROCESS-NAME,v2ray
+  # proxies
+  ## shadowsocks
   # PROCESS-NAME,ss-local
+  # PROCESS-NAME,clash
+  # PROCESS-NAME,v2ray
 
   # general keywords
   # haitao
