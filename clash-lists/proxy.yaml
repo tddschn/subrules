@@ -604,11 +604,14 @@ payload:
   - DOMAIN-SUFFIX,jsfiddle.net
   - DOMAIN-SUFFIX,jshell.net
 
-  # stackblitz.com
-  - DOMAIN-SUFFIX,stackblitz.com
+  # jsbin
+  - DOMAIN-SUFFIX,jsbin.com
 
   # codepen
   - DOMAIN-SUFFIX,codepen.io
+
+  # stackblitz.com
+  - DOMAIN-SUFFIX,stackblitz.com
 
   # glitch
   - DOMAIN-SUFFIX,glitch.me

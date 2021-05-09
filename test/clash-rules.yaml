@@ -707,11 +707,14 @@
 - DOMAIN-SUFFIX,jsfiddle.net,Proxy
 - DOMAIN-SUFFIX,jshell.net,Proxy
 
-# stackblitz.com
-- DOMAIN-SUFFIX,stackblitz.com,Proxy
+# jsbin
+- DOMAIN-SUFFIX,jsbin.com,Proxy
 
 # codepen
 - DOMAIN-SUFFIX,codepen.io,Proxy
+
+# stackblitz.com
+- DOMAIN-SUFFIX,stackblitz.com,Proxy
 
 # glitch
 - DOMAIN-SUFFIX,glitch.me,Proxy
