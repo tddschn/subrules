@@ -21,6 +21,10 @@ DOMAIN-SUFFIX,remove.bg
 # know your memes
 DOMAIN-SUFFIX,knowyourmeme.com
 
+# bbc
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbc.co.uk
+
 # ---------------
 # regional redirections
 # ---------------
@@ -33,4 +37,5 @@ DOMAIN-SUFFIX,yahoo.com
 ## CL: if zh is in accepted langs, you'll still be redirected to the shanghai CL in zh.
 ## try it in incognito mode
 DOMAIN-SUFFIX,craigslist.org
+
 
