@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,knowyourmeme.com
 # bbc
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
 
 # ---------------
 # regional redirections
