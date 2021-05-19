@@ -29,6 +29,9 @@ DOMAIN-SUFFIX,bbcimg.co.uk
 DOMAIN-SUFFIX,bbc.gscontxt.net
 DOMAIN-SUFFIX,bbcverticals.com
 
+# finance
+DOMAIN-SUFFIX,coinbase.com
+
 # ---------------
 # regional redirections
 # ---------------
