@@ -950,6 +950,7 @@
 
 # backblaze
 - DOMAIN-SUFFIX,backblaze.com,Proxy
+- DOMAIN-SUFFIX,backblazeb2.com,Proxy
 
 # scaleway
 - DOMAIN-SUFFIX,scaleway.com,Proxy

@@ -845,6 +845,7 @@ payload:
 
   # backblaze
   - DOMAIN-SUFFIX,backblaze.com
+  - DOMAIN-SUFFIX,backblazeb2.com
 
   # scaleway
   - DOMAIN-SUFFIX,scaleway.com
