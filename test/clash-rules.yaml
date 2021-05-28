@@ -392,6 +392,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# bombich, ccc
+- DOMAIN-SUFFIX,bombich.com,Proxy
+
 # manning
 - DOMAIN-SUFFIX,manning.com,Proxy
 
