@@ -135,6 +135,10 @@
 # tor browser
 # PROCESS-NAME,/Applications/Tor Browser.app/Contents/MacOS/Tor/tor.real
 
+# tutanota
+# PROCESS-NAME,/Applications/Tutanota Desktop.app/Contents/Frameworks/Tutanota Desktop Helper.app/Contents/MacOS/Tutanota Desktop Helper
+- DOMAIN-SUFFIX,tutanota.com,Proxy
+
 # notion
 # PROCESS-NAME,/Applications/Notion.app/Contents/MacOS/Notion
 # PROCESS-NAME,/Applications/Notion.app/Contents/Frameworks/Notion Helper.app/Contents/MacOS/Notion Helper
@@ -504,9 +508,6 @@
 - DOMAIN-SUFFIX,setapp.com,Proxy
 - DOMAIN-SUFFIX,devmate.com,Proxy
 - DOMAIN-SUFFIX,macpaw.com,Proxy
-
-# tutanota.com
-- DOMAIN-SUFFIX,tutanota.com,Proxy
 
 # appshopper
 - DOMAIN-SUFFIX,appshopper.com,Proxy

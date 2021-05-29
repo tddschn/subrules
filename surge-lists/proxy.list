@@ -29,6 +29,10 @@ PROCESS-NAME,/Applications/Authy Desktop.app/Contents/Frameworks/Authy Desktop H
 # tor browser
 PROCESS-NAME,/Applications/Tor Browser.app/Contents/MacOS/Tor/tor.real
 
+# tutanota
+PROCESS-NAME,/Applications/Tutanota Desktop.app/Contents/Frameworks/Tutanota Desktop Helper.app/Contents/MacOS/Tutanota Desktop Helper
+DOMAIN-SUFFIX,tutanota.com
+
 # notion
 PROCESS-NAME,/Applications/Notion.app/Contents/MacOS/Notion
 PROCESS-NAME,/Applications/Notion.app/Contents/Frameworks/Notion Helper.app/Contents/MacOS/Notion Helper
@@ -398,9 +402,6 @@ DOMAIN-SUFFIX,reederapp.com
 DOMAIN-SUFFIX,setapp.com
 DOMAIN-SUFFIX,devmate.com
 DOMAIN-SUFFIX,macpaw.com
-
-# tutanota.com
-DOMAIN-SUFFIX,tutanota.com
 
 # appshopper
 DOMAIN-SUFFIX,appshopper.com
