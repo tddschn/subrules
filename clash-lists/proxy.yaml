@@ -159,6 +159,8 @@ payload:
   - DOMAIN-SUFFIX,me
   - DOMAIN-SUFFIX,dev
   - DOMAIN-SUFFIX,website
+  - DOMAIN-SUFFIX,company
+  - DOMAIN-SUFFIX,security
   - DOMAIN-SUFFIX,ovh
   - DOMAIN-SUFFIX,one
   - DOMAIN-SUFFIX,design
