@@ -1,4 +1,5 @@
 # fix lhie1's spotify list
 DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,spotify.demdex.net
+DOMAIN-SUFFIX,audio-akp-quic-control-spotify-com.akamaized.net
 

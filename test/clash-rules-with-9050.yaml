@@ -103,6 +103,7 @@
 # fix lhie1's spotify list
 - DOMAIN-SUFFIX,spotifycdn.com,Spotify
 - DOMAIN-SUFFIX,spotify.demdex.net,Spotify
+- DOMAIN-SUFFIX,audio-akp-quic-control-spotify-com.akamaized.net,Spotify
 
 ## This config file is auto generated from coresponding Surge rules
 
