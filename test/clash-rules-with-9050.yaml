@@ -116,7 +116,7 @@
 - DOMAIN-KEYWORD,usercontent,Proxy
 - DOMAIN-KEYWORD,assets,Proxy
 - DOMAIN-KEYWORD,asset,Proxy
-- DOMAIN-KEYWORD,repo,Proxy
+# DOMAIN-KEYWORD,repo
 - DOMAIN-KEYWORD,repository,Proxy
 - DOMAIN-KEYWORD,support,Proxy
 - DOMAIN-KEYWORD,help,Proxy

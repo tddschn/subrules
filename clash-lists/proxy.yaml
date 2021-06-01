@@ -10,7 +10,7 @@ payload:
   - DOMAIN-KEYWORD,usercontent
   - DOMAIN-KEYWORD,assets
   - DOMAIN-KEYWORD,asset
-  - DOMAIN-KEYWORD,repo
+  # DOMAIN-KEYWORD,repo
   - DOMAIN-KEYWORD,repository
   - DOMAIN-KEYWORD,support
   - DOMAIN-KEYWORD,help
