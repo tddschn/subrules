@@ -239,6 +239,8 @@
 - DOMAIN-SUFFIX,getsession.org,Proxy
 # PROCESS-NAME,/Applications/Session.app/Contents/Frameworks/Session Helper (Renderer).app/Contents/MacOS/Session Helper (Renderer)
 
+# burp-suite
+- DOMAIN-SUFFIX,portswigger.net,Proxy
 
 
 
