@@ -98,6 +98,15 @@
 
 # xiaomi routers
 - DOMAIN,192.168.31.1,Domestic
+
+
+
+# ---------------
+# vpns--- vpn---
+# ---------------
+# cisco anyconnect
+# PROCESS-NAME,/Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app/Contents/MacOS/Cisco AnyConnect Secure Mobility Client
+# PROCESS-NAME,/opt/cisco/anyconnect/bin/vpnagentd
 ## This config file is auto generated from coresponding Surge rules
 
 # fix lhie1's spotify list
