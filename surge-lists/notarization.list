@@ -1,0 +1,3 @@
+# disable notarization check for compiled binaries / scripts
+AND,((PROCESS-NAME,/usr/libexec/syspolicyd),(DOMAIN,api.apple-cloudkit.com))
+
