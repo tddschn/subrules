@@ -86,5 +86,5 @@ DOMAIN,192.168.31.1
 # vpns--- vpn---
 # ---------------
 # cisco anyconnect
-PROCESS-NAME,/Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app/Contents/MacOS/Cisco AnyConnect Secure Mobility Client
-PROCESS-NAME,/opt/cisco/anyconnect/bin/vpnagentd
+# PROCESS-NAME,/Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app/Contents/MacOS/Cisco AnyConnect Secure Mobility Client
+# PROCESS-NAME,/opt/cisco/anyconnect/bin/vpnagentd
