@@ -80,6 +80,7 @@ DOMAIN-SUFFIX,ctrip.com
 # xiaomi routers
 DOMAIN,192.168.31.1
 
+DOMAIN-SUFFIX,91mjw.com
 
 
 # ---------------

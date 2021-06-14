@@ -97,6 +97,7 @@
 # xiaomi routers
 - DOMAIN,192.168.31.1,Domestic
 
+- DOMAIN-SUFFIX,91mjw.com,Domestic
 
 
 # ---------------
