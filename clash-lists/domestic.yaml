@@ -84,6 +84,7 @@ payload:
   - DOMAIN,192.168.31.1
 
   - DOMAIN-SUFFIX,91mjw.com
+  - DOMAIN-SUFFIX,91pic.org
 
 
   # ---------------
