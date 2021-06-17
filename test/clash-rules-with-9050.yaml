@@ -184,6 +184,7 @@
 # PROCESS-NAME,/Applications/LuLu.app/Contents/MacOS/LuLu
 
 # vscode
+- DOMAIN-SUFFIX,visualstudio.com,Proxy
 # PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/MacOS/Electron
 # PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper
 # PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer)
