@@ -251,6 +251,7 @@
 
 # burp-suite
 - DOMAIN-SUFFIX,portswigger.net,Proxy
+- DOMAIN-SUFFIX,portswigger-labs.net,Proxy
 
 # borgbackup
 - DOMAIN-SUFFIX,borgbase.com,Proxy

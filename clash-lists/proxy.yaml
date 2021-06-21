@@ -136,6 +136,7 @@ payload:
 
   # burp-suite
   - DOMAIN-SUFFIX,portswigger.net
+  - DOMAIN-SUFFIX,portswigger-labs.net
 
   # borgbackup
   - DOMAIN-SUFFIX,borgbase.com
