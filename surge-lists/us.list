@@ -46,3 +46,7 @@ DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,craigslist.org
 
 
+# ---------------
+# faster downloads
+# ---------------
+DOMAIN-SUFFIX,download.calibre-ebook.com
