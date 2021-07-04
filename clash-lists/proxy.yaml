@@ -851,6 +851,10 @@ payload:
   - DOMAIN-SUFFIX,nest.com
   - DOMAIN-SUFFIX,rollbar.com
 
+  # microsoft
+  ## azure
+  - DOMAIN-SUFFIX,azurestaticapps.net
+
   # dropbox
   - DOMAIN-SUFFIX,dropboxapi.com
   - DOMAIN-SUFFIX,dropbox.com

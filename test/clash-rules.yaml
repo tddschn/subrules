@@ -966,6 +966,10 @@
 - DOMAIN-SUFFIX,nest.com,Proxy
 - DOMAIN-SUFFIX,rollbar.com,Proxy
 
+# microsoft
+## azure
+- DOMAIN-SUFFIX,azurestaticapps.net,Proxy
+
 # dropbox
 - DOMAIN-SUFFIX,dropboxapi.com,Proxy
 - DOMAIN-SUFFIX,dropbox.com,Proxy
