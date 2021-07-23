@@ -919,6 +919,10 @@ DOMAIN-KEYWORD,readthedocs
 # magicplan
 DOMAIN-SUFFIX,magicplan.app
 
+# canonical
+DOMAIN-SUFFIX,ubuntu.com
+
+
 # ---------------
 # cdn----
 # ---------------

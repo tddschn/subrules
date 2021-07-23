@@ -1039,6 +1039,10 @@
 # magicplan
 - DOMAIN-SUFFIX,magicplan.app,Proxy
 
+# canonical
+- DOMAIN-SUFFIX,ubuntu.com,Proxy
+
+
 # ---------------
 # cdn----
 # ---------------
