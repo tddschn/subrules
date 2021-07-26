@@ -239,6 +239,7 @@
 # the full path contains username.
 # PROCESS-NAME,/Users/tscp/Library/Application Support/Steam/steamapps/common/BloonsTD6/BloonsTD6.app/Contents/MacOS/BloonsTD6
 # PROCESS-NAME,BloonsTD6
+- DOMAIN-SUFFIX,unity3d.com,Proxy
 
 # discord
 - DOMAIN-KEYWORD,discord,Proxy
