@@ -50,3 +50,14 @@ DOMAIN-SUFFIX,craigslist.org
 # faster downloads
 # ---------------
 DOMAIN-SUFFIX,download.calibre-ebook.com
+
+
+
+
+# ---------------
+# otherwise inaccessible sites
+# ---------------
+DOMAIN-SUFFIX,mystudentchart.ucsd.edu
+
+
+
