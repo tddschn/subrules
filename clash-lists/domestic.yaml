@@ -41,6 +41,7 @@ payload:
 
   # embassy
   - DOMAIN-SUFFIX,china-embassy.org
+  - DOMAIN-SUFFIX,china-consulate.org
 
   # edu.cn
   - DOMAIN-SUFFIX,edu.cn

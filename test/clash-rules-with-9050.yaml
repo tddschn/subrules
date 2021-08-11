@@ -57,6 +57,7 @@
 
 # embassy
 - DOMAIN-SUFFIX,china-embassy.org,Domestic
+- DOMAIN-SUFFIX,china-consulate.org,Domestic
 
 # edu.cn
 - DOMAIN-SUFFIX,edu.cn,Domestic
