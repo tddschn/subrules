@@ -36,6 +36,9 @@ DOMAIN-SUFFIX,chaoxing.com
 # zhihuishu
 DOMAIN-SUFFIX,zhihuishi.com
 
+# embassy
+DOMAIN-SUFFIX,china-embassy.org
+
 # edu.cn
 DOMAIN-SUFFIX,edu.cn
 ## fudan

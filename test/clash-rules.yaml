@@ -53,6 +53,9 @@
 # zhihuishu
 - DOMAIN-SUFFIX,zhihuishi.com,Domestic
 
+# embassy
+- DOMAIN-SUFFIX,china-embassy.org,Domestic
+
 # edu.cn
 - DOMAIN-SUFFIX,edu.cn,Domestic
 ## fudan
