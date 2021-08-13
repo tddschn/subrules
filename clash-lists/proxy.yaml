@@ -303,6 +303,9 @@ payload:
   # apps--- , projects---- & services---
   # ---------------
   # markk---
+  # AST explorer
+  - DOMAIN-SUFFIX,astexplorer.net
+
   # bombich, ccc
   - DOMAIN-SUFFIX,bombich.com
 

@@ -422,6 +422,9 @@
 # apps--- , projects---- & services---
 # ---------------
 # markk---
+# AST explorer
+- DOMAIN-SUFFIX,astexplorer.net,Proxy
+
 # bombich, ccc
 - DOMAIN-SUFFIX,bombich.com,Proxy
 
