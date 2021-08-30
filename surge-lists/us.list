@@ -5,6 +5,9 @@
 # google tables, currently only available in the US.
 DOMAIN,tables.area120.google.com
 
+# google domains
+DOMAIN,domains.google.com
+
 # ---------------
 # blacklisted IPs
 # ---------------
