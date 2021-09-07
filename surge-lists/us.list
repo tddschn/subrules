@@ -64,3 +64,7 @@ DOMAIN-SUFFIX,mystudentchart.ucsd.edu
 
 
 
+# ---------------
+# bypassing bans
+# ---------------
+DOMAIN-SUFFIX,irc.libera.chat
