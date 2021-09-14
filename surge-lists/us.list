@@ -50,9 +50,10 @@ DOMAIN-SUFFIX,craigslist.org
 
 
 # ---------------
-# faster downloads
+# faster downloads - speed ups
 # ---------------
 DOMAIN-SUFFIX,download.calibre-ebook.com
+DOMAIN-SUFFIX,desktop.docker.com
 
 
 
