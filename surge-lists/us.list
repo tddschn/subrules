@@ -69,3 +69,9 @@ DOMAIN-SUFFIX,mystudentchart.ucsd.edu
 # bypassing bans
 # ---------------
 DOMAIN-SUFFIX,irc.libera.chat
+
+# ---------------
+# shopping sites
+# ---------------
+DOMAIN-SUFFIX,kroger.com
+
