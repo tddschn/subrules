@@ -17,6 +17,9 @@
 # PROCESS-NAME,/Applications/Snipaste.app/Contents/MacOS/Snipaste
 ## This config file is auto generated from coresponding Surge rules
 
+# fudan hotpot (hosted on alibaba cloud shanghai, use US dns, hk dns didn't work)
+- DOMAIN-SUFFIX,fdu-hotpot.top,Domestic
+
 # wechat
 # PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat
 # AND,((PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat),(NOT,((DOMAIN-SUFFIX,githubusercontent.com))))

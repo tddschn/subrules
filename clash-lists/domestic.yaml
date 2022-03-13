@@ -1,6 +1,9 @@
 payload:
   ## This config file is auto generated from coresponding Surge rules
 
+  # fudan hotpot (hosted on alibaba cloud shanghai, use US dns, hk dns didn't work)
+  - DOMAIN-SUFFIX,fdu-hotpot.top
+
   # wechat
   # PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat
   # AND,((PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat),(NOT,((DOMAIN-SUFFIX,githubusercontent.com))))
