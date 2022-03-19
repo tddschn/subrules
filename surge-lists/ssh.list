@@ -1,0 +1,4 @@
+# AND,((DOMAIN-SUFFIX,github.com), (DEST-PORT,22))
+
+# hk HC server doesn't work with port 22 (SSH)
+DEST-PORT,22
