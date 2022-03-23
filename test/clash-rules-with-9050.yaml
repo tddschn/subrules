@@ -80,6 +80,7 @@
 # alibaba
 ## fliggy - travel service
 - DOMAIN-SUFFIX,fliggy.com,Domestic
+- DOMAIN-SUFFIX,feizhu.com,Domestic
 - DOMAIN-SUFFIX,aliapp.org,Domestic
 
 # kaola.com
@@ -107,6 +108,9 @@
 # ctrip
 - DOMAIN-SUFFIX,c-ctrip.com,Domestic
 - DOMAIN-SUFFIX,ctrip.com,Domestic
+
+# xiaohongshu
+- DOMAIN-SUFFIX,xiaohongshu.com,Domestic
 
 
 # xiaomi routers

@@ -61,6 +61,7 @@ IP-CIDR,202.112.150.0/24,no-resolve
 # alibaba
 ## fliggy - travel service
 DOMAIN-SUFFIX,fliggy.com
+DOMAIN-SUFFIX,feizhu.com
 DOMAIN-SUFFIX,aliapp.org
 
 # kaola.com
@@ -88,6 +89,9 @@ DOMAIN-SUFFIX,qunarzz.com
 # ctrip
 DOMAIN-SUFFIX,c-ctrip.com
 DOMAIN-SUFFIX,ctrip.com
+
+# xiaohongshu
+DOMAIN-SUFFIX,xiaohongshu.com
 
 
 # xiaomi routers
