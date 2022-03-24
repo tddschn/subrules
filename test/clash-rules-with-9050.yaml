@@ -17,6 +17,9 @@
 # PROCESS-NAME,/Applications/Snipaste.app/Contents/MacOS/Snipaste
 ## This config file is auto generated from coresponding Surge rules
 
+# apple captive portal
+- DOMAIN-SUFFIX,captive.apple.com,Domestic
+
 # fudan hotpot (hosted on alibaba cloud shanghai, use US dns, hk dns didn't work)
 - DOMAIN-SUFFIX,fdu-hotpot.top,Domestic
 
