@@ -69,6 +69,11 @@
 - DOMAIN-SUFFIX,china-embassy.org,Domestic
 - DOMAIN-SUFFIX,china-consulate.org,Domestic
 
+# fudan danxi
+# tencent server
+- DOMAIN,fduhole.com,Domestic
+# danxi.fduhole.com: github pages
+
 # edu.cn
 - DOMAIN-SUFFIX,edu.cn,Domestic
 ## fudan

@@ -55,6 +55,11 @@ payload:
   - DOMAIN-SUFFIX,china-embassy.org
   - DOMAIN-SUFFIX,china-consulate.org
 
+  # fudan danxi
+  # tencent server
+  - DOMAIN,fduhole.com
+  # danxi.fduhole.com: github pages
+
   # edu.cn
   - DOMAIN-SUFFIX,edu.cn
   ## fudan
