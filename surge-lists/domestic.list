@@ -109,6 +109,10 @@ DOMAIN,192.168.31.1
 DOMAIN-SUFFIX,91mjw.com
 DOMAIN-SUFFIX,91pic.org
 
+# dingdong
+DOMAIN-SUFFIX,ddimg.mobi
+DOMAIN-SUFFIX,ddxq.mobi
+
 
 # ---------------
 # vpns--- vpn---
