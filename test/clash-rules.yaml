@@ -147,9 +147,6 @@
 ## This config file is auto generated from coresponding Surge rules
 
 # ## experimental
-# NOT,((OR,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
-
-# ## experimental
 - DOMAIN-KEYWORD,cdn,Proxy
 - DOMAIN-KEYWORD,mirror,Proxy
 - DOMAIN-KEYWORD,usercontent,Proxy

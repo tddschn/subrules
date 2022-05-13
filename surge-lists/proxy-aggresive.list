@@ -1,0 +1,3 @@
+# ## experimental
+NOT,((OR,((DOMAIN-SUFFIX,cn),(DOMAIN-SUFFIX,com),(DOMAIN-SUFFIX,net))))
+
