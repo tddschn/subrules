@@ -13,6 +13,7 @@ payload:
 
   # voov
   # PROCESS-NAME,/Applications/VooV Meeting.app/Contents/MacOS/VooV Meeting
+  - DOMAIN-SUFFIX,voovmeeting.com
 
   # qq
   # PROCESS-NAME,/Applications/QQ.app/Contents/MacOS/QQ
