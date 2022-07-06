@@ -1,6 +1,9 @@
 # apple captive portal
 DOMAIN-SUFFIX,captive.apple.com
 
+# MS captive portal
+DOMAIN-SUFFIX,www.msftconnecttest.com
+
 # fudan hotpot (hosted on alibaba cloud shanghai, use US dns, hk dns didn't work)
 DOMAIN-SUFFIX,fdu-hotpot.top
 
