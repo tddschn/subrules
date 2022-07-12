@@ -120,6 +120,8 @@ payload:
   - DOMAIN-SUFFIX,ddimg.mobi
   - DOMAIN-SUFFIX,ddxq.mobi
 
+  # alipay
+  - DOMAIN-SUFFIX,alipayobjects.com
 
   # ---------------
   # vpns--- vpn---
