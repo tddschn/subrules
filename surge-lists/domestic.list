@@ -133,3 +133,9 @@ DOMAIN,shdrc.org,DIRECT
 # PROCESS-NAME,/usr/local/Cellar/baidupcs-go/3.8.7/bin/baidupcs-go,DIRECT
 PROCESS-NAME,baidupcs-go,DIRECT
 IP-CIDR,39.105.245.97/32,DIRECT
+
+
+# ---------------
+# dev tools on localhost
+# ---------------
+DOMAIN-SUFFIX,internal,DIRECT

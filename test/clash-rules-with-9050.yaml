@@ -152,6 +152,12 @@
 # PROCESS-NAME,/usr/local/Cellar/baidupcs-go/3.8.7/bin/baidupcs-go,DIRECT
 # PROCESS-NAME,baidupcs-go,DIRECT
 - IP-CIDR,39.105.245.97/32,DIRECT,Domestic
+
+
+# ---------------
+# dev tools on localhost
+# ---------------
+- DOMAIN-SUFFIX,internal,DIRECT,Domestic
 ## This config file is auto generated from coresponding Surge rules
 
 # fix lhie1's spotify list
