@@ -139,3 +139,4 @@ IP-CIDR,39.105.245.97/32
 # dev tools on localhost
 # ---------------
 DOMAIN-SUFFIX,internal
+DOMAIN-SUFFIX,numbers-api
