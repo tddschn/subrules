@@ -142,4 +142,5 @@ payload:
   # dev tools on localhost
   # ---------------
   - DOMAIN-SUFFIX,internal
-  - DOMAIN,numbers-api
+  - DOMAIN,numbers-api,no-resolve
+  # DOMAIN,numbers-api
