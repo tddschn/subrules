@@ -158,7 +158,7 @@
 # dev tools on localhost
 # ---------------
 - DOMAIN-SUFFIX,internal,Domestic
-- DOMAIN-SUFFIX,numbers-api,Domestic
+- DOMAIN,numbers-api,Domestic
 ## This config file is auto generated from coresponding Surge rules
 
 # fix lhie1's spotify list
