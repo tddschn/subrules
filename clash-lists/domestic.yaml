@@ -142,5 +142,8 @@ payload:
   # dev tools on localhost
   # ---------------
   - DOMAIN-SUFFIX,internal
-  - DOMAIN,numbers-api,no-resolve
+
+  # surge will still take over DNS resolution in enhanced mode
+  # just stop trying to do so
+  # DOMAIN,numbers-api,no-resolve
   # DOMAIN,numbers-api

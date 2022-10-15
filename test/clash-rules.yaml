@@ -156,7 +156,10 @@
 # dev tools on localhost
 # ---------------
 - DOMAIN-SUFFIX,internal,Domestic
-- DOMAIN,numbers-api,no-resolve,Domestic
+
+# surge will still take over DNS resolution in enhanced mode
+# just stop trying to do so
+# DOMAIN,numbers-api,no-resolve
 # DOMAIN,numbers-api
 ## This config file is auto generated from coresponding Surge rules
 
