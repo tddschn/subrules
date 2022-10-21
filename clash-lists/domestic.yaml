@@ -67,6 +67,10 @@ payload:
 
   # edu.cn
   - DOMAIN-SUFFIX,edu.cn
+  # com.cn excluding apple
+  # .cn
+  - DOMAIN-SUFFIX,cn
+
   ## fudan
   - IP-CIDR,202.120.224.0/24,no-resolve
   - IP-CIDR,202.120.227.0/24,no-resolve
