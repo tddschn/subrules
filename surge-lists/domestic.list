@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,fdu-hotpot.top
 # wechat
 # PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat
 AND,((PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat),(NOT,((DOMAIN-SUFFIX,githubusercontent.com))))
+PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/Mini Program.app/Contents/MacOS/Mini Program
 
 # voov
 PROCESS-NAME,/Applications/VooV Meeting.app/Contents/MacOS/VooV Meeting
