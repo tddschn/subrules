@@ -671,6 +671,7 @@
 - DOMAIN-SUFFIX,cloudflare.com,Proxy
 - DOMAIN-SUFFIX,cdnjs.com,Proxy
 - DOMAIN-SUFFIX,argotunnel.com,Proxy
+- DOMAIN-KEYWORD,cloudflareaccess,Proxy
 
 # zerossl.com
 - DOMAIN-SUFFIX,zerossl.com,Proxy

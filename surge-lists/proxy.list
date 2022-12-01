@@ -494,6 +494,7 @@ DOMAIN-SUFFIX,sourcegraph.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cdnjs.com
 DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-KEYWORD,cloudflareaccess
 
 # zerossl.com
 DOMAIN-SUFFIX,zerossl.com
