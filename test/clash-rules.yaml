@@ -166,6 +166,13 @@
 # just stop trying to do so
 # DOMAIN,numbers-api,no-resolve
 # DOMAIN,numbers-api
+#
+
+
+- DOMAIN-SUFFIX,126.net,Domestic
+- DOMAIN-SUFFIX,126.com,Domestic
+- DOMAIN-SUFFIX,163.net,Domestic
+- DOMAIN-SUFFIX,163.com,Domestic
 ## This config file is auto generated from coresponding Surge rules
 
 # fix lhie1's spotify list

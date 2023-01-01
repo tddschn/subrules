@@ -149,3 +149,10 @@ DOMAIN-SUFFIX,internal
 # just stop trying to do so
 # DOMAIN,numbers-api,no-resolve
 # DOMAIN,numbers-api
+#
+
+
+DOMAIN-SUFFIX,126.net
+DOMAIN-SUFFIX,126.com
+DOMAIN-SUFFIX,163.net
+DOMAIN-SUFFIX,163.com
